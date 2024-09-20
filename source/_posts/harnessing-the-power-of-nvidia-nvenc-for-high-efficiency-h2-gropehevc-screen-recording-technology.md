@@ -1,7 +1,7 @@
 ---
 title: Harnessing the Power of NVIDIA NVENC for High-Efficiency H.2 Grope/HEVC Screen Recording Technology
-date: 2024-09-17 16:36:31
-updated: 2024-09-20 12:16:41
+date: 2024-09-13T20:13:32.322Z
+updated: 2024-09-19T21:23:00.239Z
 tags:
   - product
 categories:
@@ -61,11 +61,25 @@ Action Tutorials
 * The latest Action! version
 * NVIDIA GPU drover R358 or above
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Setting NVIDIA NVENC H.265/HEVC for screen recording
 
  To use NVIDIA NVENC acceleration for H.265/HEVC screen recording start Action! and go to **Video Capture/Recording** tab. Check File format and hardware acceleraction settings and select **MP4 / NVIDIA NVENC HEVC**. If you do not see NVIDIA NVENC HEVC on the list please make sure that your PC meets all NVIDIA NVENC H.265/HEVC hardware acceleration requirements. 
 
 ![NVIDIA NVENC H.265/HEVC recording acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration_h265_hevc_recording.jpg "NVIDIA NVENC H.265/HEVC recording acceleration") 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  H.265/HEVC screen recordings playback
 
@@ -77,8 +91,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

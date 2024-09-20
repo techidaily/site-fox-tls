@@ -1,7 +1,7 @@
 ---
 title: "How to Enable and Use Active Screen Capture Feature: A Comprehensive Guide"
-date: 2024-09-18 16:59:31
-updated: 2024-09-20 11:59:15
+date: 2024-09-15T17:49:02.511Z
+updated: 2024-09-20T00:00:48.276Z
 tags:
   - product
 categories:
@@ -78,6 +78,13 @@ Action Tutorials
 
 ![Mirillis Action! - HUD in active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Active desktop region recording
 
  Press **"Start/stop recording"** button or **F9** hotkey to start Windows desktop recording. 
@@ -100,6 +107,13 @@ Action Tutorials
 
 ![Mirillis Action! - desktop region recording thumbnail](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_region_recording_thumbnail.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Action! includes internal fast player dedicated for video recordings playback. Select your new desktop region recording and use mouse double click on a thumbnail to start video recording playback.
 
 ![Mirillis Action! - desktop region recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_region_recording_playback.jpg) 
@@ -110,13 +124,18 @@ Action Tutorials
 
 ![Mirillis Action! - settings - hide HUD during desktop recording](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_settings_hide_during_desktop_recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
