@@ -1,7 +1,7 @@
 ---
 title: "Professional Horizon AI Framework: Integrating Chakra UI with NextJS by Creative Tim"
-date: 2024-09-28T01:47:29.626Z
-updated: 2024-09-29T20:53:45.230Z
+date: 2024-10-01T21:39:47.149Z
+updated: 2024-10-05T20:20:33.823Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,22 +54,18 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-instruction-manual-for-telegram-desktop-for-2024/"><u>Complete Instruction Manual for Telegram Desktop for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafting-content-that-captivates-and-grows-your-audience/"><u>Crafting Content That Captivates and Grows Your Audience</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-music-and-videos-from-myspace-anywhere-top-tools-for-pc-and-mac-users/"><u>Download Music & Videos From Myspace Anywhere: Top Tools for PC and Mac Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-guide-to-saving-yandex-playlists-and-albums-in-various-formats-for-windowsmac-users/"><u>Easy Guide to Saving Yandex Playlists & Albums in Various Formats for Windows/Mac Users</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/efficient-trail-termination-with-stellar-file-purging-suite-v5-for-windows-default-settings-and-scheduler-included/"><u>Efficient Trail Termination with Stellar File Purging Suite v5 for Windows - Default Settings & Scheduler Included</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-cmt-song-downloads-mp3-and-mp4-format-available-now/"><u>Free CMT Song Downloads - MP3 and MP4 Format Available Now</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gimbal-guide-industrys-favorites-for-2024/"><u>Gimbal Guide Industry's Favorites for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guide-to-converting-flickr-videos-into-multiple-formats-mp4-avi-etc/"><u>Guide to Converting Flickr Videos Into Multiple Formats (MP4, AVI, Etc.)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-lite-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V30 Lite 5G Phone without PIN</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-downloads-how-to-capture-and-store-videos-from-vox-news-as-avi-flv-mkv-and-more/"><u>Mastering Downloads: How to Capture and Store Videos From Vox News as AVI, FLV, MKV & More</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mp3-and-wav-song-saver-easy-billboards-to-audio-files-converter/"><u>MP3 & WAV Song Saver: Easy Billboards to Audio Files Converter</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-and-simple-guide-saving-your-favorite-tmz-reports-as-mp4-mov-or-avi-files-using-the-best-download-tool/"><u>Quick and Simple Guide: Saving Your Favorite TMZ Reports as MP4, MOV or AVI Files Using the Best Download Tool!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fix-for-graphics-enthusiasts-download-and-update-amd-rx-80-drivers/"><u>Quick Fix for Graphics Enthusiasts - Download and Update AMD RX 지오80 Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-eliminate-unwanted-buzz-from-your-speakers/"><u>Quick Fixes: Eliminate Unwanted Buzz From Your Speakers</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-converting-torrents-into-audio-and-video-files-for-macwindows-users/"><u>Step-by-Step Guide: Converting Torrents Into Audio & Video Files for Mac/Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-k70e-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi K70E Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-social-simulacrum-sculpting-constructing-playful-profiles-for-2024/"><u>[New] Social Simulacrum Sculpting Constructing Playful Profiles for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-checking-credentials-on-youtube/"><u>[Updated] In 2024, Checking Credentials on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-best-ways-to-record-webinar-for-2024/"><u>[Updated] The Best Ways to Record Webinar for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-meizu-21-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Meizu 21 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/easy-guide-playing-disney-mirrorverse-seamlessly-on-your-computer/"><u>Easy Guide: Playing Disney Mirrorverse Seamlessly on Your Computer</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/enhancing-user-experience-with-auto-exit-application-updates/"><u>Enhancing User Experience with Auto-Exit Application Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-realtek-microphone-up-and-running-again/"><u>How to Get Your Realtek Microphone Up and Running Again</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/key-characteristics-and-configuration-settings-for-efficient-data-management-systems/"><u>Key Characteristics and Configuration Settings for Efficient Data Management Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cheap-but-powerful-video-editing-software-options-for-2024/"><u>New Cheap but Powerful Video Editing Software Options for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/picking-a-patois-understanding-how-to-utilize-the-choose-language-feature/"><u>Picking a Patois: Understanding How to Utilize the Choose Language Feature</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/playing-lossless-music-on-ios-the-ultimate-tutorial-for-flac-format-mastery/"><u>Playing Lossless Music on iOS: The Ultimate Tutorial for FLAC Format Mastery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-malvertising-a-guide-by-malwarefox/"><u>Understanding Malvertising: A Guide by MalwareFox</u></a></li>
 </ul></div>
 

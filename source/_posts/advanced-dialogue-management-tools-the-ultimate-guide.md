@@ -1,7 +1,7 @@
 ---
 title: "Advanced Dialogue Management Tools: The Ultimate Guide"
-date: 2024-09-25T17:39:19.706Z
-updated: 2024-09-30T04:37:20.042Z
+date: 2024-10-01T18:56:49.252Z
+updated: 2024-10-05T20:36:51.937Z
 tags:
   - user-guide
 categories:
@@ -86,6 +86,13 @@ The Dialog Editor is composed of four sections:
 3. [Control](https://tools.techidaily.com/advancedinstaller/products/)
 4. [Properties](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install Sequence
 
 In the left-side pane, you can see a list of all the dialogs to be used during your package installation, grouped into the following categories: 
@@ -107,43 +114,31 @@ For more information on each category, please follow [Predefined Dialogs](https:
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) or Architect project type.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Testing the maintenance User Interface
 
 ![Test Maintenance UI](https://cdn.advancedinstaller.com/img/toolbar/test-maintenance-ui.png "Test Maintenance UI")Use the \[Test Maintenance UI \] toolbar button or the “Test Maintenance UI” context menu item in the "Dialogs" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Your product is temporarily registered with Windows Installer so the maintenance UI sequence can be tested.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an Enterprise or Architect project type.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new dialog
@@ -155,13 +150,26 @@ For more information on each category, please follow [Predefined Dialogs](https:
 ![Add Dialog](https://cdn.advancedinstaller.com/img/toolbar/dialog-add.png "Add Dialog") Use the [Add Dialog](https://tools.techidaily.com/advancedinstaller/products/) toolbar button, the “Add Dialog...” context menu item or press the+ key while an existing dialog is selected. The newly created dialog will be inserted below the previously selected dialog. This option is enabled only if there are more available dialogs. The “Add Dialog” dialog box will prompt you to select an available dialog. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The are special dialogs after which a new dialog can not be inserted. For example, you can not insert a new dialog after "Ready to Install" (VerifyReadyDlg) dialog, because this would break the installation sequence.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Duplicating a user-defined dialog
 
@@ -185,13 +193,6 @@ Select the dialog you want to export and use the “Move To Repository” contex
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while a dialog is selected. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Because of their importance in the dialog sequence, the following dialogs cannot be removed: _PrepareDlg_, _PatchWelcomeDlg_,_ResumeDlg_, _ProgressDlg_, _ExitDialog_,_MaintenanceTypeDlg_, and _UserRegistrationDlg_.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)To create a minimal setup you can follow our [How do I create a lightweight setup with a single dialog? FAQ](https://tools.techidaily.com/advancedinstaller/products/).
@@ -201,13 +202,6 @@ Select the dialog you want to export and use the “Move To Repository” contex
 Drag and drop the dialog to the new section.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To avoid disrupting the dialog sequence, the following dialogs cannot be moved:_PrepareDlg_, _WelcomeDlg_,_MaitenanceWelcomeDlg_, _PatchWelcomeDlg_,_ResumeDlg_, _VerifyReadyDlg_,_VerifyRepairDlg_, _VerifyRemoveDlg_,_ProgressDlg_, _ExitDialog_,_MaintenanceTypeDlg_, and _UserRegistrationDlg_.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Sharing a dialog
 
@@ -225,6 +219,19 @@ For example, if you conditioned the FolderDlg dialog:_drag & drop_ FolderDlg dia
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The dialogs order in each section represents the order in which the dialogs will be displayed when the installer runs.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Editor
 
 The [Editor](https://tools.techidaily.com/advancedinstaller/products/) allows you to modify the currently selected dialog. You can add or remove controls, change the banner and image, change the displayed strings' text style, etc.
@@ -232,10 +239,10 @@ The [Editor](https://tools.techidaily.com/advancedinstaller/products/) allows yo
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When customizing the **Spring** theme dialogs, to add static text elements, the HTML source pages must be edited. Also, two types of dialogs are provided, one if HTML is present and enabled on the target computer and the "classic Windows Installer" type otherwise. So it is wise to customize both of these types to your needs. For more information, please read the[Add a new dialog when using Spring theme](https://tools.techidaily.com/advancedinstaller/products/) tutorial.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control
@@ -245,13 +252,6 @@ In the [Events Editor](https://tools.techidaily.com/advancedinstaller/products/)
 ## Properties
 
 In the [Properties](https://tools.techidaily.com/advancedinstaller/products/) pane, all the selected dialog's properties of the selected dialog or control are displayed, grouped in categories. You can modify some of them. If the pane is not visible use “Properties” context menu item or press the Ctrl + Enter keys while the focus is on a dialog or control, to display it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -295,17 +295,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-lightning-foldout-sculpting-rapidly-produced-google-collage-pics/"><u>[Updated] Lightning Foldout Sculpting Rapidly Produced Google Collage Pics</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-100-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor 100 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-visual-editors-journey-cropping-content-for-instagram-standout/"><u>2024 Approved The Visual Editor's Journey Cropping Content for Instagram Standout</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-over-20-full-stack-projects-using-vuejs-laravel-and-json-apis-tips-by-creative-tim/"><u>Create Over 20 Full Stack Projects Using Vue.js, Laravel & JSON APIs | Tips by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/creative-tims-black-dashboard-premium-free-bootstrap-4-admin-theme/"><u>Creative Tim's Black Dashboard: Premium, FREE Bootstrap 4 Admin Theme</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/creative-tims-pro-argon-ui-framework-ultimate-design-system-integrating-bootstrap-angular/"><u>Creative Tim's Pro Argon UI Framework: Ultimate Design System Integrating Bootstrap ➡️ Angular</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/enhance-your-project-with-)3-creativetim-flask-starter-kits-and-pre-designed-themes/"><u>Enhance Your Project with >3 CreativeTim Flask Starter Kits & Pre-Designed Themes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-video-cover-updates-on-facebook/"><u>Mastering Video Cover Updates on Facebook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pixel-perfect-review-amd-radeon/"><u>Pixel Perfect Review AMD Radeon</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-methodology-viewing-favorited-and-well-liked-youtube-remarks-for-2024/"><u>Seamless Methodology Viewing Favorited and Well-Liked YouTube Remarks for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/hing-comments-on-youtube/"><u>Searching Comments on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-guide-to-selecting-best-video-grabber-tools/"><u>[New] 2024 Approved Essential Guide to Selecting Best Video Grabber Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-step-by-step-guide-for-creating-channel-trailers-that-convert-viewers-into-customers/"><u>[New] A Step-by-Step Guide for Creating Channel Trailers that Convert Viewers Into Customers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-bridging-fb-videos-to-home-screens-a-prospect/"><u>[New] Bridging FB Videos to Home Screens A Prospect</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>[Updated] Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/autonomous-exposure-control-the-magic-behind-auto-and-smart-hdr-for-2024/"><u>Autonomous Exposure Control The Magic Behind Auto and Smart HDR for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/best-top-6-tools-for-creating-stunning-quote-wallpapers/"><u>Best Top 6 Tools for Creating Stunning Quote Wallpapers</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-v27e-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V27e Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-features-of-net-native-image-selection/"><u>Exploring the Features of .NET Native Image Selection</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/free-to-play-battle-ground-tips-winning-in-pubg-mobile-for-pc-users/"><u>Free-to-Play Battle Ground Tips: Winning in PUBG Mobile for PC Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-facetime-capturing-conversations-live/"><u>Mastering FaceTime Capturing Conversations Live</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-inisections-a-key-to-organized-and-efficient-document-management/"><u>Mastering IniSections: A Key to Organized and Efficient Document Management</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spotlight-on-max-the-ultimate-list-of-documentary-films-for-july-2024/"><u>Spotlight on Max: The Ultimate List of Documentary Films for July 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/tailored-action-sequences-personalize-your-task-management/"><u>Tailored Action Sequences - Personalize Your Task Management</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-free-tools-for-live-streaming-with-a-webcam-compatible-with-windows-and-macos/"><u>Top Free Tools for Live Streaming with a Webcam: Compatible with Windows & macOS</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-comparison-best-white-background-editing-apps-free-vs-paid-for-photos/"><u>Ultimate Comparison: Best White Background Editing Apps (Free Vs. Paid) for Photos</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/unmasking-the-invisible-effective-strategies-for-identifying-espionage-software-on-android-phones/"><u>Unmasking the Invisible: Effective Strategies for Identifying Espionage Software on Android Phones</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/your-first-steps-in-online-broadcasting-via-obs/"><u>Your First Steps in Online Broadcasting via OBS</u></a></li>
 </ul></div>
 

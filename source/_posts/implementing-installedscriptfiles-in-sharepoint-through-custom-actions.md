@@ -1,7 +1,7 @@
 ---
 title: Implementing InstalledScriptFiles in SharePoint Through Custom Actions
-date: 2024-09-23T04:48:44.573Z
-updated: 2024-09-29T19:13:46.248Z
+date: 2024-10-02T16:06:19.149Z
+updated: 2024-10-05T16:11:28.023Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IInstalledScriptFileCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IInstalledScriptFileCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IInstalledScriptFileCustomAction : ICustomAction
 This interface facilitates editing custom action that allows the launching of a script file into execution, but it must be scheduled after the files have been deployed on the target computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -165,10 +165,10 @@ This interface facilitates editing custom action that allows the launching of a 
 **String ActionData** \- Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -210,19 +210,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-laughlounge-app-join-the-meme-revolution/"><u>[New] LaughLounge App - Join the Meme Revolution</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-television-and-social-media-4-ways-to-broadcast-fb-live/"><u>[New] Television & Social Media 4 Ways To Broadcast FB Live</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-new-wave-of-video-editing-with-powerdirector-24/"><u>[Updated] 2024 Approved Unveiling the New Wave of Video Editing with PowerDirector '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-flying-brain-games-top-11-knowledge-channels/"><u>[Updated] High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-blueprint-for-on-screen-dialogues/"><u>[Updated] The Blueprint for On-Screen Dialogues</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-instagram-and-soundtracks-demystifying-legalities/"><u>2024 Approved Instagram & Soundtracks Demystifying Legalities</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/compatibility-guide-reading-flipbuilder-created-ebooks-on-an-apple-ipad-flipbuildercom/"><u>Compatibility Guide: Reading FlipBuilder Created eBooks on an Apple iPad [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-engaging-ipad-magazines-from-pdf-files-with-flippdf-the-power-of-conversion-and-html5-integration/"><u>Create Engaging iPad Magazines From PDF Files with FlipPDF - The Power of Conversion and HTML5 Integration</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/creating-stunning-gradient-backdrops-in-minutes-using-flipbuilders-tools/"><u>Creating Stunning Gradient Backdrops in Minutes Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empowering-customer-interaction-integrating-gpt-and-whatsapp/"><u>Empowering Customer Interaction: Integrating GPT & WhatsApp</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exclusive-argon-dashboard-professional-edition-superior-premium-angular-framework-design-by-creative-tim/"><u>Exclusive Argon Dashboard Professional Edition: Superior Premium Angular Framework Design by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-online-tool-transform-your-images-into-stunning-flipbook-albums-with-just-one-click/"><u>Free Online Tool - Transform Your Images Into Stunning Flipbook Albums with Just One Click!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-modify-button-icon-and-color-in-flipbook-using-flipbuilder/"><u>How to Modify Button Icon & Color in FlipBook Using FlipBuilder</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-livestreaming-titan-face-off/"><u>[Updated] LiveStreaming Titan Face-Off</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigate-the-video-landscape-master-iphoneipad-youtube-uploads/"><u>[Updated] Navigate the Video Landscape Master iPhone/iPad YouTube Uploads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyline-spectacle-top-10-websites-for-dynamic-hdr-images/"><u>2024 Approved Skyline Spectacle Top 10 Websites for Dynamic HDR Images</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/easy-guide-playing-disney-mirrorverse-seamlessly-on-your-computer/"><u>Easy Guide: Playing Disney Mirrorverse Seamlessly on Your Computer</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/efficient-tricks-to-scramble-youtube-playlists-pcphonetv-for-2024/"><u>Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV) for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/enhancing-user-experience-with-auto-exit-application-updates/"><u>Enhancing User Experience with Auto-Exit Application Updates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y78t-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y78t to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/picking-a-patois-understanding-how-to-utilize-the-choose-language-feature/"><u>Picking a Patois: Understanding How to Utilize the Choose Language Feature</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ultimate-list-of-top-ranking-50-free-software-for-restoring-lost-files/"><u>Ultimate List of Top-Ranking 50% Free Software for Restoring Lost Files</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-malvertising-a-guide-by-malwarefox/"><u>Understanding Malvertising: A Guide by MalwareFox</u></a></li>
 </ul></div>
 

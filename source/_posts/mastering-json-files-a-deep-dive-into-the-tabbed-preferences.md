@@ -1,7 +1,7 @@
 ---
 title: "Mastering JSON Files: A Deep Dive Into the 'Tabbed Preferences'"
-date: 2024-09-26T02:26:45.699Z
-updated: 2024-09-30T02:39:49.361Z
+date: 2024-09-29T20:32:26.283Z
+updated: 2024-10-05T17:47:30.759Z
 tags:
   - user-guide
 categories:
@@ -92,16 +92,10 @@ Table of Contents
 ![File Settings](https://cdn.advancedinstaller.com/img/dialog/json-file-settings.png "File Settings")  
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Indent
@@ -109,10 +103,10 @@ Table of Contents
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Note that the indent settings are used both when creating a file from scratch and when updating an existing file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Use
@@ -124,10 +118,10 @@ Specify what type of characters should be used to indent the JSON file.
 Specify the number of characters to be used to indent the JSON file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Encoding
@@ -141,10 +135,10 @@ Select the JSON file encoding. The following options are available:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The specified encoding will be used both in the JSON declaration and when encoding the output file. When a JSON file already exists and is being updated, the changes are made using the detected encoding from the target file, and not the one specified here.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -180,21 +174,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortlessly-create-engaging-youtube-thumbnails/"><u>[New] 2024 Approved Effortlessly Create Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-driving-sales-not-just-views-monetizing-your-social-media-videos/"><u>[New] In 2024, Driving Sales, Not Just Views Monetizing Your Social Media Videos</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-the-screen-3-reasons-to-think-twice-about-metaverse/"><u>Beyond the Screen: 3 Reasons to Think Twice About Metaverse</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-methods-for-switching-from-napster-music-files-to-itunes-mp3-playlist-compatibility-on-macos-and-windows-os/"><u>Easy Methods for Switching From Napster Music Files to iTunes MP3 Playlist Compatibility on macOS and Windows OS</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/extract-and-save-youtube-content-as-multiple-file-types-including-mp3-mp4-avi-easy-methods-for-windows-and-macos-users/"><u>Extract and Save YouTube Content as Multiple File Types Including MP3, MP4, AVI: Easy Methods for Windows & macOS Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-download-diverse-collection-of-escapist-entertainment-games-movies-series-and-more/"><u>Free Download: Diverse Collection of Escapist Entertainment - Games, Movies, Series & More!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-music-downloads-from-emusic-convert-tracks-to-mp3wavaac-formats/"><u>Free Music Downloads From eMusic: Convert Tracks to MP3/WAV/AAC Formats</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/get-video-conversion-downloads-mp4-mov-avi-effortlessly-using-myvidster/"><u>Get Video Conversion Downloads (MP4, MOV, AVI) Effortlessly Using MyVidster.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-edge-40-pro-by-drfone-android/"><u>How to Bypass FRP on Motorola Edge 40 Pro?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-convert-and-save-your-videos-as-mp4-files-from-facebook/"><u>How to Convert and Save Your Videos as MP4 Files From Facebook</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-effortlessly-save-and-convert-yapfiles-videos-as-mp4-mov-or-flv-files-online/"><u>How to Effortlessly Save and Convert YAPfiles Videos as MP4, MOV or FLV Files Online</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2020-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE (2020) to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/l-momentum-in-infographics-2023s-pioneers/"><u>Social Momentum in Infographics - 2023'S Pioneers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-offline-driver-installation-for-windows-systems/"><u>Step-by-Step Guide: Offline Driver Installation for Windows Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transcode-video-flv-en-audio-mp3-gratuite-en-ligne-avec-mp3-converter/"><u>Transcode Vidéo FLV en Audio MP3 Gratuite en Ligne Avec Mp3-Converter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-pngjpeg/"><u>무료 링커 제공 - MOVAVI의 PNG/JPEG 간 오픈소스 이미지 변환 도구</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-scripts-to-screens-your-ultimate-youtube-production-plan/"><u>[Updated] 2024 Approved From Scripts to Screens Your Ultimate YouTube Production Plan</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-maximizing-b-roll-effective-techniques/"><u>2024 Approved Maximizing B-Roll Effective Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/distinguishing-features-ipad-vs-standard-tablets-explained/"><u>Distinguishing Features: IPad vs Standard Tablets Explained</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-art-of-happy-glass-a-comprehensive-guide-to-winning-on-your-computer/"><u>Mastering the Art of 'Happy Glass' - A Comprehensive Guide to Winning on Your Computer</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mcafee-antivirus-a-trusted-protector-or-a-hidden-threat/"><u>McAfee Antivirus: A Trusted Protector or a Hidden Threat?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-fixes-effortless-itunes-integration-on-your-iphone/"><u>Quick Fixes: Effortless iTunes Integration on Your iPhone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-folder-settings-a-guide-to-organizing-file-locations/"><u>Understanding Folder Settings: A Guide to Organizing File Locations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/unlocking-secrets-of-advanced-truthgpt-ai-simultaneously-with-police-raid-exposing-mullvad-vpn-top-free-games-for-your-computer-and-how-to-optimize-performa13/"><u>Unlocking Secrets of Advanced TruthGPT AI: Simultaneously with Police Raid Exposing Mullvad VPN, Top Free Games for Your Computer & How to Optimize Performance with Mechanical Keyboards Explained</u></a></li>
 </ul></div>
 

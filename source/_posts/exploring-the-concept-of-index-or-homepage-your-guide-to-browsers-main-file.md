@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Concept of 'Index' Or Homepage: Your Guide to Browser's Main File"
-date: 2024-09-28T17:36:43.269Z
-updated: 2024-09-29T21:44:07.928Z
+date: 2024-09-29T21:21:08.053Z
+updated: 2024-10-05T20:24:23.795Z
 tags:
   - user-guide
 categories:
@@ -97,38 +97,31 @@ Table of Contents
 
 ![Default document](https://cdn.advancedinstaller.com/img/ui/default-document.png "Default document")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Enable default document
 
 Enable this option to instruct the Web Site or Virtual Directory to automatically serve a default document when no document name is specified in the request. (eg. Default.htm, Default.asp, Default.aspx, index.htm, index.html, Default.html, start.htm, start.html, Default.mspx, index.php, etc.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new web document
 
 Use the \[Add \] button, the “Add” context menu item or press the Insert key while the list control is focused.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Editing a web document
 
 Use the \[Edit \] button, the “Edit” context menu item or press theSpace key while an element from the list control is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing a web document
 
@@ -138,6 +131,13 @@ Use the \[Remove \] button, the “Remove” context menu item or press theDelet
 
 Use the \[Move Up \] button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Decreasing the search priority for a web document
 
 Use the \[Move Down \] button.
@@ -145,10 +145,10 @@ Use the \[Move Down \] button.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For Virtual Directories the Default Document List is an inherited metabase property from the parent Web Site. You can configure a document list only if you need to override the inherited one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -184,18 +184,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-tls.techidaily.com/1-customizable-softui-dashboard-in-django-with-bootstrap-5-integration-by-creative-tim/"><u>1. Customizable SoftUI Dashboard in Django with Bootstrap 5 Integration by Creative Tim</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-image-uploads-on-instagram/"><u>2024 Approved Mastering Image Uploads on Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/internet-download-manageridm/"><u>効果的なファイルダウンロード: Internet Download Manager（IDM）の操作方法について学ぶ</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x6-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X6</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-step-by-step-teachings-on-actions-activations-and-software-updates/"><u>Comprehensive Step-by-Step Teachings on Actions, Activations, & Software Updates</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/harnessing-the-power-of-nvidia-nvenc-for-high-efficiency-h2-gropehevc-screen-recording-technology/"><u>Harnessing the Power of NVIDIA NVENC for High-Efficiency H.2 Grope/HEVC Screen Recording Technology</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-enable-and-use-active-screen-capture-feature-a-comprehensive-guide/"><u>How to Enable and Use Active Screen Capture Feature: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-xr21-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia XR21 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-missing-vcompdll-files-on-your-computer-effective-strategies-and-tips/"><u>Resolving Missing Vcomp.dll Files on Your Computer – Effective Strategies and Tips</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/seamless-streaming-hack-tap-into-ondemandkoreas-library-download-without-limits/"><u>Seamless Streaming Hack: Tap Into OnDemandKorea's Library - Download Without Limits!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-downloading-youtube-audio-in-mp3-format-320kpbs-for-pc-and-mac-enthusiasts/"><u>Step-by-Step Guide: Downloading YouTube Audio in MP3 Format (320Kpbs) for PC and MAC Enthusiasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streaming-stats-how-much-does-pewdiepie-earn-for-2024/"><u>Streaming Stats How Much Does PewDiePie Earn for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-ultimate-podcast-rankings-seo-techniques-uncovered/"><u>[New] 2024 Approved Ultimate Podcast Rankings SEO Techniques Uncovered</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-simplified-guide-to-recording-pc-screens-for-hp-users-for-2024/"><u>[New] Simplified Guide to Recording PC Screens for HP Users for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ninterrupted-access-to-9-premium-christmas-films-enjoyment-at-zero-cost/"><u>[New] Uninterrupted Access to 9 Premium Christmas Films Enjoyment at Zero Cost</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-ten-4k-gaming-laptops-compiled-here/"><u>2024 Approved Top Ten 4K Gaming Laptops Compiled Here</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-sql-database-management-pages/"><u>Comprehensive Guide to SQL Database Management Pages</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/explore-and-organize-your-files-a-guide-to-effective-version-tab-management/"><u>Explore & Organize Your Files - A Guide to Effective Version Tab Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-implemented-accessing-origin-service-restored/"><u>Fix Implemented: Accessing Origin Service Restored</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-accessing-and-editing-filename-search-characteristics/"><u>Guide: Accessing and Editing Filename Search Characteristics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-tip-mastering-the-art-of-video-rotation-with-minimal-steps/"><u>Quick Tip: Mastering the Art of Video Rotation with Minimal Steps</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/smart-assistant-choosing-the-perfect-product-with-our-advanced-selection-chat/"><u>Smart Assistant: Choosing the Perfect Product with Our Advanced Selection Chat</u></a></li>
 </ul></div>
 

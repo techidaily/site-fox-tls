@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Conversations: Unlocking the Power of Targeted Communication"
-date: 2024-09-23T23:41:50.061Z
-updated: 2024-09-30T09:43:41.733Z
+date: 2024-10-04T16:28:38.992Z
+updated: 2024-10-05T18:58:50.047Z
 tags:
   - user-guide
 categories:
@@ -85,16 +85,16 @@ The dialogs defined here don't appear directly in any sequence and cannot be rem
 
 This dialog is displayed when a non fatal error is detected.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### User Exit Dialog (UserExit)
 
 This dialog appears when the user cancels the installation process.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fatal Error Dialog (FatalError)
 
@@ -108,16 +108,16 @@ This dialog appears when the \[Browse... \] button from "FolderDlg" is pressed, 
 
 This dialog is displayed when a "Custom" installation type is selected from the "SetupTypeDlg". It will enable the user to select what features to be installed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disk Space Requirements Dialog (DiskCostDlg)
 
 This dialog displays information about: Disk size, available and required disk space needed by the selected features. The dialog appears by selecting the \[Disk Usage \] button from the "CustomizeDlg" dialog. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Cancel Dialog (CancelDlg)
 
@@ -139,10 +139,16 @@ This dialog appears if a file usage conflict is detected. The list will display 
 * Do not close applications (a reboot will be required)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Out of Disk Space Dialog (OutOfDiskDlg)
@@ -150,16 +156,16 @@ This dialog appears if a file usage conflict is detected. The list will display 
 This dialog appears if the application requires more disk space than is available.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Out of Disk Space Dialog (OutOfRbDiskDlg)
@@ -203,24 +209,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-sign-up-saga-crafting-your-digital-persona-facebook/"><u>[New] 2024 Approved Sign Up Saga Crafting Your Digital Persona (Facebook)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-combining-skypes-ease-with-zooms-advanced-features/"><u>[Updated] In 2024, Combining Skype's Ease with Zoom's Advanced Features</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-steps-to-convert-your-google-play-movies-into-mp4mp3-formats-seamlessly/"><u>1. Steps to Convert Your Google Play Movies Into MP4/MP3 Formats Seamlessly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-birds-bamboo-boogie/"><u>2024 Approved Birds Bamboo Boogie</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-gauging-influence-tracking-metrics-that-predict-igtv-performance/"><u>2024 Approved Gauging Influence Tracking Metrics that Predict IGTV Performance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-transform-photo-editing-with-top-lunapic-hacks/"><u>2024 Approved Transform Photo Editing with Top LunaPic Hacks</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/avoid-clipgrab-limitations-with-allavsoft-the-premier-video-downloading-app-for-both-pc-and-mac-enthusiasts/"><u>Avoid ClipGrab Limitations with Allavsoft: The Premier Video Downloading App for Both PC and MAC Enthusiasts</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/best-alternatives-to-crackle-top-5-streaming-platforms/"><u>Best Alternatives to Crackle: Top 5 Streaming Platforms</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-crystal-clear-visuals-on-the-hisense-50h8f-4k-hdr-smart-television/"><u>Budget-Friendly, Crystal Clear Visuals on the Hisense 50H8F 4K HDR Smart Television</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/capture-and-keep-your-favorite-shows-with-pluzz-downloader-for-ultimate-access-to-french-tv-episodes/"><u>Capture and Keep Your Favorite Shows with Pluzz Downloader for Ultimate Access to French TV Episodes</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-videos-from-opera-desktop-easy-guide-with-opera-media-extractor-tool/"><u>Download Videos From Opera Desktop: Easy Guide with Opera Media Extractor Tool</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-methods-for-switching-from-napster-music-files-to-itunes-mp3-playlist-compatibility-on-macos-and-windows-os/"><u>Easy Methods for Switching From Napster Music Files to iTunes MP3 Playlist Compatibility on macOS and Windows OS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-google-pixel-8-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Google Pixel 8 Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-tecno-spark-go-2024-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Tecno Spark Go (2024) on Mac</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revive-your-wifi-quick-bluetooth-driver-fix-in-win11/"><u>Revive Your WiFi: Quick Bluetooth Driver Fix in Win11</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/streaming-made-easy-get-your-favorite-beacon-live-broadcasts-for-macwindows-devices/"><u>Streaming Made Easy: Get Your Favorite Beacon Live Broadcasts for Mac/Windows Devices!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/three-effective-ways-to-save-myvideo-videos-on-both-windows-and-macos-systems/"><u>Three Effective Ways to Save MyVideo Videos on Both Windows & macOS Systems</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-tutorial-on-saving-viu-shows-as-video-files-in-various-formats/"><u>Ultimate Tutorial on Saving Viu Shows as Video Files in Various Formats</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-cartoon-video-creation-made-easy-top-10-tools-for-beginners/"><u>Updated Cartoon Video Creation Made Easy Top 10 Tools for Beginners</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-insight-the-most-efficient-snipping-software-for-windows/"><u>[New] In 2024, Essential Insight The Most Efficient Snipping Software for WINDOWS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-techniques-for-thriving-in-online-meetings-how-to-be-a-zoom-pro/"><u>[Updated] In 2024, Expert Techniques for Thriving in Online Meetings How to Be a Zoom Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>[Updated] Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unified-platforms-for-sharing-videos/"><u>2024 Approved Unified Platforms for Sharing Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-a15-4g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy A15 4G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-text-formatting-options-tabs-and-beyond/"><u>Exploring Text Formatting Options: Tabs and Beyond</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/fast-track-guide-5-easy-methods-to-watch-videos-at-reduced-speed/"><u>Fast Track Guide: 5 Easy Methods to Watch Videos at Reduced Speed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuit-mp3-conversie-naar-asf-online-de-ultieme-oplossing-met-movavi/"><u>Gratuit MP3-Conversie Naar ASF Online - De Ultieme Oplossing Met Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-duel-for-dominance-physical-vs-virtual-spectacle/"><u>In 2024, Duel for Dominance Physical vs Virtual Spectacle</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/premier-retro-video-editor-tools/"><u>Premier Retro Video Editor Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolved-fixing-the-iphone-sync-issue-with-itunes-error-code-54-post-windows-10-update/"><u>Resolved: Fixing the iPhone Sync Issue with iTunes Error Code -54 Post-Windows 10 Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-auto-brightness-glitches-try-out-these-eight-methods/"><u>Resolving iPhone Auto-Brightness Glitches? Try Out These Eight Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/setting-up-facebook-live-your-roku-route-for-2024/"><u>Setting Up Facebook LIVE Your Roku Route for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-strategies-for-capturing-your-pcs-display-with-ease/"><u>Simple Strategies for Capturing Your PC's Display with Ease</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-setting-up-a-professional-live-stream-for-fortnite-gaming-on-windows-computer/"><u>Step-by-Step Tutorial: Setting Up a Professional Live Stream for Fortnite Gaming on Windows Computer</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-mp3-converter-apps-mp3-rockets-worthy-competitors/"><u>Top MP3 Converter Apps: MP3 Rocket's Worthy Competitors</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-techniques-for-upscaling-images-while-preserving-clarity/"><u>Top Techniques for Upscaling Images While Preserving Clarity</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-rated-audio-transformation-tool-for-windows-10-users/"><u>Top-Rated Audio Transformation Tool for Windows 10 Users</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-utilizing-apowermirror-with-aircast-technology/"><u>Ultimate Guide to Utilizing ApowerMirror with AIRCAST Technology</u></a></li>
 </ul></div>
 

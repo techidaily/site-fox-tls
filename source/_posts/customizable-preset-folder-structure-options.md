@@ -1,7 +1,7 @@
 ---
 title: Customizable Preset Folder Structure Options
-date: 2024-09-28T22:48:33.555Z
-updated: 2024-09-30T10:37:47.261Z
+date: 2024-10-02T20:31:53.294Z
+updated: 2024-10-05T18:02:52.482Z
 tags:
   - user-guide
 categories:
@@ -116,10 +116,10 @@ Table of Contents
 This interface is created as an access point, using getters, for all the predefined folders. It is meant to replicate Advanced Installer Files and Folders graphical interface.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -127,10 +127,10 @@ This interface is created as an access point, using getters, for all the predefi
 IPredefinedFolders : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -202,23 +202,17 @@ IPredefinedFolders : IDispatch
 ![Ipredefinedfolders](https://cdn.advancedinstaller.com/img/powershell-automation/ipredefinedfolders.png "Ipredefinedfolders")  
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -262,16 +256,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-yuneec-typhoon-h-deep-dive-aerial-expert-review/"><u>[New] 2024 Approved Yuneec Typhoon H Deep Dive Aerial Expert Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-masterful-approaches-to-live-sports-video-capture/"><u>[New] In 2024, Masterful Approaches to Live Sports Video Capture</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-secrets-behind-successful-hd-videos-on-social-networks/"><u>[Updated] 2024 Approved The Secrets Behind Successful HD Videos on Social Networks</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-steps-to-convert-your-google-play-movies-into-mp4mp3-formats-seamlessly/"><u>1. Steps to Convert Your Google Play Movies Into MP4/MP3 Formats Seamlessly</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/avoid-clipgrab-limitations-with-allavsoft-the-premier-video-downloading-app-for-both-pc-and-mac-enthusiasts/"><u>Avoid ClipGrab Limitations with Allavsoft: The Premier Video Downloading App for Both PC and MAC Enthusiasts</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/best-alternatives-to-crackle-top-5-streaming-platforms/"><u>Best Alternatives to Crackle: Top 5 Streaming Platforms</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/capture-and-keep-your-favorite-shows-with-pluzz-downloader-for-ultimate-access-to-french-tv-episodes/"><u>Capture and Keep Your Favorite Shows with Pluzz Downloader for Ultimate Access to French TV Episodes</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-videos-from-opera-desktop-easy-guide-with-opera-media-extractor-tool/"><u>Download Videos From Opera Desktop: Easy Guide with Opera Media Extractor Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-successfully-downloading-movies-from-netflix-onto-your-pc/"><u>Guide: Successfully Downloading Movies From Netflix Onto Your PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/insight-dji-paper-bird-goggles-functionality-for-2024/"><u>Insight DJI Paper Bird Goggles Functionality for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-harmony-hub-tech-evolution/"><u>[New] Harmony Hub Tech Evolution</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instamixer-uniting-android-and-ios-photo-sessions-for-2024/"><u>[New] InstaMixer Uniting Android & iOS Photo Sessions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-digital-revival-improving-computerized-vhs-visuals/"><u>2024 Approved Digital Revival Improving Computerized VHS Visuals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-indispensable-top-vr-movie-adventures/"><u>2024 Approved Indispensable Top VR Movie Adventures</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/complete-user-manual-navigating-apowersofts-background-eraser-tool/"><u>Complete User Manual: Navigating Apowersoft's Background Eraser Tool</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/efficient-registry-selection-interface-the-ultimate-guide/"><u>Efficient Registry Selection Interface: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-workflow-with-ai-transforming-chatgpt-into-your-digital-colleague/"><u>Elevating Workflow with AI: Transforming ChatGPT Into Your Digital Colleague</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-basics-of-isoiec-19770-22e09-essential-information-on-software-identification-markers/"><u>Exploring the Basics of ISO/IEC 19770-2:2E09 – Essential Information on Software Identification Markers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-v29-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo V29 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-unveiling-the-path-to-tiktok-on-your-macbook/"><u>In 2024, Unveiling the Path to TikTok on Your MacBook</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/leading-image-editing-programs-top-tools-for-windows-and-macos-users/"><u>Leading Image Editing Programs: Top Tools for Windows & macOS Users</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-service-management-understanding-service-control-settings/"><u>Mastering Service Management: Understanding Service Control Settings</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/optimizing-the-installation-process-with-advanced-pre-install-uis/"><u>Optimizing the Installation Process with Advanced Pre-Install UIs</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/reliable-teamspeak-strategies-for-superior-communication/"><u>Reliable TeamSpeak Strategies for Superior Communication</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-apex-legends-simple-cheat-detection-mishap/"><u>Resolving Apex Legends' Simple Cheat Detection Mishap</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-advanced-features-of-vlc-for-mac-users-for-2024/"><u>Unveiling Advanced Features of VLC for Mac Users for 2024</u></a></li>
 </ul></div>
 

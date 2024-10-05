@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of .NET Native Image Selection
-date: 2024-09-25T02:46:13.424Z
-updated: 2024-09-29T20:38:00.970Z
+date: 2024-10-03T17:24:55.961Z
+updated: 2024-10-05T19:54:52.332Z
 tags:
   - user-guide
 categories:
@@ -81,18 +81,25 @@ Table of Contents
 
 ![.NET Native Image Dialog](https://cdn.advancedinstaller.com/img/dialog/net-native-image.png ".NET Native Image Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scenarios
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Debug
 
 Use this option to generate native images that can be used under a debugger.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Profile
 
@@ -105,10 +112,16 @@ Use this option to generate the minimum number of native images required.
 ## Installation
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Platform
@@ -118,13 +131,6 @@ Use this option to generate the minimum number of native images required.
 * 64-bit native image - Generate native image only for the .NET Framework's 64-bit version.
 * 32-bit and 64-bit native images - Generate native image for both the 32-bit and the 64-bit .NET Framework versions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Priority
 
 * Wait for this native image generation to continue - image generation occurs synchronously during the installation process. This is the highest priority level.
@@ -132,18 +138,18 @@ Use this option to generate the minimum number of native images required.
 * Asynchronous generation - image generation begins after all images with immediate asynchronous priority have been generated.
 * Generate when the computer is idle - image generation occurs when the machine is idle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Dependencies Location
 
 ### Unspecified
 
 Select this option if you don't have any dependencies or you want to let the generator use its default dependencies search mechanism.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use the specified executable assembly's configuration
 
@@ -152,6 +158,13 @@ Since the generator needs to make the same decisions as the loader when binding 
 ### Use specified folder as the application base
 
 Folder used as the application base when locating dependencies.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Generator Version
 
@@ -163,13 +176,6 @@ Here you can specify the supported generator versions of this assembly by select
 The assembly required version will be used in case no version is specified. When specifying a version use the full version string like: 2.0.50727
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Configuration file, Dependencies Base and No Dependencies options as well as Asynchronous or Idle generation priorities are supported by Native Image Generator (NGEN) starting with v2.0\. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -204,22 +210,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-evaluating-best-youtube-extractors-available-on-android/"><u>[New] 2024 Approved Evaluating Best YouTube Extractors Available on Android</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-engage-with-these-top-10-student-oriented-history-channels/"><u>[New] In 2024, Engage with These Top 10 Student-Oriented History Channels</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-making-every-gift-discovery-special/"><u>[New] In 2024, Making Every Gift Discovery Special</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outubes-revenue-revolution-a-practical-guide-for-monetization/"><u>[New] Youtube's Revenue Revolution A Practical Guide for Monetization</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-free-customizable-fashion-lookbook-templates-for-web-designers-begin-your-project-at-flipbuildercom/"><u>1. Free Customizable Fashion Lookbook Templates for Web Designers - Begin Your Project at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-links.techidaily.com/a-compreeved-look-at-effective-spotify-ad-implementation/"><u>A Compreeved Look at Effective Spotify Ad Implementation</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/accelerate-book-browsing-efficient-strategies-using-flipbuilder-tools/"><u>Accelerate Book Browsing: Efficient Strategies Using FlipBuilder Tools</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-f34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy F34 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/bulk-word-doc-to-flash-movie-conversion-free-online-tool/"><u>Bulk Word Doc-to-Flash Movie Conversion: Free Online Tool</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/can-you-preserve-customized-flipbook-settings-in-flipbuilder-for-later-uses/"><u>Can You Preserve Customized Flipbook Settings in FlipBuilder for Later Uses?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/converting-chm-documentation-to-interactive-page-turning-ebooks-with-ease-on-flipbuildercom/"><u>Converting CHM Documentation to Interactive Page-Turning eBooks with Ease on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-interactive-flipbooks-from-your-presentations-at-flipbuildercom/"><u>Create Interactive Flipbooks From Your Presentations at [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-stunning-digital-flipbooks-from-printables-in-seconds-discover-the-magic-of-flip-printer-technology/"><u>Create Stunning Digital Flipbooks From Printables in Seconds - Discover the Magic of Flip Printer Technology.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-your-own-flipbook-from-a-word-document-using-flipbuilder/"><u>Create Your Own Flipbook From a Word Document Using FlipBuilder</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-12-pro-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 12 Pro Stuck at attempting data recovery Loop | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-x8b-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor X8b Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unleash-creative-potential-tips-and-tricks-for-filming-with-logitech-cam/"><u>[New] In 2024, Unleash Creative Potential Tips and Tricks for Filming with Logitech Cam</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-through-time-with-historical-fb-features-device-guide/"><u>[Updated] 2024 Approved Navigating Through Time with Historical FB Features Device Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-effortless-viewing-automatic-playback-of-youtube-videos-on-social-media/"><u>2024 Approved Effortless Viewing Automatic Playback of YouTube Videos on Social Media</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/can-modern-anti-malware-solutions-successfully-clean-up-current-viruses-on-your-device/"><u>Can Modern Anti-Malware Solutions Successfully Clean Up Current Viruses on Your Device?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/closer-look-techniques-for-microsoft-teams-for-2024/"><u>Closer Look Techniques for Microsoft Teams for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/detecting-unwarranted-eavesdropping-signs-of-phone-snooping-exposed/"><u>Detecting Unwarranted Eavesdropping: Signs of Phone Snooping Exposed.</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/discover-10-prime-replacements-for-google-play-on-your-android-device/"><u>Discover 10 Prime Replacements for Google Play on Your Android Device</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/easy-tutorial-on-copying-content-from-your-huawei-p20-phone-to-a-windows-or-mac-pc/"><u>Easy Tutorial on Copying Content From Your Huawei P20 Phone to a Windows or Mac PC</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-strategies-for-optimizing-iupdatetargets/"><u>Effective Strategies for Optimizing IUpdateTargets</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/essential-attributes-of-data-sources-unlocking-optimal-performance/"><u>Essential Attributes of Data Sources: Unlocking Optimal Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-edge-40-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Edge 40 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/seamless-music-video-mp3-converter-and-downloader-for-instant-audio-format-transformation/"><u>Seamless Music Video MP3 Converter & Downloader for Instant Audio Format Transformation!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/side-by-side-showdown-how-does-the-apple-watch-series-9-compare-to-the-fitbit-charge-6/"><u>Side by Side Showdown: How Does the Apple Watch Series 9 Compare to the Fitbit Charge 6?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-restoring-data-from-your-icloud-backup/"><u>Step-by-Step Guide: Restoring Data From Your iCloud Backup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-basics-of-biometrics-explained-what-you-need-to-know/"><u>The Basics of Biometrics Explained - What You Need to Know</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-rated-pdf-scanner-apps-of-2022-your-guide-to-effortlessly-scanning-documents-on-ios/"><u>Top Rated PDF Scanner Apps of 2022: Your Guide to Effortlessly Scanning Documents on iOS</u></a></li>
 </ul></div>
 

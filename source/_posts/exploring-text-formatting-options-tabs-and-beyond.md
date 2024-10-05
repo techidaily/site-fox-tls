@@ -1,7 +1,7 @@
 ---
 title: "Exploring Text Formatting Options: Tabs and Beyond"
-date: 2024-09-28T22:49:12.546Z
-updated: 2024-09-29T21:13:34.309Z
+date: 2024-09-28T20:19:10.700Z
+updated: 2024-10-05T20:18:36.885Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ This page allows you to create new text style or edit existing ones. You can als
 Use the \[New... \], the “New...” context menu item or press the Ins while the list is focused. The [Text Style Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to create a new style. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a text style
@@ -93,10 +93,10 @@ Use the \[New... \], the “New...” context menu item or press the Ins while t
 Use the \[Edit... \], the “Edit...” context menu item or press theSpace while an element is selected. The [Text Style Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit a text style. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a text style
@@ -104,10 +104,10 @@ Use the \[Edit... \], the “Edit...” context menu item or press theSpace whil
 Use the \[Remove \] button, the “Remove” context menu item or press theDel while an element is focused. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting the default style
@@ -115,16 +115,10 @@ Use the \[Remove \] button, the “Remove” context menu item or press theDel w
 Use the \[Set Default \] button or the “Set Default” context menu item while the desired style is selected.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,19 +159,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-your-creativity-crafting-youtube-trailers-in-filmora/"><u>[Updated] In 2024, Channel Your Creativity Crafting YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-reinventing-your-avatar-a-detailed-guide-to-changing-tiktok-handle-for-2024/"><u>[Updated] Reinventing Your Avatar A Detailed Guide to Changing TikTok Handle for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tifying-youtube-shorts-template-design-principles-for-2024/"><u>Demystifying YouTube Shorts Template Design Principles for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-experience-on-windows-7-with-updated-nvidia-geforce-gtx-1080-drivers/"><u>Enhance Your Gaming Experience on Windows 7 with Updated NVIDIA GeForce GTX 1080 Drivers</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-download-diverse-collection-of-escapist-entertainment-games-movies-series-and-more/"><u>Free Download: Diverse Collection of Escapist Entertainment - Games, Movies, Series & More!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-music-downloads-from-emusic-convert-tracks-to-mp3wavaac-formats/"><u>Free Music Downloads From eMusic: Convert Tracks to MP3/WAV/AAC Formats</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/get-video-conversion-downloads-mp4-mov-avi-effortlessly-using-myvidster/"><u>Get Video Conversion Downloads (MP4, MOV, AVI) Effortlessly Using MyVidster.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-convert-and-save-your-videos-as-mp4-files-from-facebook/"><u>How to Convert and Save Your Videos as MP4 Files From Facebook</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-effortlessly-save-and-convert-yapfiles-videos-as-mp4-mov-or-flv-files-online/"><u>How to Effortlessly Save and Convert YAPfiles Videos as MP4, MOV or FLV Files Online</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-save-your-favorite-tokyo-motion-videos-as-high-quality-mp4s/"><u>How to Save Your Favorite Tokyo Motion Videos as High-Quality MP4s</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-redmi-12-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Xiaomi Redmi 12 Unlock Without Password</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-6-effective-ways-of-resizing-your-igtv-videos/"><u>[New] 2024 Approved 6 Effective Ways of Resizing Your IGTV Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-idevice-based-youtube-content-sharing/"><u>[Updated] 2024 Approved Guide to iDevice-Based YouTube Content Sharing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-simplified-techniques-for-blurring-faces-in-pictures/"><u>2024 Approved Simplified Techniques for Blurring Faces in Pictures</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-transform-your-photos-into-masterpieces-with-top-pixlr-techniques/"><u>2024 Approved Transform Your Photos Into Masterpieces with Top Pixlr Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-hurdles-a-guide-for-successful-payments-on-apple-platforms/"><u>Bypassing Hurdles: A Guide for Successful Payments on Apple Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-privacy-and-security-aspects-of-interacting-with-chatgpt/"><u>Evaluating Privacy and Security Aspects of Interacting with ChatGPT</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/fortifying-your-digital-life-a-step-by-step-guide-to-achieving-impervious-computer-safety-through-multi-tier-security/"><u>Fortifying Your Digital Life: A Step-by-Step Guide to Achieving Impervious Computer Safety Through Multi-Tier Security</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/guide-to-the-stellar-file-deleter-version-5-easy-setup-and-routine-data-purge-on-windows-systems/"><u>Guide to the Stellar File Deleter Version 5: Easy Setup & Routine Data Purge on Windows Systems</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-design-one-of-a-kind-registration-tokens-with-easy-steps/"><u>How to Design One-of-a-Kind Registration Tokens with Easy Steps</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ideal-replacements-for-foxit-reader-top-pdf-editors-you-should-try/"><u>Ideal Replacements for Foxit Reader: Top PDF Editors You Should Try</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/persistent-adware-understanding-its-recurrence-and-how-to-prevent-it/"><u>Persistent Adware: Understanding Its Recurrence and How to Prevent It</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-techniques-for-upscaling-images-while-preserving-clarity/"><u>Top Techniques for Upscaling Images While Preserving Clarity</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-video-recording-tools-effective-substitutes-for-camtasia/"><u>Top Video Recording Tools: Effective Substitutes for Camtasia</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to File System Navigation During Software Deployment
-date: 2024-09-26T10:03:39.003Z
-updated: 2024-09-30T11:49:45.534Z
+date: 2024-09-30T19:28:25.125Z
+updated: 2024-10-05T18:59:23.508Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ The files, folders or shortcuts will be placed in one of the[Folders](https://to
 The right pane lists all the files from the selected folder of the left panel, and their details. If a file doesn't exist anymore at the specified location, it will be shown with a question mark icon ![Missing File](https://cdn.advancedinstaller.com/img/gfx/missing-file.png "Missing File") and “???” as its size. You can restore this file by double-clicking it and setting its correct path.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting the Current Feature
@@ -127,39 +127,33 @@ Advanced Installer will create components for the added resources as necessary, 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can further manage your package's organization in the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page. Note that the components created in this page respect the Windows Installer rules and best practices.
 
+![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Visible Members
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The feature is available starting with the Advanced Installer Professional Edition.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This option enables you to filter the members that are displayed on the _Files And Folders_ page by their type. For example, you can only display _Files, Shortcuts, INI Files, Xml Files, Json Files, File Removal operations, File Duplication operations, File Move operations, Temporary Files, Libraries, Text File Updates, File Downloads, Extract Archives_ or any combination of the above elements. To achieve this, click on the_Visible Members_ toolbar button and select from the menu what types of members you want to display.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -222,24 +216,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-dissecting-the-hidden-mechanics-behind-youtubes-popularity-index/"><u>[New] 2024 Approved Dissecting the Hidden Mechanics Behind YouTube's Popularity Index</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-shape-shifting-photos-creating-effective-warps-and-curves-in-ps/"><u>[New] Shape-Shifting Photos Creating Effective Warps & Curves in PS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-screen-capture-apps-for-idevices/"><u>[Updated] 2024 Approved Top Screen Capture Apps for iDevices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-most-reliable-photo-background-alternation-apps/"><u>[Updated] Explore the Most Reliable Photo-Background Alternation Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unforgettable-stop-motion-films-the-top-15-list-for-2024/"><u>[Updated] Unforgettable Stop-Motion Films - The Top 15 List for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-customizable-softui-dashboard-in-django-with-bootstrap-5-integration-by-creative-tim/"><u>1. Customizable SoftUI Dashboard in Django with Bootstrap 5 Integration by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-free-vuejs-admin-panel-template-with-bootstrap-4-designs-explore-the-vue-black-dashboard-at-creative-tim/"><u>1. Free Vue.js Admin Panel Template with Bootstrap 4 Designs: Explore the Vue Black Dashboard at Creative Tim</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>2024 Approved Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/4-and-creative-tims-vue-argon-framework/"><u>4 & Creative Tim's Vue Argon Framework</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/access-your-business-analytics-fast-get-this-free-bootstrap-5-ui-dashboard-from-creative-tim/"><u>Access Your Business Analytics Fast - Get This Free Bootstrap 5 UI Dashboard From Creative Tim!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-argon-cli-based-react-native-template-by-creative-tim-top-quality-free-open-source/"><u>Advanced Argon CLI-Based React Native Template by Creative Tim - Top Quality, Free Open Source</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-bootstrap-form-building-guide-with-creative-tims-expert-tips/"><u>Advanced Bootstrap Form Building Guide with Creative Tim's Expert Tips</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-pro-admin-interface-with-material-ui-react-and-typescript-premium-template-from-creative-tim/"><u>Advanced Pro Admin Interface with Material UI, React & TypeScript - Premium Template From Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-over-20-full-stack-projects-using-vuejs-laravel-and-json-apis-tips-by-creative-tim/"><u>Create Over 20 Full Stack Projects Using Vue.js, Laravel & JSON APIs | Tips by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/creative-tims-black-dashboard-premium-free-bootstrap-4-admin-theme/"><u>Creative Tim's Black Dashboard: Premium, FREE Bootstrap 4 Admin Theme</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-gadgets-and-motherboards-with-expert-advice-from-toms-corner/"><u>Decoding Gadgets and Motherboards with Expert Advice From Tom's Corner</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-sony-digital-camcorder-video-editing-tutorial-for-beginners/"><u>New In 2024, Sony Digital Camcorder Video Editing Tutorial for Beginners</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-the-most-recent-updates-hp-deskjet-2700-printer-driver-software-downloads/"><u>Secure the Most Recent Updates - HP DeskJet 2700 Printer Driver Software Downloads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-lol-recording-three-easy-techniques/"><u>[New] In 2024, Mastering LOL Recording Three Easy Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-what-is-a-watermark-how-to-watermark-your-facebook-photosvideos/"><u>[New] What Is a Watermark? How to Watermark Your Facebook Photos/Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-transforming-your-reel-game-on-instagram-in-days/"><u>[Updated] In 2024, Transforming Your Reel Game on Instagram in Days</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pros-and-cons-gopro-hero-4-vs-drift-ghost-s-racing-edition/"><u>[Updated] Pros & Cons GoPro Hero 4 Vs. Drift Ghost-S Racing Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-virtual-screenscapes-for-streamers/"><u>2024 Approved Ideal Virtual Screenscapes for Streamers</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/explore-the-best-anti-malware-apps-for-your-android-device-a-comprehensive-review/"><u>Explore the Best Anti-Malware Apps for Your Android Device : A Comprehensive Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-galaxy-s8-review-a-leap-forward-with-4k-display/"><u>In 2024, Galaxy S8 Review - A Leap Forward with 4K Display</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-13-mini-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 13 mini online without jailbreak</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/leading-photo-slide-show-software-compatible-with-windows-10-reviews-and-comparisons/"><u>Leading Photo Slide Show Software Compatible with Windows 10 - Reviews & Comparisons</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-complexity-a-deep-dive-into-sophisticated-installer-interface-options/"><u>Mastering the Complexity: A Deep Dive Into Sophisticated Installer Interface Options</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/navigating-the-permissions-tab-in-your-installer-projects/"><u>Navigating the Permissions Tab in Your Installer Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scriptwriting-success-on-youtube-using-chatgpts-ai-technology/"><u>Scriptwriting Success on YouTube Using ChatGPT's AI Technology</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-methods-for-converting-pdf-files-into-excel-spreadsheets-on-your-android-device/"><u>Simple Methods for Converting PDF Files Into Excel Spreadsheets on Your Android Device</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-effectively-hiding-identities-by-blurring-faces-in-images/"><u>Step-by-Step Guide: Effectively Hiding Identities by Blurring Faces in Images</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-how-to-erase-individuals-from-images-seamlessly-on-your-phone-this-year/"><u>Step-by-Step Tutorial: How to Erase Individuals From Images Seamlessly on Your Phone This Year</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-how-to-remove-background-noise-in-final-cut-pro-x/"><u>Updated In 2024, How to Remove Background Noise in Final Cut Pro X?</u></a></li>
 </ul></div>
 

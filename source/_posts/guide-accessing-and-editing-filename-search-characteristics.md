@@ -1,7 +1,7 @@
 ---
 title: "Guide: Accessing and Editing Filename Search Characteristics"
-date: 2024-09-29T10:57:00.620Z
-updated: 2024-09-29T23:25:51.557Z
+date: 2024-09-30T18:12:18.196Z
+updated: 2024-10-05T19:50:23.534Z
 tags:
   - user-guide
 categories:
@@ -79,13 +79,6 @@ Table of Contents
 
 ![File search properties](https://cdn.advancedinstaller.com/img/ui/file-search-properties.png "File search properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Name
 
  The name of the file to search. Type the long name, as a short name will be generated for you if necessary.
@@ -95,10 +88,10 @@ You can use the \[... \] button to select a file to search.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You cannot use properties in this field because the path in which the file is searched is specified by the location of the search.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Languages
@@ -110,10 +103,10 @@ You can use the \[... \] button to select a file to search.
  Minimum and maximum version for the file. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Size
@@ -125,10 +118,16 @@ You can use the \[... \] button to select a file to search.
  The minimum modification date and time for the file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Maximum modification
@@ -147,6 +146,13 @@ You can use the \[... \] button to select a file to search.
 * Languages
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -181,20 +187,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-tls.techidaily.com/1-free-vuejs-admin-panel-template-with-bootstrap-4-designs-explore-the-vue-black-dashboard-at-creative-tim/"><u>1. Free Vue.js Admin Panel Template with Bootstrap 4 Designs: Explore the Vue Black Dashboard at Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/4-and-creative-tims-vue-argon-framework/"><u>4 & Creative Tim's Vue Argon Framework</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/access-your-business-analytics-fast-get-this-free-bootstrap-5-ui-dashboard-from-creative-tim/"><u>Access Your Business Analytics Fast - Get This Free Bootstrap 5 UI Dashboard From Creative Tim!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/addressing-errors-with-the-x3daudiodll-component-in-windows-a-step-by-step-fix-guide/"><u>Addressing Errors with the x3daudio.dll Component in Windows: A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-argon-cli-based-react-native-template-by-creative-tim-top-quality-free-open-source/"><u>Advanced Argon CLI-Based React Native Template by Creative Tim - Top Quality, Free Open Source</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-bootstrap-form-building-guide-with-creative-tims-expert-tips/"><u>Advanced Bootstrap Form Building Guide with Creative Tim's Expert Tips</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-pro-admin-interface-with-material-ui-react-and-typescript-premium-template-from-creative-tim/"><u>Advanced Pro Admin Interface with Material UI, React & TypeScript - Premium Template From Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-over-20-full-stack-projects-using-vuejs-laravel-and-json-apis-tips-by-creative-tim/"><u>Create Over 20 Full Stack Projects Using Vue.js, Laravel & JSON APIs | Tips by Creative Tim</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-distorted-or-missing-sounds-on-youtube-for-windows-11-users/"><u>How to Fix Distorted or Missing Sounds on YouTube for Windows 11 Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-neo-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Neo Phone without Google Account?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Unlock Without Password</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-ios-17-a-significant-improvement-over-the-previous-version/"><u>Is iOS 17 a Significant Improvement Over the Previous Version?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/masterful-bordering-techniques-for-stellar-instagram-videos-for-2024/"><u>Masterful Bordering Techniques for Stellar Instagram Videos for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/revolutionizing-creativity-premier-tablet-apps-for-ipados/"><u>Revolutionizing Creativity Premier Tablet Apps for iPadOS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/smart-aiff-file-compression-strategies-for-efficient-storage-and-management/"><u>Smart AIFF File Compression Strategies for Efficient Storage and Management</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-to-painless-iphone-screen-sharing/"><u>[New] 2024 Approved Step-by-Step Guide to Painless iPhone Screen Sharing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-footage-to-frames-screen-and-webcam-capturing-with-vimeo-for-2024/"><u>[Updated] From Footage to Frames Screen & Webcam Capturing with Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-manual-how-to-turn-off-igtv/"><u>2024 Approved Manual How to Turn Off IGTV</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/dividing-devices-top-cam-rating-review/"><u>Dividing Devices Top Cam Rating Review</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/essential-insights-on-configuring-folder-position-attributes/"><u>Essential Insights on Configuring Folder Position Attributes</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/explore-our-selection-of-gourmet-java-goodies-and-kitchenware/"><u>Explore Our Selection of Gourmet Java Goodies and Kitchenware</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/explore-top-real-estate-opportunities-with-cab-properties/"><u>Explore Top Real Estate Opportunities with CAB Properties</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/free-techniques-for-eliminating-the-filmora-emblem-from-your-videos-this-year/"><u>Free Techniques for Eliminating the Filmora Emblem From Your Videos This Year</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-effective-is-windows-defender-in-ensuring-robust-cybersecurity/"><u>How Effective Is Windows Defender in Ensuring Robust Cybersecurity?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-if-someone-has-opened-your-sms-a-guide/"><u>Identifying if Someone Has Opened Your SMS: A Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-m14-4g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy M14 4G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio/"><u>In-Depth Look LG BP350 Screen Resolution and Aspect Ratio</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-use-of-interfaces-and-extensions-in-software-development-the-ultimate-guide/"><u>Mastering the Use of Interfaces and Extensions in Software Development: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/protecting-your-data-expert-solutions-to-windows-10s-privacy-concerns-with-malwarefox/"><u>Protecting Your Data: Expert Solutions to Windows 10'S Privacy Concerns with MalwareFox</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-effortless-guide-migrating-music-from-an-iphone-evo-to-iphone-6/"><u>Quick and Effortless Guide: Migrating Music From an iPhone Evo to iPhone 6</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/social-simulacrum-sculpting-crafting-exaggerated-profiles/"><u>Social Simulacrum Sculpting Crafting Exaggerated Profiles</u></a></li>
 </ul></div>
 

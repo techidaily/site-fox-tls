@@ -1,7 +1,7 @@
 ---
 title: "Personalized Startup Settings Tab: Tailoring Your Application's Initial Environment"
-date: 2024-09-25T11:02:56.234Z
-updated: 2024-09-29T16:24:14.311Z
+date: 2024-10-04T16:55:20.386Z
+updated: 2024-10-05T17:03:45.796Z
 tags:
   - user-guide
 categories:
@@ -76,33 +76,33 @@ In this tab you can define custom launch conditions by using[installer propertie
 
 ![Custom launch conditions](https://cdn.advancedinstaller.com/img/ui/custom-launch-conditions.png "Custom launch conditions")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new launch condition
 
 Use the \[New \] button, the “New” list context menu item or press the Insert key while the list control is focused. The [Edit Launch Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up allowing you to specify a launch condition.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Modifying a launch condition
 
  Use the \[Edit \] button, the “Edit” list context menu item or press the Space key while an element from the list control is selected. The [Edit Launch Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up allowing you to edit a launch condition.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing a launch condition
 
@@ -111,23 +111,17 @@ Use the \[New \] button, the “New” list context menu item or press the Inser
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation will run only if the custom launch conditions are**True**. Otherwise, the launch condition description will be showed to the user.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -168,19 +162,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-your-zoom-sessions-utilizing-filters-effectively/"><u>[New] In 2024, Elevate Your Zoom Sessions Utilizing Filters Effectively</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-metaverse-giggle-guide-generating-20plus-amusing-virtual-creations/"><u>[New] Metaverse Giggle Guide Generating 20+ Amusing Virtual Creations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fb-live-lite-minute-videos-for-you-for-2024/"><u>[Updated] FB Live Lite Minute Videos for You for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-episodes-from-tvplayer-securely-on-your-desktop-mac-and-windows-steps/"><u>Download Episodes From TVPlayer Securely on Your Desktop - Mac & Windows Steps</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-music-and-videos-from-myspace-anywhere-top-tools-for-pc-and-mac-users/"><u>Download Music & Videos From Myspace Anywhere: Top Tools for PC and Mac Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-guide-to-saving-yandex-playlists-and-albums-in-various-formats-for-windowsmac-users/"><u>Easy Guide to Saving Yandex Playlists & Albums in Various Formats for Windows/Mac Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-cmt-song-downloads-mp3-and-mp4-format-available-now/"><u>Free CMT Song Downloads - MP3 and MP4 Format Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-ready-to-order-ryzen-5-9600x-hits-canadian-shelves-is-it-worth-the-price/"><u>Get Ready to Order: Ryzen 5 9600X Hits Canadian Shelves - Is It Worth the Price?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guide-to-converting-flickr-videos-into-multiple-formats-mp4-avi-etc/"><u>Guide to Converting Flickr Videos Into Multiple Formats (MP4, AVI, Etc.)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-flip-the-script-accelerating-tiktok-video-creation/"><u>In 2024, Flip-the-Script Accelerating TikTok Video Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-how-to-use-loilo-game-recorder/"><u>In 2024, How to Use LoiLo Game Recorder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-ipad-pro-m4-versus-macbook-air-which-one-wins-out/"><u>In-Depth Analysis of IPad Pro (M4) Versus MacBook Air: Which One Wins Out?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pioneering-visual-stunts-from-the-ground-up-for-2024/"><u>Pioneering Visual Stunts From the Ground Up for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-shaky-no-more-a-step-by-step-guide-to-video-stabilization/"><u>Updated In 2024, Shaky No More A Step-by-Step Guide to Video Stabilization</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-becoming-a-top-youtuber-with-gaming-livestreams/"><u>[New] 2024 Approved Becoming a Top YouTuber with Gaming Livestreams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-synchronize-your-team-with-easy-slack-and-filmora-integration/"><u>[New] In 2024, Synchronize Your Team with Easy Slack & Filmora Integration</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-chromatic-chameleons-playbook-for-masters/"><u>[New] In 2024, The Chromatic Chameleon's Playbook for Masters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-prime-video-stabilizers/"><u>[New] Ultimate Guide Prime Video Stabilizers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mcb-video-graphics-pack-for-youtube-channels-for-2024/"><u>[Updated] MCB Video Graphics Pack for YouTube Channels for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-step-by-step-guide-transferring-data-from-your-huawei-nova-5-smartphone-to-a-windows-or-mac-computer/"><u>1. Step-by-Step Guide: Transferring Data From Your Huawei Nova 5 Smartphone to a Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-photographic-precision-the-ultimate-list-of-photo-framing-software/"><u>2024 Approved Photographic Precision The Ultimate List of Photo Framing Software</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-evaluation-of-the-leading-free-decision-trees-in-2e-choose-wisely/"><u>Comprehensive Evaluation of the Leading Free Decision Trees in 2E - Choose Wisely!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/convert-m3u8-streams-into-various-formats-like-mp4-and-wmv-on-pcmac/"><u>Convert M3U8 Streams Into Various Formats Like MP4 & WMV on PC/Mac</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/efficient-regulation-compliance-search-engine-optimization/"><u>Efficient Regulation Compliance Search Engine Optimization</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-tutorials-for-smooth-ipad-game-recording-strategies/"><u>Effortless Tutorials for Smooth iPad Game Recording Strategies</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exclusive-conversations-unlocking-the-power-of-targeted-communication/"><u>Exclusive Conversations: Unlocking the Power of Targeted Communication</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-effective-is-windows-defender-in-ensuring-robust-cybersecurity/"><u>How Effective Is Windows Defender in Ensuring Robust Cybersecurity?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50iplus-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X50i+ Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-easy-steps-to-merge-mp4-files-seamlessly/"><u>Quick and Easy Steps to Merge MP4 Files Seamlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/total-war-warhammer-ii-crashes-top-5-solutions-to-try-now/"><u>Total War: Warhammer II Crashes – Top 5 Solutions to Try Now</u></a></li>
 </ul></div>
 

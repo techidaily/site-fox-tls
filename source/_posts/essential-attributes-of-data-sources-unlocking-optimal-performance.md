@@ -1,7 +1,7 @@
 ---
 title: "Essential Attributes of Data Sources: Unlocking Optimal Performance"
-date: 2024-09-25T11:12:35.417Z
-updated: 2024-09-30T06:33:21.254Z
+date: 2024-09-28T20:02:40.569Z
+updated: 2024-10-05T19:53:35.438Z
 tags:
   - user-guide
 categories:
@@ -77,36 +77,42 @@ Table of Contents
 ![Data source properties](https://cdn.advancedinstaller.com/img/ui/data-source-properties.png "Data source properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
 
  The data source's name. This name will be displayed in the DSN list on the target machine (in ODBC Data Source Administrator).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Driver Name
 
  The name of the driver used to access the data source. Note that this is an editable field - so you can introduce your own driver name (installed with your package) or you can choose a name from the drop-down list. In the second case, you have to be sure this driver is already installed on the target machine. Note that in the drop-down list you can first see the name of the drivers from your package, and only after them, the name of the drivers that might exist on the target machine. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Registration
 
  You can set the data source to be installed on the target machine as a System DSN or as a User DSN. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attributes
@@ -121,10 +127,16 @@ You can find out the required attributes for the selected driver in two ways:
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The **Driver** attribute must not be specified because it is determined from the "Driver Name" specification at install time. Adding it would cause the installation to fail.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -160,21 +172,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-prime-5-image-background-altering-mobile-apps-iphone/"><u>[New] 2024 Approved Prime 5 Image Background Altering Mobile Apps (iPhone)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-produce-high-impact-low-cost-youtube-ads-for-2024/"><u>[Updated] How to Produce High-Impact, Low-Cost YouTube Ads for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-into-design-your-strategy-for-career-success/"><u>2024 Approved Breaking Into Design Your Strategy for Career Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-visual-content-reimagined-apple-music-inclusion/"><u>2024 Approved Visual Content Reimagined Apple Music Inclusion</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-episodes-from-tvplayer-securely-on-your-desktop-mac-and-windows-steps/"><u>Download Episodes From TVPlayer Securely on Your Desktop - Mac & Windows Steps</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-music-and-videos-from-myspace-anywhere-top-tools-for-pc-and-mac-users/"><u>Download Music & Videos From Myspace Anywhere: Top Tools for PC and Mac Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-guide-to-saving-yandex-playlists-and-albums-in-various-formats-for-windowsmac-users/"><u>Easy Guide to Saving Yandex Playlists & Albums in Various Formats for Windows/Mac Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/fight-like-a-warrior-5-intense-martial-arts-rpgs/"><u>Fight Like a Warrior 5 Intense Martial Arts RPGs</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-cmt-song-downloads-mp3-and-mp4-format-available-now/"><u>Free CMT Song Downloads - MP3 and MP4 Format Available Now</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guide-to-converting-flickr-videos-into-multiple-formats-mp4-avi-etc/"><u>Guide to Converting Flickr Videos Into Multiple Formats (MP4, AVI, Etc.)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-se-2022-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone SE (2022)?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-downloads-how-to-capture-and-store-videos-from-vox-news-as-avi-flv-mkv-and-more/"><u>Mastering Downloads: How to Capture and Store Videos From Vox News as AVI, FLV, MKV & More</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mp3-and-wav-song-saver-easy-billboards-to-audio-files-converter/"><u>MP3 & WAV Song Saver: Easy Billboards to Audio Files Converter</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-rpc-issues-on-windows-key-strategies/"><u>Resolving RPC Issues on Windows: Key Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-quantum-hdr-explained-the-ultimate-resource-for-2024/"><u>[New] Quantum HDR Explained The Ultimate Resource for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-free-instagram-story-viewers-to-watch-instagram-stories-anonymously-for-2024/"><u>10 FREE Instagram Story Viewers to Watch Instagram Stories Anonymously for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-splitcam-reviewed-topping-in-video-recording-technology/"><u>2024 Approved SplitCam Reviewed Topping in Video Recording Technology?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-tasty-trailblazers-culinary-youtube-icons/"><u>2024 Approved Tasty Trailblazers Culinary YouTube Icons</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-validate-your-xml-documents-effective-techniques-and-tips/"><u>How To Validate Your XML Documents: Effective Techniques & Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-in-class-skype-recorders-ranked/"><u>In 2024, Best-in-Class Skype Recorders Ranked</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/next-gen-itranslationscomponent-optimizing-multilingual-applications-in-tech-industry/"><u>Next-Gen ITranslationsComponent: Optimizing Multilingual Applications in Tech Industry</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-easy-guide-top-apps-for-instantly-sharpening-blurry-photos-on-iphone/"><u>Quick & Easy Guide: Top Apps for Instantly Sharpening Blurry Photos on iPhone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-effortless-techniques-to-stream-your-android-screen-to-computer-systems/"><u>Quick & Effortless Techniques to Stream Your Android Screen to Computer Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/stable-playthrough-of-madden-nfl-21-for-windows-overcoming-common-breakdowns/"><u>Stable Playthrough of Madden NFL 21 for Windows - Overcoming Common Breakdowns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-gptbot-conundrum-harnessing-its-powers-responsibly/"><u>The GPTBot Conundrum - Harnessing Its Powers Responsibly?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-choosing-the-best-software-for-image-sticker-embellishment/"><u>Ultimate Guide: Choosing the Best Software for Image Sticker Embellishment</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-syncing-your-iphone-11-with-a-pc-via-wireless-methods/"><u>Ultimate Guide: Syncing Your iPhone 11 with a PC via Wireless Methods</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/unlocking-tumblrs-audio-treasures-three-straightforward-steps-for-seamless-downloads/"><u>Unlocking Tumblr's Audio Treasures: Three Straightforward Steps for Seamless Downloads</u></a></li>
 </ul></div>
 

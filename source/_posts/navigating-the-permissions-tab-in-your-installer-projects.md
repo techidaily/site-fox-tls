@@ -1,7 +1,7 @@
 ---
 title: Navigating the Permissions Tab in Your Installer Projects
-date: 2024-09-26T00:24:18.267Z
-updated: 2024-09-30T05:25:53.232Z
+date: 2024-09-28T17:45:14.650Z
+updated: 2024-10-05T18:31:32.026Z
 tags:
   - user-guide
 categories:
@@ -102,10 +102,10 @@ Table of Contents
 ![Permissions Dialog](https://cdn.advancedinstaller.com/img/dialog/folder-permission.png "Permissions Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New...
@@ -113,10 +113,10 @@ Table of Contents
  This button creates a new permission for the selected file, folder, registry key or value. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). You can use the Insert key while the "Groups or user names" list is focused to create a new share permission. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit...
@@ -124,26 +124,26 @@ Table of Contents
  Shows you the selected permission's properties and allows you to change them. You can use the Space key while en element is selected, to edit its properties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove
 
  Removes the selected permission. You can use theDelete key while an element from the list is selected to delete that entry.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Keep existing permissions
 
 The default permissions from target folder on disk at install time will be preserved and the new permissions will be added on top of them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Apply to all subfolders
 
@@ -187,22 +187,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-effortless-video-and-image-backup-from-instagram/"><u>[New] In 2024, Effortless Video & Image Backup From Instagram</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-premier-7-phone-apps-for-changing-tone-quality-for-2024/"><u>[New] Premier 7 Phone Apps for Changing Tone Quality for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-virtual-music-gatherings/"><u>[New] Premier Virtual Music Gatherings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-8-premier-online-photo-frame-creators-revealed/"><u>[Updated] In 2024, 8 Premier Online Photo Frame Creators Revealed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-av1-versus-vp9-video-encoding/"><u>[Updated] In-Depth Analysis AV1 versus VP9 Video Encoding</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-11-wallet-friendly-vlogging-tools-compiled/"><u>[Updated] Top 11 Wallet-Friendly Vlogging Tools Compiled</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-step-by-step-teachings-on-actions-activations-and-software-updates/"><u>Comprehensive Step-by-Step Teachings on Actions, Activations, & Software Updates</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comprehensive-tutorial-on-deinterlacing-footage-using-handbrake/"><u>Comprehensive Tutorial on Deinterlacing Footage Using Handbrake</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/harnessing-the-power-of-nvidia-nvenc-for-high-efficiency-h2-gropehevc-screen-recording-technology/"><u>Harnessing the Power of NVIDIA NVENC for High-Efficiency H.2 Grope/HEVC Screen Recording Technology</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-convert-and-save-your-videos-as-mp4-files-from-facebook/"><u>How to Convert and Save Your Videos as MP4 Files From Facebook</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-effortlessly-save-and-convert-yapfiles-videos-as-mp4-mov-or-flv-files-online/"><u>How to Effortlessly Save and Convert YAPfiles Videos as MP4, MOV or FLV Files Online</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-enable-and-use-active-screen-capture-feature-a-comprehensive-guide/"><u>How to Enable and Use Active Screen Capture Feature: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-save-your-favorite-tokyo-motion-videos-as-high-quality-mp4s/"><u>How to Save Your Favorite Tokyo Motion Videos as High-Quality MP4s</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/seamless-streaming-hack-tap-into-ondemandkoreas-library-download-without-limits/"><u>Seamless Streaming Hack: Tap Into OnDemandKorea's Library - Download Without Limits!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-downloading-youtube-audio-in-mp3-format-320kpbs-for-pc-and-mac-enthusiasts/"><u>Step-by-Step Guide: Downloading YouTube Audio in MP3 Format (320Kpbs) for PC and MAC Enthusiasts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-how-to-download-and-install-kinemaster-on-your-mac-for-2024/"><u>Updated How to Download and Install KineMaster on Your Mac for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-pc-with-soundmax-drivers-expert-tips-for-windows-installation-and-downloads/"><u>Upgrade Your PC with SoundMax Drivers: Expert Tips for Windows Installation & Downloads</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-boost-views-and-engagement-top-rated-online-keyword-generators/"><u>[New] Boost Views and Engagement Top-Rated Online Keyword Generators</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-favourites-revealed-top-20-anime-melodies-for-2024/"><u>[New] Favourites Revealed Top 20 Anime Melodies for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-review-of-apeaksoft-for-video-capture-technology-for-2024/"><u>[Updated] Expert Review of Apeaksoft for Video Capture Technology for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-monetizing-video-how-much-does-a-single-streamer-earn/"><u>[Updated] In 2024, Monetizing Video How Much Does a Single Streamer Earn?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rapid-reactivities-leading-fast-paced-titles-on-pc-and-tablet/"><u>[Updated] Rapid Reactivities Leading Fast-Paced Titles on PC & Tablet</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-to-file-system-navigation-during-software-deployment/"><u>Guide to File System Navigation During Software Deployment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A05s</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-easy-guide-top-apps-for-instantly-sharpening-blurry-photos-on-iphone/"><u>Quick & Easy Guide: Top Apps for Instantly Sharpening Blurry Photos on iPhone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-guide-clearing-private-data-off-your-ios-smartphone-effortlessly/"><u>Quick Guide: Clearing Private Data Off Your iOS Smartphone Effortlessly</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-syncing-your-iphone-11-with-a-pc-via-wireless-methods/"><u>Ultimate Guide: Syncing Your iPhone 11 with a PC via Wireless Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862827375-upgrade-to-a-new-level-of-productivity-with-the-premium-lg-34-inch-ultragear-screen-at-an-unbeatable-price-of-499/"><u>Upgrade to a New Level of Productivity With the Premium LG 34-Inch UltraGear Screen at an Unbeatable Price of $499</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1. Customizable Rocket Launch Requirements
-date: 2024-09-24T20:26:40.909Z
-updated: 2024-09-29T16:46:52.146Z
+date: 2024-09-28T16:09:09.208Z
+updated: 2024-10-05T16:47:50.117Z
 tags:
   - user-guide
 categories:
@@ -37,22 +37,15 @@ Table of Contents
 
 ## ICustomLaunchConditions
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 ICustomLaunchConditions : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -60,15 +53,22 @@ ICustomLaunchConditions : IDispatch
 This interface is meant to access, edit or remove custom launch conditions
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 **Array<ICustomLaunchCondition> LaunchConditions**Gets the custom launch conditions list  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -79,10 +79,10 @@ Creates new custom launch condition. The installation will run only if the custo
 Deletes and existing custom launch condition
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -124,20 +124,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-kickstarting-a-successful-social-good-campaign-online/"><u>[New] Kickstarting a Successful Social Good Campaign Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-visionary-composer-sensory-media-masterpiece-for-2024/"><u>[Updated] Visionary Composer Sensory Media Masterpiece for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-how-to-convert-and-download-your-favorite-nba-games-in-multiple-formats-mp4-mov-avi-etc/"><u>1. How to Convert and Download Your Favorite NBA Games in Multiple Formats: MP4, MOV, AVI, Etc.</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pushing-boundaries-3d-text-in-adobe-illustrator/"><u>2024 Approved Pushing Boundaries 3D Text in Adobe Illustrator</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-revisiting-social-media-written-history-on-your-laptopsphones/"><u>2024 Approved Revisiting Social Media' Written History on Your Laptops/Phones</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/convert-and-download-myspace-tunes-as-mp3m4aflacwmawav/"><u>Convert and Download Myspace Tunes as MP3/M4A/FLAC/WMA/WAV</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/convert-and-save-liveleak-videos-in-mp4avi-format-step-by-step-guide-for-macos-and-windows-users/"><u>Convert and Save LiveLeak Videos in MP4/AVI Format: Step-by-Step Guide for macOS & Windows Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/convert-naver-videos-to-various-formats-like-mp4-wmv-and-more-on-pc-or-mac/"><u>Convert Naver Videos to Various Formats Like MP4, WMV & More on PC or MAC</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-episodes-from-tvplayer-securely-on-your-desktop-mac-and-windows-steps/"><u>Download Episodes From TVPlayer Securely on Your Desktop - Mac & Windows Steps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-budding-photographers-guide-to-enhanced-gopro-capabilities/"><u>In 2024, Budding Photographers' Guide to Enhanced GoPro Capabilities</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-note-12-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi Note 12 4G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-process-for-localizing-navigation-guidance-in-books-from-english-to-frenchgerman-using-flipbuilder-tools/"><u>Step-by-Step Process for Localizing Navigation Guidance in Books From English to French/German Using FlipBuilder Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-a-frozen-overwatch-voice-chat-steps-for-instant-resolution/"><u>Unstick a Frozen Overwatch Voice Chat: Steps for Instant Resolution</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-get-back-to-editing-how-to-reset-final-cut-pro-x/"><u>Updated In 2024, Get Back to Editing How to Reset Final Cut Pro X</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-youtube-live-recording-on-every-gadget/"><u>[New] Mastering YouTube Live Recording on Every Gadget</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-practical-methods-for-instagram-story-capture/"><u>[New] Practical Methods for Instagram Story Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-expert-tips-on-seamless-multisnapping-videos-in-snapchat/"><u>[Updated] In 2024, Expert Tips on Seamless Multisnapping Videos in Snapchat</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-innovative-approaches-for-effective-use-of-streamlabs-obs/"><u>[Updated] In 2024, Innovative Approaches for Effective Use of Streamlabs OBS</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/discover-essential-latest-innovations-in-the-iphone-x-and-iphone-8/"><u>Discover Essential Latest Innovations in the iPhone X & iPhone 8</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-song-creation-with-mixcraft-edit-and-manage-music-tracks-on-your-mac/"><u>Effortless Song Creation with Mixcraft: Edit & Manage Music Tracks on Your Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elegant-darkening-premieres-touch/"><u>Elegant Darkening Premiere's Touch</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-concept-of-index-or-homepage-your-guide-to-browsers-main-file/"><u>Exploring the Concept of 'Index' Or Homepage: Your Guide to Browser's Main File</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-validate-your-xml-documents-effective-techniques-and-tips/"><u>How To Validate Your XML Documents: Effective Techniques & Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-x-flip-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo X Flip</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/managing-access-with-the-permissions-tab-in-xml-documents/"><u>Managing Access with the Permissions Tab in XML Documents</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-snapshots-from-videos-top-10-converters-to-extract-images/"><u>New 2024 Approved Snapshots From Videos Top 10 Converters to Extract Images</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/next-gen-itranslationscomponent-optimizing-multilingual-applications-in-tech-industry/"><u>Next-Gen ITranslationsComponent: Optimizing Multilingual Applications in Tech Industry</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reimagine-old-school-vhs-with-modern-computer-techniques/"><u>Reimagine Old-School VHS with Modern Computer Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-windows-pc-issues-fixes-for-crackdown-3-freezing-problems/"><u>Solving Windows PC Issues: Fixes for 'Crackdown 3' Freezing Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-100-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor 100 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-choosing-the-best-software-for-image-sticker-embellishment/"><u>Ultimate Guide: Choosing the Best Software for Image Sticker Embellishment</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-xml-a-guide-to-mastering-element-attributes-in-the-properties-pane/"><u>Understanding XML: A Guide to Mastering Element Attributes in the Properties Pane</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/unlocking-tumblrs-audio-treasures-three-straightforward-steps-for-seamless-downloads/"><u>Unlocking Tumblr's Audio Treasures: Three Straightforward Steps for Seamless Downloads</u></a></li>
 </ul></div>
 

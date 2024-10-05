@@ -1,7 +1,7 @@
 ---
 title: "All-in-One JRE Suite: Your Essential Compilation of Java Development Resources"
-date: 2024-09-28T09:30:25.531Z
-updated: 2024-09-30T03:09:37.726Z
+date: 2024-09-28T20:20:50.984Z
+updated: 2024-10-05T21:42:13.941Z
 tags:
   - user-guide
 categories:
@@ -92,26 +92,13 @@ A 64-bit JRE Bundle can be specified for 64-bit packages or for 64-bit Java Prod
 If an x86 Package Type is used, the 64-bit JRE Bundle can only be specified if the "64-bit" Platform is selected for the Java product in [Java Product Settings Tab.](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Destination
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Folder
 
@@ -119,13 +106,20 @@ In this field, you can specify where the bundle will be placed/installed (you wi
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can specify this folder only the first time you select a JRE bundle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Source
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
@@ -135,10 +129,10 @@ In this field, you can select the location of the JRE you want to be bundled wit
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Builds with the same destination folder use the same JRE bundle. If you change the JRE bundled, that change will apply to all the builds that use the same destination folder. The content of the destination folder will be removed, and the files from the specified source folder will be added.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The files from the JRE bundle are included only in the current build and in any other build with the same destination folder.
@@ -176,24 +170,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-banishing-the-darkness-tips-for-a-bright-screen-on-obs/"><u>[New] 2024 Approved Banishing the Darkness Tips for a Bright Screen on OBS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-staying-within-aspect-ratio-guidelines-for-youtube-style-tweeted-content-for-2024/"><u>[New] Staying Within Aspect Ratio Guidelines for YouTube-Style Tweeted Content for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-advanced-strategies-for-screen-recording-on-ipad/"><u>[Updated] In 2024, Advanced Strategies for Screen Recording on iPad</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-perfect-inversion-youtube-reverse-guidebook/"><u>2024 Approved The Perfect Inversion YouTube Reverse Guidebook</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/convert-and-save-liveleak-videos-in-mp4avi-format-step-by-step-guide-for-macos-and-windows-users/"><u>Convert and Save LiveLeak Videos in MP4/AVI Format: Step-by-Step Guide for macOS & Windows Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/convert-naver-videos-to-various-formats-like-mp4-wmv-and-more-on-pc-or-mac/"><u>Convert Naver Videos to Various Formats Like MP4, WMV & More on PC or MAC</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-episodes-from-tvplayer-securely-on-your-desktop-mac-and-windows-steps/"><u>Download Episodes From TVPlayer Securely on Your Desktop - Mac & Windows Steps</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-music-and-videos-from-myspace-anywhere-top-tools-for-pc-and-mac-users/"><u>Download Music & Videos From Myspace Anywhere: Top Tools for PC and Mac Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-guide-to-saving-yandex-playlists-and-albums-in-various-formats-for-windowsmac-users/"><u>Easy Guide to Saving Yandex Playlists & Albums in Various Formats for Windows/Mac Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721472340233-error-erupted-during-your-iphone-updaterestore-heres-how-to-fix-error-4013/"><u>Error Erupted During Your iPhone Update/Restore? Here's How to Fix Error 4013</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-cmt-song-downloads-mp3-and-mp4-format-available-now/"><u>Free CMT Song Downloads - MP3 and MP4 Format Available Now</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guide-to-converting-flickr-videos-into-multiple-formats-mp4-avi-etc/"><u>Guide to Converting Flickr Videos Into Multiple Formats (MP4, AVI, Etc.)</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-magic-6-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 6 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-a-fatal-exception-handler-error-on-windows/"><u>How to Troubleshoot and Fix a Fatal Exception Handler Error on Windows</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-downloads-how-to-capture-and-store-videos-from-vox-news-as-avi-flv-mkv-and-more/"><u>Mastering Downloads: How to Capture and Store Videos From Vox News as AVI, FLV, MKV & More</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mp3-and-wav-song-saver-easy-billboards-to-audio-files-converter/"><u>MP3 & WAV Song Saver: Easy Billboards to Audio Files Converter</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/repairing-an-unresponsive-astro-a10-microphone-in-minutes-quick-troubleshooting-guide/"><u>Repairing an Unresponsive Astro A10 Microphone in Minutes: Quick Troubleshooting Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tailoring-your-footage-a-comprehensive-guide-to-gopros-color-adjustment/"><u>Tailoring Your Footage A Comprehensive Guide to GoPro's Color Adjustment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-f15-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy F15 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-freedom-with-top-rated-android-editing-apps/"><u>[New] 2024 Approved Harness Freedom with Top-Rated Android Editing Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-fade-strategies-for-dynamic-videos/"><u>[Updated] Expert Fade Strategies for Dynamic Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-explore-the-ultimate-selection-of-free-slide-show-designs-for-2024/"><u>[Updated] Explore the Ultimate Selection of Free Slide Show Designs for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/boost-efficiency-with-the-latest-abbyy-finescanner-app-enhanced-performance-and-faster-document-processing-on-ios-devices/"><u>Boost Efficiency with the Latest ABBYY FineScanner App: Enhanced Performance & Faster Document Processing on iOS Devices!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/can-modern-anti-malware-solutions-successfully-clean-up-current-viruses-on-your-device/"><u>Can Modern Anti-Malware Solutions Successfully Clean Up Current Viruses on Your Device?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/complete-user-manual-navigating-apowersofts-background-eraser-tool/"><u>Complete User Manual: Navigating Apowersoft's Background Eraser Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/curated-collection-of-enchanting-movies-for-families-on-amazon-prime-this-july/"><u>Curated Collection of Enchanting Movies for Families on Amazon Prime This July</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/discover-10-prime-replacements-for-google-play-on-your-android-device/"><u>Discover 10 Prime Replacements for Google Play on Your Android Device</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/easy-techniques-to-break-down-a-single-pdf-file-into-smaller-pieces/"><u>Easy Techniques to Break Down a Single PDF File Into Smaller Pieces</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-strategies-for-optimizing-iupdatetargets/"><u>Effective Strategies for Optimizing IUpdateTargets</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/essential-attributes-of-data-sources-unlocking-optimal-performance/"><u>Essential Attributes of Data Sources: Unlocking Optimal Performance</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-basics-of-isoiec-19770-22e09-essential-information-on-software-identification-markers/"><u>Exploring the Basics of ISO/IEC 19770-2:2E09 – Essential Information on Software Identification Markers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-google-pixel-fold-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Google Pixel Fold to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a2-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A2 Phone Screen?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-service-management-understanding-service-control-settings/"><u>Mastering Service Management: Understanding Service Control Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/movavi-plus-review-a-detailed-look-at-its-version/"><u>Movavi Plus Review – A Detailed Look at Its Version</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-your-colored-pdf-into-monochrome/"><u>Step-by-Step Guide: Transforming Your Colored PDF Into Monochrome</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-the-2024-civilization-vi-access-violation-fixed-with-civ-6-update/"><u>Ultimate Solution for the 2024 Civilization VI Access Violation Fixed with Civ 6 Update</u></a></li>
 </ul></div>
 

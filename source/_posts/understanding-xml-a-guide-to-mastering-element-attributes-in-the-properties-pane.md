@@ -1,7 +1,7 @@
 ---
 title: "Understanding XML: A Guide to Mastering Element Attributes in the Properties Pane"
-date: 2024-09-24T19:56:03.707Z
-updated: 2024-09-30T04:41:22.753Z
+date: 2024-10-04T20:14:37.492Z
+updated: 2024-10-05T21:06:00.088Z
 tags:
   - user-guide
 categories:
@@ -99,37 +99,37 @@ Table of Contents
 ![Element Attributes](https://cdn.advancedinstaller.com/img/dialog/xml-element-attributes.png "Element Attributes")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new attribute
 
 Use the \[New... \] button, the “New...” context menu item or press the Insert key while the "Attributes" list is focused.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Edit an attribute
 
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the "Attributes" list is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an attribute
 
 Use the \[Remove \] button, the “Remove” context menu item or press the Delete key while an element from the "Attributes" list is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Change the attribute order
 
@@ -138,16 +138,10 @@ Use the \[Move Up \] / \[Move Down \] buttons, the “Move Up” / “Move Down�
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When an XML element is being updated the attributes found in the target file are **merged** with the ones configured here, using the specified attribute update rules. All the specified element attributes that are meant to be created or updated will be added to the target's elements already existing in the attribute list, changing the value of the overlapping attributes.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -188,18 +182,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-tell-fake-instagram-followers-fast-and-free/"><u>[New] 2024 Approved How to Tell Fake Instagram Followers (Fast and Free)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-discover-the-world-in-360-watching-vr-videos-on-iphone/"><u>[New] Discover the World in 360 Watching VR Videos on iPhone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/humbnail-insight-top-picks-for-maximizing-video-visibility/"><u>[New] Thumbnail Insight Top Picks for Maximizing Video Visibility</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-free-vuejs-admin-panel-template-with-bootstrap-4-designs-explore-the-vue-black-dashboard-at-creative-tim/"><u>1. Free Vue.js Admin Panel Template with Bootstrap 4 Designs: Explore the Vue Black Dashboard at Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/4-and-creative-tims-vue-argon-framework/"><u>4 & Creative Tim's Vue Argon Framework</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/access-your-business-analytics-fast-get-this-free-bootstrap-5-ui-dashboard-from-creative-tim/"><u>Access Your Business Analytics Fast - Get This Free Bootstrap 5 UI Dashboard From Creative Tim!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-argon-cli-based-react-native-template-by-creative-tim-top-quality-free-open-source/"><u>Advanced Argon CLI-Based React Native Template by Creative Tim - Top Quality, Free Open Source</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-bootstrap-form-building-guide-with-creative-tims-expert-tips/"><u>Advanced Bootstrap Form Building Guide with Creative Tim's Expert Tips</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-pro-admin-interface-with-material-ui-react-and-typescript-premium-template-from-creative-tim/"><u>Advanced Pro Admin Interface with Material UI, React & TypeScript - Premium Template From Creative Tim</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-ipad-and-itunes-backup-guide-a-beginners-tutorial/"><u>Effortless iPad & iTunes Backup Guide - A Beginner's Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ignite-your-startups-growth-with-these-top-social-media-tips/"><u>Ignite Your Startup's Growth with These Top Social Media Tips</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/radikopc/"><u>RadikoアプリをPCで利用した番組・音源ダウンロード方法</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-methods-to-boost-pc-performance-quickly/"><u>Top 7 Methods to Boost PC Performance Quickly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-hdr-mastery-for-breathtaking-portraits/"><u>[New] Comprehensive HDR Mastery for Breathtaking Portraits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-connect-and-entertain-stream-xbox-games-on-the-worlds-stage-facebook/"><u>[Updated] 2024 Approved Connect & Entertain Stream Xbox Games on the World's Stage - Facebook</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-customizable-rocket-launch-requirements/"><u>1. Customizable Rocket Launch Requirements</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-google-images-and-you-fast-collages-created-in-seconds/"><u>2024 Approved Google Images & You Fast Collages Created in Seconds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/best-alternatives-to-limewire-for-legal-music-download-platforms/"><u>Best Alternatives to LimeWire for Legal Music Download Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-sony-vaio-driver-packs-for-windows-systems/"><u>Download & Install Sony Vaio Driver Packs for Windows Systems</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-resetting-your-apple-id-password-across-iphone-models/"><u>Step-by-Step Guide: Resetting Your Apple ID Password Across iPhone Models</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-9-innovative-tools-to-eliminate-white-background-signatures/"><u>Top 9 Innovative Tools to Eliminate White-Background Signatures</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-rated-titles-discover-the-highest-ranked-apps-on-google-play/"><u>Top Rated Titles: Discover the Highest-Ranked Apps on Google Play</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uniting-tech-and-talk-setup-winchatgpt/"><u>Uniting Tech and Talk: Setup WinChatGPT</u></a></li>
 </ul></div>
 

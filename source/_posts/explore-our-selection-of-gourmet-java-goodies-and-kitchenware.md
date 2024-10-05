@@ -1,7 +1,7 @@
 ---
 title: Explore Our Selection of Gourmet Java Goodies and Kitchenware
-date: 2024-09-24T07:41:27.693Z
-updated: 2024-09-30T00:58:50.789Z
+date: 2024-09-28T16:18:35.889Z
+updated: 2024-10-05T17:03:41.920Z
 tags:
   - user-guide
 categories:
@@ -89,10 +89,16 @@ Table of Contents
  For an example, see the [Java Product Installation](https://tools.techidaily.com/advancedinstaller/products/) tutorial.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Defining new products
@@ -106,10 +112,10 @@ Table of Contents
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For JavaFX applications, please follow [How do I create an installer for JavaFX applications?](https://tools.techidaily.com/advancedinstaller/products/) FAQ.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Binding two products' settings
@@ -119,20 +125,27 @@ Table of Contents
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When changing the settings of the parent product, the same child's settings will be synchronized. If any of the child's settings are modified instead, they will be excluded from the synchronization when changed again in the parent product.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Unbinding a product's settings
 
 Any child product can be easily desynchronized by selecting “Stop Syncing” from its context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Duplicating the product settings
 
 If you are creating several products that have similar product settings, an easy way is to use Copy/Paste from the context menu. All the settings will be copied to the newly created Java product just like copying a file in Windows Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Setting the Current Feature
 
@@ -140,34 +153,20 @@ Advanced Installer will create components for the added resources as necessary. 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can further manage your package's organization in the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing products
 
 ![Remove Java Product](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove Java Product") Use the\[Delete \] toolbar button, the “Delete” list context menu item or press the Delete key while a product is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bundling a JRE with your Application
 
  In the “Build” page under the “Package Definition” panel select the [Java](https://tools.techidaily.com/advancedinstaller/products/) tab. Specify the path to JRE that will be bundled and optionally the path where the install package with JRE will be generated.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Running your Java Application as a Windows Service
 
@@ -175,6 +174,13 @@ Advanced Installer will create components for the added resources as necessary. 
 * Define and schedule your service to run on the [Services](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 For an example, see the [Java Service Installation](https://tools.techidaily.com/advancedinstaller/products/)") tutorial.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -222,24 +228,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-step-by-step-to-superior-image-clarity-by-removing-backgrounds-using-affinity/"><u>[New] 2024 Approved Step-by-Step to Superior Image Clarity by Removing Backgrounds Using Affinity</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-a-beginners-pathway-building-a-simple-youtube-signup/"><u>[Updated] 2024 Approved A Beginner’s Pathway Building a Simple YouTube Signup</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-best-professional-template-pack-for-premiere-pro/"><u>[Updated] 2024 Approved The Best Professional Template Pack for Premiere Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-maximize-impact-mastering-instagram-video-transforms-into-mp4-for-2024/"><u>[Updated] Maximize Impact Mastering Instagram Video Transforms Into MP4 for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-toolwiz-visual-mastery-a-comprehensive-review/"><u>[Updated] Toolwiz Visual Mastery - A Comprehensive Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-film-color-correction-with-luts/"><u>2024 Approved Mastering Film Color Correction with Luts</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/bulk-word-doc-to-flash-movie-conversion-free-online-tool/"><u>Bulk Word Doc-to-Flash Movie Conversion: Free Online Tool</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/can-you-preserve-customized-flipbook-settings-in-flipbuilder-for-later-uses/"><u>Can You Preserve Customized Flipbook Settings in FlipBuilder for Later Uses?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/converting-chm-documentation-to-interactive-page-turning-ebooks-with-ease-on-flipbuildercom/"><u>Converting CHM Documentation to Interactive Page-Turning eBooks with Ease on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-interactive-flipbooks-from-your-presentations-at-flipbuildercom/"><u>Create Interactive Flipbooks From Your Presentations at [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-stunning-digital-flipbooks-from-printables-in-seconds-discover-the-magic-of-flip-printer-technology/"><u>Create Stunning Digital Flipbooks From Printables in Seconds - Discover the Magic of Flip Printer Technology.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-your-own-flipbook-from-a-word-document-using-flipbuilder/"><u>Create Your Own Flipbook From a Word Document Using FlipBuilder</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/creating-flash-format-books-from-pdfs-adding-turning-animation-and-soundscape-learn-how-with-flipbuilder-tools/"><u>Creating Flash Format Books From PDFs: Adding Turning Animation & Soundscape - Learn How with FlipBuilder Tools!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/diy-icon-replacement-for-the-flipboard-user-interface-a-comprehensive-tutorial/"><u>DIY Icon Replacement for the FlipBoard User Interface - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easily-create-and-share-interactive-pdfs-start-with-flipbooker-pro-at-wwwflipbuildercom/"><u>Easily Create and Share Interactive PDFs - Start with FlipBooker Pro at www.flipbuilder.com</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-give-old-games-access-to-the-my-pictures-folder-on-windows-11/"><u>How to Give Old Games Access to the My Pictures Folder on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/immersing-in-innovation-is-the-iphone-15-pro-max-impervious-to-liquid/"><u>Immersing in Innovation: Is The iPhone 15 Pro Max Impervious to Liquid?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-sonic-wonders-on-iphone/"><u>In 2024, Exploring Sonic Wonders on iPhone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-downloading-and-installing-acer-predator-xb271h-monitor-drivers/"><u>Quick Guide: Downloading and Installing Acer Predator XB271H Monitor Drivers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-creating-compelling-valorant-thumbnails-for-digital-viewers-for-2024/"><u>[Updated] Creating Compelling Valorant Thumbnails for Digital Viewers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-perfect-timing-for-on-screen-dialogue-in-your-youtube-productions/"><u>[Updated] In 2024, Perfect Timing for On-Screen Dialogue in Your YouTube Productions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-human-judgment-exploring-6-reasons-to-think-twice-before-trusting-blindly/"><u>AI and Human Judgment: Exploring 6 Reasons to Think Twice Before Trusting Blindly</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-guide-how-to-get-mp3-files-onto-your-android-phone/"><u>Effortless Guide: How to Get MP3 Files Onto Your Android Phone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-does-iregistryvalue-work-understanding-its-functionality-and-application/"><u>How Does IRegistryValue Work? Understanding Its Functionality and Application</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus with IMEI Code?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>In 2024, The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-vintage-visual-storytelling-techniques-for-2024/"><u>Mastering Vintage Visual Storytelling Techniques for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-avi-videos-into-optimized-3gp-streamlines-storage-and-playback/"><u>Step-by-Step Guide: Transforming AVI Videos Into Optimized 3GP Streamlines Storage and Playback</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-free-online-tools-for-screen-recording/"><u>Top Free Online Tools for Screen Recording</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-programs-for-creating-engaging-training-video-content/"><u>Top Programs for Creating Engaging Training Video Content</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-seamless-audio-visual-integration-the-top-5-audio-video-mixer-innovations/"><u>Updated In 2024, Seamless Audio-Visual Integration The Top 5 Audio Video Mixer Innovations</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-realme-11-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme 11 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

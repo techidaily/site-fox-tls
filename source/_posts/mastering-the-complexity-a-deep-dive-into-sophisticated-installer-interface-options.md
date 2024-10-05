@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Complexity: A Deep Dive Into Sophisticated Installer Interface Options"
-date: 2024-09-28T19:08:59.500Z
-updated: 2024-09-30T08:34:02.972Z
+date: 2024-10-03T18:56:26.762Z
+updated: 2024-10-05T17:08:48.177Z
 tags:
   - user-guide
 categories:
@@ -88,10 +88,10 @@ Table of Contents
 * Exit - closes the application.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The View menu
@@ -114,9 +114,29 @@ Table of Contents
    * [Notes Pane](https://tools.techidaily.com/advancedinstaller/products/) \- displays various notes added and is specific for the selected view.  
    * Notifications Pane - displays a list with all the notifications that appeared while authoring the package. Also, notifications about synchronized folders will be displayed when loading the project.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Installation menu
 
 This menu contains grouped links to all available installation pages. The pages unavailable in the current project appear disabled. The currently selected page is marked with a bullet. Clicking on an item will bring up the corresponding page.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Project menu
 
@@ -137,10 +157,10 @@ This menu contains grouped links to all available installation pages. The pages 
 * Add Adobe Plug-in
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Options
@@ -155,13 +175,6 @@ This menu contains grouped links to all available installation pages. The pages 
 * Auto Updates... - allows you to configure Advanced Installer's update process through the "Update Options" dialog.
 * Customer Experience Program... - allows you select if you want or not to help improve Advanced Installer by sending non-personal information on how it is being used.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Help menu
 
 * Contents - displays the Advanced Installer User Guide.
@@ -170,13 +183,6 @@ This menu contains grouped links to all available installation pages. The pages 
 * Purchase Now - opens the web page where you can buy an Advanced Installer license.
 * [Register...](https://tools.techidaily.com/advancedinstaller/products/) \- allows you to introduce the registration code you received when you bought Advanced Installer. After that a license will be downloaded and installed on your machine.
 * About... - displays general information about Advanced Installer, like version, license, etc. and checks for updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -216,14 +222,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-tls.techidaily.com/creative-tims-pro-argon-ui-framework-ultimate-design-system-integrating-bootstrap-angular/"><u>Creative Tim's Pro Argon UI Framework: Ultimate Design System Integrating Bootstrap ➡️ Angular</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-pcs-sound-with-these-newly-released-sound-blaster-audigy-driver-packs-free/"><u>Enhance Your PC's Sound with These Newly Released Sound Blaster Audigy Driver Packs (Free)</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/enhance-your-project-with-)3-creativetim-flask-starter-kits-and-pre-designed-themes/"><u>Enhance Your Project with >3 CreativeTim Flask Starter Kits & Pre-Designed Themes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essentials-for-launching-an-engaging-webcam-stream/"><u>Essentials for Launching an Engaging Webcam Stream</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/expand-your-project-with-creative-tims-bootstrap-over-100-administrative-themes/"><u>Expand Your Project with Creative Tim’s Bootstrap: Over 100 Administrative Themes!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-top-quality-premium-flutter-app-prototypes-from-creative-tim-get-started-now/"><u>Explore Top-Quality Premium Flutter App Prototypes From Creative Tim - Get Started Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-elevating-emotion-the-art-of-tiktok-effects/"><u>In 2024, Elevating Emotion The Art of TikTok Effects</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/transformation-guide-converting-azw-files-into-epub-format-for-universal-reading-on-tablets-and-e-readers/"><u>Transformation Guide: Converting AZW Files Into ePub Format for Universal Reading on Tablets and E-Readers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-clearing-up-audio-in-skype-conferences/"><u>[New] 2024 Approved Clearing Up Audio in Skype Conferences</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-design-and-produce-your-fb-profile-vids-for-2024/"><u>[New] Design and Produce Your FB Profile Vids for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-turning-memories-into-snaps/"><u>[Updated] 2024 Approved The Ultimate Guide to Turning Memories Into Snaps</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/advanced-dialogue-management-tools-the-ultimate-guide/"><u>Advanced Dialogue Management Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-walkthrough-downloading-an-alternate-web-browser-for-samsung-tv-platforms/"><u>Comprehensive Walkthrough: Downloading an Alternate Web Browser for Samsung TV Platforms</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-guide-how-to-get-mp3-files-onto-your-android-phone/"><u>Effortless Guide: How to Get MP3 Files Onto Your Android Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-poco-c55-by-drfone-android/"><u>Full Guide to Unlock Your Poco C55</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-does-iregistryvalue-work-understanding-its-functionality-and-application/"><u>How Does IRegistryValue Work? Understanding Its Functionality and Application</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jokesterjuxtaposer/"><u>JokesterJuxtaposer</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-from-still-to-stunning-how-to-achieve-the-ken-burns-effect-for-2024/"><u>New From Still to Stunning How to Achieve the Ken Burns Effect for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/playful-text-alteration-strategies-for-2024/"><u>Playful Text Alteration Strategies for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-avi-videos-into-optimized-3gp-streamlines-storage-and-playback/"><u>Step-by-Step Guide: Transforming AVI Videos Into Optimized 3GP Streamlines Storage and Playback</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-7-high-earning-remote-job-tools-maximize-your-profits-working-from-anywhere/"><u>Top 7 High-Earning Remote Job Tools: Maximize Your Profits Working From Anywhere</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-free-online-tools-for-screen-recording/"><u>Top Free Online Tools for Screen Recording</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-programs-for-creating-engaging-training-video-content/"><u>Top Programs for Creating Engaging Training Video Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-and-win10-overcoming-additional-display-problems/"><u>Win11 & Win10: Overcoming Additional Display Problems</u></a></li>
 </ul></div>
 

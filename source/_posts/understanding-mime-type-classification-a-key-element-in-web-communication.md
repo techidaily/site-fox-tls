@@ -1,7 +1,7 @@
 ---
 title: "Understanding MIME Type Classification: A Key Element in Web Communication"
-date: 2024-09-25T08:40:15.610Z
-updated: 2024-09-30T07:00:55.525Z
+date: 2024-10-01T17:28:38.888Z
+updated: 2024-10-05T21:30:40.379Z
 tags:
   - user-guide
 categories:
@@ -101,26 +101,26 @@ Multipurpose Internet Mail Extensions (MIME) is a specification for creating fil
 ![Mime types](https://cdn.advancedinstaller.com/img/ui/mime-types.png "Mime types")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new MIME
 
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list control is focused.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Editing a MIME
 
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing a MIME
 
@@ -129,17 +129,17 @@ Use the \[Remove \] button, the “Remove” context menu item or press theDelet
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can configure a global MIME map for the entire IIS server once you have added at least a Web Site or a Virtual Directory.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -180,20 +180,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-essential-guide-to-best-10-zero-cost-high-quality-tools-srt/"><u>[New] In 2024, Essential Guide to Best 10 Zero-Cost, High-Quality Tools (Srt)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-windowsmac-securely-download-facebook-media/"><u>[New] In 2024, Windows/Mac Securely Download Facebook Media</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-fuss-guides-for-documenting-video-calls-for-2024/"><u>[New] No-Fuss Guides for Documenting Video Calls for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/camera-companion-dilemma-polaroid-cube-or-gopro-hero-edition/"><u>Camera Companion Dilemma Polaroid Cube or GoPro Hero Edition</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/futureproof-your-sketches-with-our-curated-list-of-elite-drawing-devices/"><u>Futureproof Your Sketches with Our Curated List of Elite Drawing Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/mastering-mirillis-the-ultimate-guide/"><u>Mastering MirilliS: The Ultimate Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/maximizing-allure-essential-strategies-for-stellar-instagram-unboxing-videos/"><u>Maximizing Allure Essential Strategies for Stellar Instagram Unboxing Videos</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-and-simple-guide-saving-your-favorite-tmz-reports-as-mp4-mov-or-avi-files-using-the-best-download-tool/"><u>Quick and Simple Guide: Saving Your Favorite TMZ Reports as MP4, MOV or AVI Files Using the Best Download Tool!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-to-convert-belly-dancing-hd-videos-into-mp4-format-for-mac-and-windows-users/"><u>Step-by-Step Guide to Convert Belly Dancing HD Videos Into MP4 Format for Mac & Windows Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-converting-torrents-into-audio-and-video-files-for-macwindows-users/"><u>Step-by-Step Guide: Converting Torrents Into Audio & Video Files for Mac/Windows Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-converting-your-favorite-hip-hop-tracks-into-mp3-aac-m4a-and-flac-formats/"><u>Step-by-Step Guide: Converting Your Favorite Hip Hop Tracks Into MP3, AAC, M4A & FLAC Formats</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-instructions-for-downloading-and-saving-sidereel-tv-series-in-mp4-mov-or-avi/"><u>Step-by-Step Instructions for Downloading and Saving SideReel TV Series in MP4, MOV, or AVI</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-for-downloading-zee5-streams-as-mp4movflv-on-pc-and-mac-os/"><u>Step-by-Step Tutorial for Downloading ZEE5 Streams as MP4/MOV/FLV on PC and MAC OS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-meizu-21-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-selection-high-quality-zero-price-free-luts-for-2024/"><u>[New] The Ultimate Selection High Quality, Zero Price Free LUTs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-can-i-browse-through-all-my-contacts-shared-videos-and-photos-for-2024/"><u>[Updated] Can I Browse Through All My Contact's Shared Videos & Photos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-your-gopro-potential-must-have-additions/"><u>[Updated] Unleashing Your GoPro Potential - Must-Have Additions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-10-ultimate-screen-capture-tool/"><u>[Updated] Windows 10 Ultimate Screen Capture Tool</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/bypassing-issues-with-elgato-hd60-drivers-simple-steps-to-success/"><u>Bypassing Issues with Elgato HD60 Drivers - Simple Steps to Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-wi-fi-fix-for-microsoft-surface-users-facing-connection-problems/"><u>DIY Wi-Fi Fix for Microsoft Surface Users Facing Connection Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-updated-printer-driver-for-hp-officejet-pro-n9015/"><u>Easy Download: Updated Printer Driver for HP OfficeJet Pro N9015</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/efficient-registry-selection-interface-the-ultimate-guide/"><u>Efficient Registry Selection Interface: The Ultimate Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-virtuoso-broadcasting-services/"><u>Elite Virtuoso Broadcasting Services</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-13c-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi 13C 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/leading-image-editing-programs-top-tools-for-windows-and-macos-users/"><u>Leading Image Editing Programs: Top Tools for Windows & macOS Users</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/optimizing-the-installation-process-with-advanced-pre-install-uis/"><u>Optimizing the Installation Process with Advanced Pre-Install UIs</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/reliable-teamspeak-strategies-for-superior-communication/"><u>Reliable TeamSpeak Strategies for Superior Communication</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-a-non-functioning-video-detector-during-download-process/"><u>Troubleshooting a Non-Functioning Video Detector During Download Process</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Managing Access with the Permissions Tab in XML Documents
-date: 2024-09-26T07:24:58.346Z
-updated: 2024-09-29T20:31:59.251Z
+date: 2024-10-04T17:21:40.083Z
+updated: 2024-10-05T17:12:49.882Z
 tags:
   - user-guide
 categories:
@@ -104,10 +104,10 @@ Table of Contents
 ![Permissions Dialog](https://cdn.advancedinstaller.com/img/dialog/xml-permissions.png "Permissions Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New...
@@ -115,10 +115,10 @@ Table of Contents
  This button creates a new permission for the selected file, folder, registry key or value. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). You can use the Insert key while the "Groups or user names" list is focused to create a new share permission. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit...
@@ -126,10 +126,10 @@ Table of Contents
  Shows you the selected permission's properties and allows you to change them. You can use the Space key while an element is selected, to edit its properties.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove
@@ -169,19 +169,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-creative-climb-steps-towards-thriving-in-graphic-design/"><u>[New] The Creative Climb Steps Towards Thriving in Graphic Design</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-ios-psp-emulators-our-top-5-selections/"><u>[Updated] 2024 Approved Best iOS PSP Emulators Our Top 5 Selections</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-note-12-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi Note 12 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-music-downloads-from-emusic-convert-tracks-to-mp3wavaac-formats/"><u>Free Music Downloads From eMusic: Convert Tracks to MP3/WAV/AAC Formats</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/get-video-conversion-downloads-mp4-mov-avi-effortlessly-using-myvidster/"><u>Get Video Conversion Downloads (MP4, MOV, AVI) Effortlessly Using MyVidster.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-convert-and-save-your-videos-as-mp4-files-from-facebook/"><u>How to Convert and Save Your Videos as MP4 Files From Facebook</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-effortlessly-save-and-convert-yapfiles-videos-as-mp4-mov-or-flv-files-online/"><u>How to Effortlessly Save and Convert YAPfiles Videos as MP4, MOV or FLV Files Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-install-inf-drivers-windows-1078xpvista/"><u>How to Install Inf Drivers (Windows 10/7/8/XP/Vista)</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-save-your-favorite-tokyo-motion-videos-as-high-quality-mp4s/"><u>How to Save Your Favorite Tokyo Motion Videos as High-Quality MP4s</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-elite-web-based-recording-tools/"><u>In 2024, Elite Web-Based Recording Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-htc-u23-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from HTC U23 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-samsung-gear-vr-fun-the-top-5-list/"><u>In 2024, Samsung Gear VR Fun - The Top 5 List</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-trick-for-tweaking-previously-shared-content-on-instagram/"><u>The Ultimate Trick for Tweaking Previously Shared Content on Instagram</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cross-border-tech-assessment-by-experts/"><u>[New] 2024 Approved Cross-Border Tech Assessment by Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>[New] Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-novice-to-expert-advanced-screencasting-steps/"><u>[Updated] 2024 Approved From Novice to Expert Advanced Screencasting Steps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-archive-snaps-on-iphoneandroid-from-snapchat/"><u>[Updated] 2024 Approved How To Archive Snaps on iPhone/Android From Snapchat</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-capturing-attention-sharing-tweets-as-snaps/"><u>2024 Approved Capturing Attention Sharing Tweets as Snaps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensive-list-best-10-terraria-mods/"><u>2024 Approved Comprehensive List Best 10 Terraria Mods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-nanoleaf-skylight-a-comprehensive-review-for-innovative-home-illumination-solutions-on-the-ceiling/"><u>Exploring Nanoleaf Skylight: A Comprehensive Review for Innovative Home Illumination Solutions on the Ceiling</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-features-of-net-native-image-selection/"><u>Exploring the Features of .NET Native Image Selection</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/free-to-play-battle-ground-tips-winning-in-pubg-mobile-for-pc-users/"><u>Free-to-Play Battle Ground Tips: Winning in PUBG Mobile for PC Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-inisections-a-key-to-organized-and-efficient-document-management/"><u>Mastering IniSections: A Key to Organized and Efficient Document Management</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-comparison-best-white-background-editing-apps-free-vs-paid-for-photos/"><u>Ultimate Comparison: Best White Background Editing Apps (Free Vs. Paid) for Photos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-nikon-video-editing-essentials-software-tips-and-best-practices/"><u>Updated In 2024, Nikon Video Editing Essentials Software, Tips, and Best Practices</u></a></li>
 </ul></div>
 

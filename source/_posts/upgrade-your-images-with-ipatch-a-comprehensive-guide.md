@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your Images with IPatch: A Comprehensive Guide"
-date: 2024-09-27T10:31:07.218Z
-updated: 2024-09-29T16:18:13.129Z
+date: 2024-09-30T20:10:53.440Z
+updated: 2024-10-05T16:00:33.456Z
 tags:
   - user-guide
 categories:
@@ -117,27 +117,27 @@ Table of Contents
 
 ## IPatchUpgradeImage
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IPatchUpgradeImage : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit patch upgraded image properties.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -156,10 +156,16 @@ This interface is meant to edit patch upgraded image properties.
 **Array<IPatchTargetImage> TargetImages**  \-.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -173,10 +179,10 @@ This interface is meant to edit patch upgraded image properties.
 **DeleteTargetImage(IPatchTargetImage aTargetImage)** Deletes the specified targe image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -218,17 +224,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevate-your-voice-discovering-the-leading-vocal-changer-applications-for-android/"><u>[New] In 2024, Elevate Your Voice Discovering the Leading Vocal Changer Applications for Android</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-how-to-convert-and-download-your-favorite-nba-games-in-multiple-formats-mp4-mov-avi-etc/"><u>1. How to Convert and Download Your Favorite NBA Games in Multiple Formats: MP4, MOV, AVI, Etc.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>2024 Approved Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-skills-learning-board-games-and-crafting-images-using-my-gpt-bots-on-chatgpt/"><u>Boost Your Skills: Learning Board Games and Crafting Images Using My GPT Bots on ChatGPT</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-full-screen-technique-manuals-with-stunning-flash-effects-on-flipbuildercom/"><u>Mastering Full-Screen Technique Manuals with Stunning Flash Effects on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/start-with-a-preview-customize-your-slideshow-opening-on-flipbuildercom/"><u>Start with a Preview: Customize Your Slideshow Opening on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-instructions-on-upgrading-your-flipbuilder-software-to-the-newest-release/"><u>Step-by-Step Instructions on Upgrading Your FlipBuilder Software to the Newest Release</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-process-for-localizing-navigation-guidance-in-books-from-english-to-frenchgerman-using-flipbuilder-tools/"><u>Step-by-Step Process for Localizing Navigation Guidance in Books From English to French/German Using FlipBuilder Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-90-lite-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor 90 Lite FRP Bypass</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-s-leading-online-vertical-video-editor-platforms-for-2024/"><u>Updated S Leading Online Vertical Video Editor Platforms for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-does-darkest-dungeon-2-keep-freezing-solutions-to-maintain-smooth-gameplay/"><u>Why Does Darkest Dungeon 2 Keep Freezing? Solutions to Maintain Smooth Gameplay</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-kickstart-your-social-life-setting-up-a-facebook-account/"><u>[New] 2024 Approved Kickstart Your Social Life Setting up a Facebook Account</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-inhibit-surprise-youtube-recommendations/"><u>[Updated] Inhibit Surprise YouTube Recommendations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-inside-the-apeaksoft-revolution-discovering-new-tech/"><u>2024 Approved Inside the Apeaksoft Revolution Discovering New Tech</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/youtube-to-gif-makers-you-should-use-online-and-desktop/"><u>Best YouTube To GIF Makers You Should Use (Online & Desktop)</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exclusive-conversations-unlocking-the-power-of-targeted-communication/"><u>Exclusive Conversations: Unlocking the Power of Targeted Communication</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/explore-top-real-estate-opportunities-with-cab-properties/"><u>Explore Top Real Estate Opportunities with CAB Properties</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/free-techniques-for-eliminating-the-filmora-emblem-from-your-videos-this-year/"><u>Free Techniques for Eliminating the Filmora Emblem From Your Videos This Year</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-effective-is-windows-defender-in-ensuring-robust-cybersecurity/"><u>How Effective Is Windows Defender in Ensuring Robust Cybersecurity?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-10-secrets-to-effective-livestreaming-cricket-games-for-2024/"><u>Masterclass 10 Secrets to Effective Livestreaming Cricket Games for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-electronics-with-toms-hardware-advice/"><u>Navigating the Latest in Electronics with Tom's Hardware Advice</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-easy-steps-to-merge-mp4-files-seamlessly/"><u>Quick and Easy Steps to Merge MP4 Files Seamlessly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubia-red-magic-8s-propluss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nubia Red Magic 8S Pro+s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-windows-video-editing-software-that-rivals-sony-vegas-for-2024/"><u>Updated Windows Video Editing Software That Rivals Sony Vegas for 2024</u></a></li>
 </ul></div>
 

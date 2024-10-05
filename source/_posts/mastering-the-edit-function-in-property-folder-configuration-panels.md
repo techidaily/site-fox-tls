@@ -1,7 +1,7 @@
 ---
 title: Mastering the Edit Function in Property Folder Configuration Panels
-date: 2024-09-29T06:39:33.272Z
-updated: 2024-09-29T23:02:16.202Z
+date: 2024-10-03T19:49:02.474Z
+updated: 2024-10-05T16:08:38.589Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ![Edit Condition Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-property-folder-association-dialog.png "Edit Condition Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Property
@@ -91,10 +91,10 @@ Table of Contents
 Choose a property using the \[... \] button on the right.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
@@ -134,19 +134,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-perfecting-igtv-video-production-on-smartphonesdslrs/"><u>[New] In 2024, Perfecting IGTV Video Production on Smartphones/DSLRs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamlining-creative-journey-uploading-imovie-videos-to-youtube/"><u>[Updated] Streamlining Creative Journey Uploading iMovie Videos to YouTube</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-how-to-convert-and-download-your-favorite-nba-games-in-multiple-formats-mp4-mov-avi-etc/"><u>1. How to Convert and Download Your Favorite NBA Games in Multiple Formats: MP4, MOV, AVI, Etc.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-unveils-newly-released-free-claude-mobile-application-on-ios-announces-premium-enterprise-solution-a-breakthrough-for-business-efficiency/"><u>Anthropic Unveils Newly Released Free Claude Mobile Application on iOS; Announces Premium Enterprise Solution: A Breakthrough for Business Efficiency!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-nixplay-x15d-the-cutting-edge-picture-revelation/"><u>Discover Nixplay X15D - The Cutting-Edge Picture Revelation</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/integrating-multiple-language-options-into-your-flipbook-creations-using-flipbuilder-tool/"><u>Integrating Multiple Language Options Into Your Flipbook Creations Using FlipBuilder Tool</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-full-screen-technique-manuals-with-stunning-flash-effects-on-flipbuildercom/"><u>Mastering Full-Screen Technique Manuals with Stunning Flash Effects on FlipBuilder.com</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-edits-navigating-photoshops-eraser-function-for-2024/"><u>Seamless Edits Navigating Photoshop’s Eraser Function for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/start-with-a-preview-customize-your-slideshow-opening-on-flipbuildercom/"><u>Start with a Preview: Customize Your Slideshow Opening on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-instructions-on-upgrading-your-flipbuilder-software-to-the-newest-release/"><u>Step-by-Step Instructions on Upgrading Your FlipBuilder Software to the Newest Release</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-process-for-localizing-navigation-guidance-in-books-from-english-to-frenchgerman-using-flipbuilder-tools/"><u>Step-by-Step Process for Localizing Navigation Guidance in Books From English to French/German Using FlipBuilder Tools</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-notorious-ce-34878-0-glitch-in-playstation-4-consoles/"><u>Troubleshooting and Correcting the Notorious CE-34878-0 Glitch in PlayStation 4 Consoles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-video-aesthetics-incorporating-lc-and-bb-in-facebook-posts/"><u>[Updated] 2024 Approved Enhancing Video Aesthetics Incorporating LC and BB in Facebook Posts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-palate-pleasers-brainstorming-topical-food-channel-names/"><u>[Updated] In 2024, Palate Pleasers Brainstorming Topical Food Channel Names</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-steps-for-creating-an-eye-catching-quotation-photo/"><u>1. Steps for Creating an Eye-Catching Quotation Photo</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-responses-to-service-failures-and-their-key-attributes/"><u>Effective Responses to Service Failures and Their Key Attributes</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/essential-pre-requirements-understanding-the-basics/"><u>Essential Pre-Requirements: Understanding the Basics</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-capture-a-stunning-and-professional-headshot-for-your-resume/"><u>How To Capture A Stunning & Professional Headshot For Your Résumé</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/quick-video-sharing-tweet-it-up-no-need-for-retweets/"><u>Quick Video Sharing Tweet It Up - No Need for Retweets</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-accessing-the-bios-menu-in-windows-107/"><u>Step-by-Step Guide: Accessing the BIOS Menu in Windows 10/7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-bots-are-winning-the-rise-of-conversational-ai/"><u>Why Bots Are Winning: The Rise of Conversational AI</u></a></li>
 </ul></div>
 

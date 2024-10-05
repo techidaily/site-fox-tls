@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of the JVM Configuration Tabs
-date: 2024-09-24T05:33:06.014Z
-updated: 2024-09-30T05:15:19.879Z
+date: 2024-10-02T18:50:21.284Z
+updated: 2024-10-05T20:36:08.368Z
 tags:
   - user-guide
 categories:
@@ -85,21 +85,7 @@ In this page you can set the parameters for the Java Virtual Machine.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the latest Java Distributions (e.g. _OpenJDK, AdoptOpenJDK,_ etc.) are supported. Our Java Product Launcher supports the _AdoptOpenJDK_ Java distributions only when _AdoptOpenJDK_ is installed withFeatureOracleJavaSoft feature (e.g. usingADDLOCAL=FeatureEnvironment,FeatureJarFileRunWith,FeatureOracleJavaSoft command line switch).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Settings
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### JRE version
 
@@ -107,13 +93,40 @@ You can specify the minimum and maximum allowed Java Version. Advanced Installer
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)JVM path is searched in the registry and in JAVA\_HOME environment variable.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### JVM parameters
 
 This is an optional field. You can easily specify the JVM parameters. Click on the \[... \] button in order to go to the [JVM Parameters Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Command line
 
 Here you can specify arguments that yourmain method will always receive. These arguments will be appended to the other arguments that may be receive from the system.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Virtual Machine Type
 
@@ -122,6 +135,13 @@ There are two types of virtual machines: client and server. You can choose one o
 * Favor client - Advanced Installer looks for client or server Java Virtual Machine in the JDK or JRE installed on your computer. It returns the Java Virtual Machine with the highest version (client or server). The client version is favored in the sense that the client Java Virtual Machine is looked up first, and if it is found, the search stops. This is the default option for Java Virtual Machine type.
 * Favor server - Advanced Installer looks for server or client Java Virtual Machine and returns the server Java Virtual Machine with the highest version (if it is found). The server version is favored in the sense that the server Java Virtual Machine is looked up first, and if it is found, the search stops, otherwise the client Java Virtual Machine is looked up.
 * Server only - Advanced Installer looks only for the server Java Virtual Machine. If it is not found then the user is prompted to browse a JRE with a valid server Java Virtual Machine.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Virtual Machine Source
 
@@ -152,16 +172,10 @@ Specify the Java Virtual Machine's source.
 Specify the location of the file that will contain [Java Products](https://tools.techidaily.com/advancedinstaller/products/)'s output stream. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to folders, properties and installtime or runtime environment variables.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Error Stream
@@ -169,22 +183,15 @@ Specify the location of the file that will contain [Java Products](https://tools
 Specify the location of the file that will contain [Java Products](https://tools.techidaily.com/advancedinstaller/products/)'s error stream. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to folders, properties and installtime or runtime environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Append Error Stream to File
 
 By enabling this option, the errors will be written at the end of the file rather than deleting the errors from previous sessions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Append Output Stream to File
 
@@ -224,13 +231,6 @@ By adding values to this list, you can add paths to the system's Path environmen
 
 The Path system variable's default value will not be changed for other applications.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Topics
 
 * [JVM Parameters Dialog](https://tools.techidaily.com/advancedinstaller/products/)  
@@ -269,24 +269,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-in-depth-look-at-xvideo-hub-a-full-studio-guide/"><u>[New] 2024 Approved In-Depth Look at XVideo Hub A Full Studio Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-compact-obs-setup-for-underpriced-pcs/"><u>[Updated] Compact OBS Setup for Underpriced PCs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>[Updated] In 2024, Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-voice-capture-on-mac-compiling-the-best-5-apps-for-2024/"><u>[Updated] Professional Voice Capture on Mac Compiling The Best 5 Apps for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/combatting-anxiety-with-conversational-ai-insights-from-chatgpt/"><u>Combatting Anxiety with Conversational AI: Insights From ChatGPT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-pova-5-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Pova 5</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-x-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone X without Password?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726226498190-movavi/"><u>Movavi: 원자성 영상 델타를 무료로 온라인 구성판으로 바꾸기</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mp3-and-wav-song-saver-easy-billboards-to-audio-files-converter/"><u>MP3 & WAV Song Saver: Easy Billboards to Audio Files Converter</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-and-simple-guide-saving-your-favorite-tmz-reports-as-mp4-mov-or-avi-files-using-the-best-download-tool/"><u>Quick and Simple Guide: Saving Your Favorite TMZ Reports as MP4, MOV or AVI Files Using the Best Download Tool!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-blanking-on-window-11-display/"><u>Resolve Blanking on Window 11 Display</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-to-convert-belly-dancing-hd-videos-into-mp4-format-for-mac-and-windows-users/"><u>Step-by-Step Guide to Convert Belly Dancing HD Videos Into MP4 Format for Mac & Windows Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-converting-torrents-into-audio-and-video-files-for-macwindows-users/"><u>Step-by-Step Guide: Converting Torrents Into Audio & Video Files for Mac/Windows Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-converting-your-favorite-hip-hop-tracks-into-mp3-aac-m4a-and-flac-formats/"><u>Step-by-Step Guide: Converting Your Favorite Hip Hop Tracks Into MP3, AAC, M4A & FLAC Formats</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-instructions-for-downloading-and-saving-sidereel-tv-series-in-mp4-mov-or-avi/"><u>Step-by-Step Instructions for Downloading and Saving SideReel TV Series in MP4, MOV, or AVI</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-for-downloading-zee5-streams-as-mp4movflv-on-pc-and-mac-os/"><u>Step-by-Step Tutorial for Downloading ZEE5 Streams as MP4/MOV/FLV on PC and MAC OS</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/streaming-made-easy-get-your-favorite-beacon-live-broadcasts-for-macwindows-devices/"><u>Streaming Made Easy: Get Your Favorite Beacon Live Broadcasts for Mac/Windows Devices!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/three-effective-ways-to-save-myvideo-videos-on-both-windows-and-macos-systems/"><u>Three Effective Ways to Save MyVideo Videos on Both Windows & macOS Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-display-latency-in-dual-screen-gaming-for-windows-1011-users/"><u>Troubleshooting Display Latency in Dual-Screen Gaming for Windows 10/11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/amplify-audio-on-windows-10-tips-and-tricks-for-maximum-volume-control/"><u>Amplify Audio on Windows 10: Tips and Tricks for Maximum Volume Control</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-google-pixel-8-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Google Pixel 8 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-note-12-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi Note 12 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/leading-photo-slide-show-software-compatible-with-windows-10-reviews-and-comparisons/"><u>Leading Photo Slide Show Software Compatible with Windows 10 - Reviews & Comparisons</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/navigating-the-permissions-tab-in-your-installer-projects/"><u>Navigating the Permissions Tab in Your Installer Projects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-fast-photo-viewing-software/"><u>Premier Fast Photo Viewing Software</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-methods-for-converting-pdf-files-into-excel-spreadsheets-on-your-android-device/"><u>Simple Methods for Converting PDF Files Into Excel Spreadsheets on Your Android Device</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-effectively-hiding-identities-by-blurring-faces-in-images/"><u>Step-by-Step Guide: Effectively Hiding Identities by Blurring Faces in Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-taskbar-in-windows-11/"><u>Tailoring Your Taskbar in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-virtual-webcams-and-live-cam-software-discover-manycam/"><u>Top Virtual Webcams and Live Cam Software: Discover ManyCam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-your-broadcasts-with-manycam-top-virtual-webcam-software-options/"><u>Transform Your Broadcasts with ManyCam - Top Virtual Webcam Software Options</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone XR? | Dr.fone</u></a></li>
 </ul></div>
 

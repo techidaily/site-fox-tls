@@ -1,7 +1,7 @@
 ---
 title: Essential Insights on Configuring Folder Position Attributes
-date: 2024-09-23T20:05:13.935Z
-updated: 2024-09-29T22:22:34.930Z
+date: 2024-10-02T17:51:30.522Z
+updated: 2024-10-05T18:59:47.359Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,10 @@ Table of Contents
 ## Folder Location Properties
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Path
@@ -104,10 +104,10 @@ Copy
  This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Depth
@@ -117,10 +117,10 @@ Copy
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Depth
@@ -128,16 +128,10 @@ Copy
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -173,24 +167,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2023-tech-scoop-efficiently-tracking-down-fb-vids-for-2024/"><u>[New] 2023 Tech Scoop Efficiently Tracking Down FB Vids for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-invisible-glance-at-fb-episodes/"><u>[New] 2024 Approved Invisible Glance at FB Episodes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-virality-understanding-what-makes-triller-different-from-tiktok/"><u>[New] Beyond Virality Understanding What Makes Triller Different From TikTok</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-10-best-classic-family-vacation-movie-for-this-summer/"><u>[Updated] In 2024, 10 Best Classic Family Vacation Movie for This Summer</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-harnessing-instagrams-potential-with-video-posts/"><u>2024 Approved Harnessing Instagram's Potential with Video Posts</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/creative-tims-black-dashboard-premium-free-bootstrap-4-admin-theme/"><u>Creative Tim's Black Dashboard: Premium, FREE Bootstrap 4 Admin Theme</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/creative-tims-pro-argon-ui-framework-ultimate-design-system-integrating-bootstrap-angular/"><u>Creative Tim's Pro Argon UI Framework: Ultimate Design System Integrating Bootstrap ➡️ Angular</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/enhance-your-project-with-)3-creativetim-flask-starter-kits-and-pre-designed-themes/"><u>Enhance Your Project with >3 CreativeTim Flask Starter Kits & Pre-Designed Themes</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/expand-your-project-with-creative-tims-bootstrap-over-100-administrative-themes/"><u>Expand Your Project with Creative Tim’s Bootstrap: Over 100 Administrative Themes!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-top-quality-premium-flutter-app-prototypes-from-creative-tim-get-started-now/"><u>Explore Top-Quality Premium Flutter App Prototypes From Creative Tim - Get Started Now!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-material-dashboard-template-with-bootstrap-4-and-admin-panel-creative-tim/"><u>Free Material Dashboard Template with Bootstrap 4 & Admin Panel - Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-nextjs-and-tailwind-developer-guide-masterful-courses-and-effortless-landing-templates-by-creative-tim/"><u>Free NextJS & Tailwind Developer Guide: Masterful Courses and Effortless Landing Templates by Creative Tim</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-11-pro-max-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y02t-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y02T to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/integrated-guide-for-mobile-and-pc-session-records/"><u>Integrated Guide for Mobile & PC Session Records</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/livewire-material-dashboard-with-laravel-framework-updivision-and-creative-tim-collaboration/"><u>Livewire Material Dashboard with Laravel Framework – UpDivision and Creative Tim Collaboration</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-bootstrap-4-admin-panel-with-light-theme-pro-version-by-creative-tim/"><u>Professional Bootstrap 4 Admin Panel with Light Theme - Pro Version by Creative Tim</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/xbox-one-display-problems-solved-a-step-by-step-guide-to-restoring-the-connection/"><u>Xbox One Display Problems Solved - A Step-by-Step Guide to Restoring The Connection</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-12-unparalleled-youtube-gamers-intros-revealed-free-or-fee/"><u>[Updated] 12 Unparalleled YouTube Gamers' Intros Revealed Free or Fee?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-comprehensive-handbook-for-recording-calls-for-2024/"><u>[Updated] The Comprehensive Handbook for Recording Calls for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-jaunt-vr-journey-explained/"><u>2024 Approved The Jaunt VR Journey Explained</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-validate-your-xml-documents-effective-techniques-and-tips/"><u>How To Validate Your XML Documents: Effective Techniques & Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-discover-the-leading-ai-driven-podcast-name-creator-tools/"><u>In 2024, Discover the Leading AI-Driven Podcast Name Creator Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-14-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 14</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-at-toms-technology-hub/"><u>In-Depth Analysis at Tom's Technology Hub</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/next-gen-itranslationscomponent-optimizing-multilingual-applications-in-tech-industry/"><u>Next-Gen ITranslationsComponent: Optimizing Multilingual Applications in Tech Industry</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-easy-guide-top-apps-for-instantly-sharpening-blurry-photos-on-iphone/"><u>Quick & Easy Guide: Top Apps for Instantly Sharpening Blurry Photos on iPhone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-effortless-techniques-to-stream-your-android-screen-to-computer-systems/"><u>Quick & Effortless Techniques to Stream Your Android Screen to Computer Systems</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-guide-clearing-private-data-off-your-ios-smartphone-effortlessly/"><u>Quick Guide: Clearing Private Data Off Your iOS Smartphone Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-12-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 12 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-choosing-the-best-software-for-image-sticker-embellishment/"><u>Ultimate Guide: Choosing the Best Software for Image Sticker Embellishment</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-syncing-your-iphone-11-with-a-pc-via-wireless-methods/"><u>Ultimate Guide: Syncing Your iPhone 11 with a PC via Wireless Methods</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/unlocking-tumblrs-audio-treasures-three-straightforward-steps-for-seamless-downloads/"><u>Unlocking Tumblr's Audio Treasures: Three Straightforward Steps for Seamless Downloads</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-update-your-shorts-are-visible-again-for-2024/"><u>YouTube Update - Your Shorts Are Visible Again for 2024</u></a></li>
 </ul></div>
 

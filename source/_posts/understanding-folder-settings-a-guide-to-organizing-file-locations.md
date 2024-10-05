@@ -1,7 +1,7 @@
 ---
 title: "Understanding Folder Settings: A Guide to Organizing File Locations"
-date: 2024-09-25T02:26:03.600Z
-updated: 2024-09-29T21:15:01.299Z
+date: 2024-10-03T19:20:49.874Z
+updated: 2024-10-05T21:15:03.174Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,10 @@ Table of Contents
 ## Folder Location Properties
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Path
@@ -104,10 +104,10 @@ Copy
  This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Depth
@@ -117,10 +117,10 @@ Copy
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Depth
@@ -128,10 +128,10 @@ Copy
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -167,22 +167,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-turn-your-videos-into-a-revenue-stream-with-these-tips/"><u>[New] 2024 Approved Turn Your Videos Into a Revenue Stream with These Tips</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-comprehensive-walkthrough-setting-up-your-first-wirecast-livestream-to-youtube/"><u>[Updated] 2024 Approved A Comprehensive Walkthrough Setting Up Your First WireCast Livestream to Youtube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-guide-to-preserving-itunes-content/"><u>[Updated] 2024 Approved The Ultimate Guide to Preserving iTunes Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-record-gameplay-on-ps4/"><u>[Updated] How to Record Gameplay on PS4</u></a></li>
-<li><a href="https://article-files.techidaily.com/10-best-photo-grid-apps-to-make-your-pictures-stand-out-for-2024/"><u>10 Best Photo Grid Apps to Make Your Pictures Stand Out for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-oneplus-11r-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on OnePlus 11R.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-step-by-step-teachings-on-actions-activations-and-software-updates/"><u>Comprehensive Step-by-Step Teachings on Actions, Activations, & Software Updates</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-amazon-fire-tv-stickplus-an-ultimate-guide-to-high-speed-media-streaming/"><u>Exploring the Amazon Fire TV Stick+: An Ultimate Guide to High-Speed Media Streaming</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/get-video-conversion-downloads-mp4-mov-avi-effortlessly-using-myvidster/"><u>Get Video Conversion Downloads (MP4, MOV, AVI) Effortlessly Using MyVidster.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/harnessing-the-power-of-nvidia-nvenc-for-high-efficiency-h2-gropehevc-screen-recording-technology/"><u>Harnessing the Power of NVIDIA NVENC for High-Efficiency H.2 Grope/HEVC Screen Recording Technology</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-convert-and-save-your-videos-as-mp4-files-from-facebook/"><u>How to Convert and Save Your Videos as MP4 Files From Facebook</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-effortlessly-save-and-convert-yapfiles-videos-as-mp4-mov-or-flv-files-online/"><u>How to Effortlessly Save and Convert YAPfiles Videos as MP4, MOV or FLV Files Online</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-save-your-favorite-tokyo-motion-videos-as-high-quality-mp4s/"><u>How to Save Your Favorite Tokyo Motion Videos as High-Quality MP4s</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/seamless-streaming-hack-tap-into-ondemandkoreas-library-download-without-limits/"><u>Seamless Streaming Hack: Tap Into OnDemandKorea's Library - Download Without Limits!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-downloading-youtube-audio-in-mp3-format-320kpbs-for-pc-and-mac-enthusiasts/"><u>Step-by-Step Guide: Downloading YouTube Audio in MP3 Format (320Kpbs) for PC and MAC Enthusiasts</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/subwaves-test-durable-auditory-performance/"><u>SubWaves Test: Durable Auditory Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-legacy-printers-install-mx870-drivers-windows/"><u>Update Legacy Printers: Install MX870 Drivers, Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-endless-entertainment-loop-youtube-content-on-tv/"><u>[New] 2024 Approved Endless Entertainment Loop YouTube Content on TV</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-numbers-expert-stock-channels-summary-for-2024/"><u>[Updated] Navigating Numbers Expert Stock Channels Summary for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/all-in-one-jre-suite-your-essential-compilation-of-java-development-resources/"><u>All-in-One JRE Suite: Your Essential Compilation of Java Development Resources</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/optimizing-the-installation-process-with-advanced-pre-install-uis/"><u>Optimizing the Installation Process with Advanced Pre-Install UIs</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/reverse-engineering-audioscape-unveiling-premium-sound-reversal-software/"><u>Reverse Engineering Audioscape Unveiling Premium Sound Reversal Software</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-steps-download-and-keep-your-favorite-reddit-videos/"><u>Simple Steps: Download and Keep Your Favorite Reddit Videos</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-a-non-functioning-video-detector-during-download-process/"><u>Troubleshooting a Non-Functioning Video Detector During Download Process</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-mime-type-classification-a-key-element-in-web-communication/"><u>Understanding MIME Type Classification: A Key Element in Web Communication</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband-for-2024/"><u>Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-huawei-nova-y71-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Huawei Nova Y71? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

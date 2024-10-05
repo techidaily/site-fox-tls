@@ -1,7 +1,7 @@
 ---
 title: Key Characteristics and Configuration Settings for Efficient Data Management Systems
-date: 2024-09-25T01:28:05.031Z
-updated: 2024-09-30T06:09:49.226Z
+date: 2024-09-28T20:49:03.829Z
+updated: 2024-10-05T17:39:13.367Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,10 @@ Table of Contents
 ![Data source properties](https://cdn.advancedinstaller.com/img/ui/data-source-properties.png "Data source properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -88,26 +88,26 @@ Table of Contents
  The data source's name. This name will be displayed in the DSN list on the target machine (in ODBC Data Source Administrator).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Driver Name
 
  The name of the driver used to access the data source. Note that this is an editable field - so you can introduce your own driver name (installed with your package) or you can choose a name from the drop-down list. In the second case, you have to be sure this driver is already installed on the target machine. Note that in the drop-down list you can first see the name of the drivers from your package, and only after them, the name of the drivers that might exist on the target machine. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Registration
 
  You can set the data source to be installed on the target machine as a System DSN or as a User DSN. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Attributes
 
@@ -121,10 +121,10 @@ You can find out the required attributes for the selected driver in two ways:
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The **Driver** attribute must not be specified because it is determined from the "Driver Name" specification at install time. Adding it would cause the installation to fail.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -160,21 +160,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-innovative-daily-vlog-themes/"><u>[New] Innovative Daily Vlog Themes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unified-webcamscreen-capture-strategies/"><u>[New] Unified Webcam/Screen Capture Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-harnessing-youtube-and-fb-techniques-for-maximum-engagement-for-2024/"><u>[Updated] Harnessing YouTube & FB Techniques for Maximum Engagement for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028828347-8/"><u>鑑賞のために！今月の一流、中国映像作品専用フリーウェブサイトベスト8選</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatible-drivers-for-logitech-g510-seamless-functionality-across-windows-781/"><u>Compatible Drivers for Logitech G510: Seamless Functionality Across Windows 7/8/1지</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/enhance-your-project-with-)3-creativetim-flask-starter-kits-and-pre-designed-themes/"><u>Enhance Your Project with >3 CreativeTim Flask Starter Kits & Pre-Designed Themes</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/expand-your-project-with-creative-tims-bootstrap-over-100-administrative-themes/"><u>Expand Your Project with Creative Tim’s Bootstrap: Over 100 Administrative Themes!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-top-quality-premium-flutter-app-prototypes-from-creative-tim-get-started-now/"><u>Explore Top-Quality Premium Flutter App Prototypes From Creative Tim - Get Started Now!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-material-dashboard-template-with-bootstrap-4-and-admin-panel-creative-tim/"><u>Free Material Dashboard Template with Bootstrap 4 & Admin Panel - Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-nextjs-and-tailwind-developer-guide-masterful-courses-and-effortless-landing-templates-by-creative-tim/"><u>Free NextJS & Tailwind Developer Guide: Masterful Courses and Effortless Landing Templates by Creative Tim</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-pink-monitor-problem-on-your-windows-11-device/"><u>How to Fix a Pink Monitor Problem on Your Windows 11 Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/livewire-material-dashboard-with-laravel-framework-updivision-and-creative-tim-collaboration/"><u>Livewire Material Dashboard with Laravel Framework – UpDivision and Creative Tim Collaboration</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-bootstrap-4-admin-panel-with-light-theme-pro-version-by-creative-tim/"><u>Professional Bootstrap 4 Admin Panel with Light Theme - Pro Version by Creative Tim</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-data-retrieval-tool-restore-lost-data-from-realme-10t-5g-by-fonelab-android-recover-data/"><u>Realme Data Retrieval tool – restore lost data from Realme 10T 5G</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/struggling-with-wi-fi-on-your-laptop-discover-effective-troubleshooting-techniques-today/"><u>Struggling with Wi-Fi on Your Laptop? Discover Effective Troubleshooting Techniques Today!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-move-and-manage-your-social-snapshots-locally/"><u>[New] 2024 Approved How To Move and Manage Your Social SnapShots Locally</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-review-prime-drone-gimbals/"><u>[Updated] Professional Review Prime Drone Gimbals</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-understanding-youtubes-monetization-schedule/"><u>[Updated] Understanding YouTube's Monetization Schedule</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-step-by-step-guide-transferring-data-from-your-huawei-nova-5-smartphone-to-a-windows-or-mac-computer/"><u>1. Step-by-Step Guide: Transferring Data From Your Huawei Nova 5 Smartphone to a Windows or Mac Computer</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-review-on-asus-bw-16d1x-u-blu-ray-burner-attractive-design-with-distinct-traits/"><u>A Review on Asus BW-16D1X-U Blu-Ray Burner: Attractive Design with Distinct Traits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-redmi-12-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi Redmi 12 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-evaluation-of-the-leading-free-decision-trees-in-2e-choose-wisely/"><u>Comprehensive Evaluation of the Leading Free Decision Trees in 2E - Choose Wisely!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/efficient-regulation-compliance-search-engine-optimization/"><u>Efficient Regulation Compliance Search Engine Optimization</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-tutorials-for-smooth-ipad-game-recording-strategies/"><u>Effortless Tutorials for Smooth iPad Game Recording Strategies</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exclusive-conversations-unlocking-the-power-of-targeted-communication/"><u>Exclusive Conversations: Unlocking the Power of Targeted Communication</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-infinix-note-30-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Infinix Note 30 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone X</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-reel-in-riches-a-guide-to-earning-on-youtube-shorts/"><u>In 2024, Reel In Riches A Guide to Earning on YouTube Shorts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-of-both-worlds-top-free-and-paid-android-video-editors/"><u>New 2024 Approved The Best of Both Worlds Top Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-easy-steps-to-merge-mp4-files-seamlessly/"><u>Quick and Easy Steps to Merge MP4 Files Seamlessly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Service Management: Understanding Service Control Settings"
-date: 2024-09-27T19:22:06.588Z
-updated: 2024-09-30T08:42:41.500Z
+date: 2024-09-30T19:58:56.595Z
+updated: 2024-10-05T18:45:44.945Z
 tags:
   - user-guide
 categories:
@@ -81,20 +81,27 @@ A service Control Operation allows you to control the service's behavior after i
 
 ![Service Control Operation](https://cdn.advancedinstaller.com/img/dialog/service-control-operation.png "Service Control Operation")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Service Name
 
  This field contains the name of the controlled service. This string can be [localized](https://tools.techidaily.com/advancedinstaller/products/) and it can contain installer properties. You may choose a service to be installed from the combo box or you can enter the name of a service already installed on the target machine.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Attached Component
 
  In this field, you can specify the component which will contain the control operation. You may choose it from the drop-down list box which contains all the package's components.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Actions on install
 
@@ -105,13 +112,6 @@ A service Control Operation allows you to control the service's behavior after i
 * Delete - the service will be removed
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If all three options are checked, the existing service will be stopped and removed and the service in the package will be installed and started.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Actions on uninstall
 
@@ -124,10 +124,16 @@ A service Control Operation allows you to control the service's behavior after i
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the package's uninstallation, you can only start a service which will still be present on the target machine after the uninstall is complete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Service Parameters
@@ -135,6 +141,13 @@ A service Control Operation allows you to control the service's behavior after i
  In this section, you can specify a list of arguments separated by \[\~\] which will be executed when the service starts. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the value of these arguments. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/)
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Name
 * Events
@@ -148,13 +161,6 @@ If this option is **enabled**, the installer will wait a maximum of 30 seconds f
 If this option is **disabled**, the installer will wait until the Service Control Manager (SCM) reports that the service is in a pending state before proceeding.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -189,21 +195,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-video-editing-tools-on-the-latest-windows-11/"><u>[New] 2024 Approved Navigating Video Editing Tools on the Latest Windows 11</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unveiling-cosmic-divides-metaverse-and-multiverse-explained-for-2024/"><u>[New] Unveiling Cosmic Divides Metaverse and Multiverse Explained for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlock-professional-subtitle-transformation-at-zero-price/"><u>[Updated] 2024 Approved Unlock Professional Subtitle Transformation at Zero Price</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-superior-fb-video-player-reviews-10-to-1/"><u>2024 Approved Superior FB Video Player Reviews #10 to #1</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-buzz-factor-creating-catch-all-content-for-facebook/"><u>2024 Approved The Buzz Factor Creating Catch-All Content for Facebook</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effortless-transformation-convert-powerpoint-presentations-into-interactive-flash-slides-with-flipbuilder/"><u>Effortless Transformation: Convert PowerPoint Presentations Into Interactive Flash Slides with FlipBuilder!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/enable-offline-access-by-letting-users-print-your-flipbook-content-flipbuildercom-guide/"><u>Enable Offline Access by Letting Users Print Your FlipBook Content [FlipBuilder.com Guide]</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-create-and-distribute-a-flipping-book-in-pdfcd-format-with-flipbuilder/"><u>How to Create and Distribute a Flipping Book in PDF/CD Format with FlipBuilder</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-overcome-email-limitations-when-sharing-a-flipbook-built-in-flash-on-flipbuildercom/"><u>How to Overcome Email Limitations When Sharing a FlipBook Built in Flash on FlipBuilder.com</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-rgb-to-srgb-understanding-color-transition/"><u>In 2024, From Rgb to Srgb Understanding Color Transition</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/increase-engagement-by-offering-downloads-on-your-site-learn-the-secrets-of-flipbook-creation-flipbuildercom/"><u>Increase Engagement by Offering Downloads on Your Site - Learn the Secrets of Flipbook Creation [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/navigating-with-ease-on-flipbuildercom-how-to-select-your-preferred-language-from-the-menu-bar/"><u>Navigating with Ease on FlipBuilder.com - How to Select Your Preferred Language From the Menu Bar?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-adding-tables-in-your-ebook-with-flipbuilder/"><u>Step-by-Step Guide: Adding Tables in Your eBook with FlipBuilder</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/tulip-your-next-creative-companion-for-music-production-with-open-source-micropython-at-just-59/"><u>Tulip: Your Next Creative Companion for Music Production with Open-Source MicroPython at Just $59!</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-tecno-spark-20c-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Tecno Spark 20C on Windows?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-picks-the-most-advanced-online-mic-recorders-of-23/"><u>[New] 2024 Approved Top Picks The Most Advanced Online Mic Recorders of '23</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-5-drones-the-ultimate-professional-buy-guide/"><u>[New] Leading 5 Drones - The Ultimate Professional Buy Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pixel-personality-through-tunes-and-sounds-for-2024/"><u>[New] Pixel Personality Through Tunes and Sounds for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-imo-top-features-and-performance/"><u>Comprehensive Analysis of Imo: Top Features and Performance</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-event-oversight-strategies-for-successful-outcomes/"><u>Effective Event Oversight Strategies for Successful Outcomes</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/fast-track-guide-5-easy-methods-to-watch-videos-at-reduced-speed/"><u>Fast Track Guide: 5 Easy Methods to Watch Videos at Reduced Speed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-and-accessing-your-personalized-musical-selection-zone-on-youtube/"><u>Finding and Accessing Your Personalized Musical Selection Zone on Youtube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-crumble-to-climb-monster-world-crisis-averted/"><u>From Crumble to Climb: Monster World Crisis Averted</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-capture-a-stunning-and-professional-headshot-for-your-resume/"><u>How To Capture A Stunning & Professional Headshot For Your Résumé</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-guide-to-maximizing-spotifys-ad-space/"><u>In 2024, A Step-by-Step Guide to Maximizing Spotify's Ad Space</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/premier-retro-video-editor-tools/"><u>Premier Retro Video Editor Tools</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-setting-up-a-professional-live-stream-for-fortnite-gaming-on-windows-computer/"><u>Step-by-Step Tutorial: Setting Up a Professional Live Stream for Fortnite Gaming on Windows Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-collaborative-marketing-on-youtube/"><u>The Art of Collaborative Marketing on YouTube</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-mp3-converter-apps-mp3-rockets-worthy-competitors/"><u>Top MP3 Converter Apps: MP3 Rocket's Worthy Competitors</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-rated-audio-transformation-tool-for-windows-10-users/"><u>Top-Rated Audio Transformation Tool for Windows 10 Users</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-utilizing-apowermirror-with-aircast-technology/"><u>Ultimate Guide to Utilizing ApowerMirror with AIRCAST Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-gpus-mettle-using-these-6-tools-on-pc/"><u>Validate Your GPU's Mettle Using These 6 Tools on PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Mastering Edit Options in XML Configuration Interface"
-date: 2024-09-25T02:51:55.143Z
-updated: 2024-09-29T19:26:28.570Z
+date: 2024-10-03T19:40:30.515Z
+updated: 2024-10-05T19:15:10.060Z
 tags:
   - user-guide
 categories:
@@ -100,10 +100,10 @@ This dialog enables you to make configurations to an XML File. You can create an
 ![XML Dialog](https://cdn.advancedinstaller.com/img/dialog/xml-file.png "XML Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Manage general XML file settings
@@ -115,10 +115,10 @@ Select the XML file in the left tree and you will be able to edit general file s
  Select the XML file in the left tree. The install parameters can be modified from the [Install](https://tools.techidaily.com/advancedinstaller/products/) tab. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new XML element
@@ -132,10 +132,10 @@ Use the “New Comment” context menu option. The newly created element has a "
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This string is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new XML element removal
@@ -146,18 +146,18 @@ Use the “New Element Removal” context menu option. You can configure this op
 
 Use the “Rename” context menu option or press theF2 key while a tree item is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing an XML element or comment
 
 Use the “Delete” context menu option or press theDelete key while a tree item is selected.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The root element cannot be deleted and must match the root element of the file being updated (if any).
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Moving an XML element up, down, left or right
 
@@ -165,15 +165,15 @@ Use the “Move Up”, “Move Down”, “Move Left” or “Move Right” tree
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If an element or component is **dragged** when theShift key is pressed, it will be**copied** to its new location rather than_moved_. All its child elements and attributes will also be copied **(duplicate)**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * The **order** in which the elements appear in the tree is very important as it is used during the XML update process and should match the order of the elements from the XML file being updated.
 * You can bulk edit or delete elements by selecting them in the tree using Ctrl+Click orShift+Click shortcuts.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Escaping special XML characters
 
@@ -231,20 +231,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-magic-behind-immersive-world-creation/"><u>[New] The Magic Behind Immersive World Creation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamline-viewing-learn-to-insert-timestamps-on-videos/"><u>[Updated] 2024 Approved Streamline Viewing Learn to Insert Timestamps on Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-harnessing-instagrams-potential-with-video-posts/"><u>[Updated] In 2024, Harnessing Instagram's Potential with Video Posts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/2-eastwood-also-directed/"><u>2) Eastwood Also Directed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-a-course-for-revenue-with-ytp2024-insights/"><u>Charting a Course for Revenue with YTP2024 Insights</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-stunning-digital-flipbooks-from-printables-in-seconds-discover-the-magic-of-flip-printer-technology/"><u>Create Stunning Digital Flipbooks From Printables in Seconds - Discover the Magic of Flip Printer Technology.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/create-your-own-flipbook-from-a-word-document-using-flipbuilder/"><u>Create Your Own Flipbook From a Word Document Using FlipBuilder</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/creating-flash-format-books-from-pdfs-adding-turning-animation-and-soundscape-learn-how-with-flipbuilder-tools/"><u>Creating Flash Format Books From PDFs: Adding Turning Animation & Soundscape - Learn How with FlipBuilder Tools!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/diy-icon-replacement-for-the-flipboard-user-interface-a-comprehensive-tutorial/"><u>DIY Icon Replacement for the FlipBoard User Interface - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easily-create-and-share-interactive-pdfs-start-with-flipbooker-pro-at-wwwflipbuildercom/"><u>Easily Create and Share Interactive PDFs - Start with FlipBooker Pro at www.flipbuilder.com</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-steps-to-arrange-bookmarks-to-the-left-in-flipbuildercoms-interface/"><u>Easy Steps to Arrange Bookmarks to the Left in FlipBuilder.com's Interface</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epic-quests-how-to-build-an-intriguing-txt-rpg-with-chatgpts-dynamic-ai/"><u>From Ideas to Epic Quests: How to Build an Intriguing TXT-RPG with ChatGPT's Dynamic AI</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a14-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy A14 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-f15-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-stuttering-minecraft-on-desktops-expert-advice-updated/"><u>Ultimate Fixes for Stuttering Minecraft on Desktops - Expert Advice, Updated !</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-record-twitch-stream-5-solutions/"><u>[Updated] 2024 Approved Record Twitch Stream [5 Solutions]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conexants-high-definition-audio-driver-for-windows-11-success/"><u>Conexant's High Definition Audio Driver for Windows 11 Success</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-now-focusrites-scarlett-solo-top-quality-usb-microphone-preamp-for-win-1011/"><u>Download Now: Focusrite's Scarlett Solo - Top-Quality USB Microphone Preamp for Win 10/11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-download-of-corsair-driver-software-for-your-windows-pc/"><u>Effortless Download of Corsair Driver Software for Your Windows PC</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-text-formatting-options-tabs-and-beyond/"><u>Exploring Text Formatting Options: Tabs and Beyond</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/fast-track-guide-5-easy-methods-to-watch-videos-at-reduced-speed/"><u>Fast Track Guide: 5 Easy Methods to Watch Videos at Reduced Speed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-s23-ultra-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy S23 Ultra Is Unlocked</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964974047-obtain-upgraded-gigabit-network-interface-card-drivers-for-your-killer-e2200-device-today/"><u>Obtain Upgraded Gigabit Network Interface Card Drivers for Your Killer E2200 Device Today!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/premier-retro-video-editor-tools/"><u>Premier Retro Video Editor Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revamped-dialogue-strategies-for-engaging-podcasters-for-2024/"><u>Revamped Dialogue Strategies for Engaging Podcasters for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-setting-up-a-professional-live-stream-for-fortnite-gaming-on-windows-computer/"><u>Step-by-Step Tutorial: Setting Up a Professional Live Stream for Fortnite Gaming on Windows Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988875638-struggling-with-fortnite-login-errors-get-back-to-gaming-faster/"><u>Struggling with Fortnite Login Errors? Get Back to Gaming Faster</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-mp3-converter-apps-mp3-rockets-worthy-competitors/"><u>Top MP3 Converter Apps: MP3 Rocket's Worthy Competitors</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-rated-audio-transformation-tool-for-windows-10-users/"><u>Top-Rated Audio Transformation Tool for Windows 10 Users</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-utilizing-apowermirror-with-aircast-technology/"><u>Ultimate Guide to Utilizing ApowerMirror with AIRCAST Technology</u></a></li>
 </ul></div>
 

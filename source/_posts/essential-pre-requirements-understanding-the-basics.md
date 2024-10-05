@@ -1,7 +1,7 @@
 ---
 title: "Essential Pre-Requirements: Understanding the Basics"
-date: 2024-09-29T10:36:20.886Z
-updated: 2024-09-30T03:34:37.875Z
+date: 2024-10-02T21:18:54.299Z
+updated: 2024-10-05T17:55:35.865Z
 tags:
   - user-guide
 categories:
@@ -80,32 +80,39 @@ Table of Contents
 In this page you can select predefined prerequisites to be included in your package. You can also set global prerequisite options for the [EXE bootstrapper](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Predefined Prerequisites
 
 In the predefined prerequisites list you can simply check the prerequisites you want to include in your package. After they are added in the prerequisites tree control, you can select each prerequisite to modify its settings.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Global Prerequisite Options
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These options affect only the [EXE setup file](https://tools.techidaily.com/advancedinstaller/products/) and prerequisites included in your package.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Download/extraction folder
@@ -125,13 +132,6 @@ Specify the default download or extract folder for prerequisite files. Right-cli
 ### Do not remove prerequisite files
 
 This option prevents the removal of extracted and downloaded prerequisites. It's useful if you want to allow the end-user to repair or modify the prerequisites software installed by your package. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check launch conditions before searching for prerequisites
 
@@ -174,20 +174,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-simplified-guide-posting-igtv-on-stories/"><u>[Updated] In 2024, Simplified Guide Posting IGTV on Stories</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-tips-to-streamline-your-ipad-screen-saving-for-2024/"><u>[Updated] Ultimate Tips to Streamline Your iPad Screen Saving for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevate-your-presentations-with-smart-s2t-technology/"><u>Elevate Your Presentations with Smart S2T Technology</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-top-quality-premium-flutter-app-prototypes-from-creative-tim-get-started-now/"><u>Explore Top-Quality Premium Flutter App Prototypes From Creative Tim - Get Started Now!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-material-dashboard-template-with-bootstrap-4-and-admin-panel-creative-tim/"><u>Free Material Dashboard Template with Bootstrap 4 & Admin Panel - Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-nextjs-and-tailwind-developer-guide-masterful-courses-and-effortless-landing-templates-by-creative-tim/"><u>Free NextJS & Tailwind Developer Guide: Masterful Courses and Effortless Landing Templates by Creative Tim</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-activating-your-new-echo-dot-by-placing-it-into-pairing-mode/"><u>Guide: Activating Your New Echo Dot by Placing It Into Pairing Mode</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 Plus to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/livewire-material-dashboard-with-laravel-framework-updivision-and-creative-tim-collaboration/"><u>Livewire Material Dashboard with Laravel Framework – UpDivision and Creative Tim Collaboration</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-bootstrap-4-admin-panel-with-light-theme-pro-version-by-creative-tim/"><u>Professional Bootstrap 4 Admin Panel with Light Theme - Pro Version by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-horizon-ai-framework-integrating-chakra-ui-with-nextjs-by-creative-tim/"><u>Professional Horizon AI Framework: Integrating Chakra UI with NextJS by Creative Tim</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-download-guide-intel-thunderbolt-chip-driver-software/"><u>Quick Download Guide: Intel Thunderbolt Chip Driver Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-rings-rhythm-versus-screen-time-symphony/"><u>The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtually-balanced-screen-proportions/"><u>Virtually Balanced Screen Proportions</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-s18e-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo S18e? Fixed | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[New] 2024 Approved Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-scene-stealer-snapshot-study/"><u>[New] In 2024, Scene-Stealer Snapshot Study</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fiscal-horizons-exploring-mr-beasts-income/"><u>[Updated] 2024 Approved Fiscal Horizons Exploring Mr. Beast's Income</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-straightforward-strategies-for-iphones-screen-recording-for-2024/"><u>[Updated] Straightforward Strategies for iPhone's Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-step-by-step-guide-transferring-data-from-your-huawei-nova-5-smartphone-to-a-windows-or-mac-computer/"><u>1. Step-by-Step Guide: Transferring Data From Your Huawei Nova 5 Smartphone to a Windows or Mac Computer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-windows-movie-maker-tips-for-youtube-editing-excellence/"><u>2024 Approved Windows Movie Maker Tips for YouTube Editing Excellence</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/best-tools-for-capturing-and-sharing-your-viber-conversations/"><u>Best Tools for Capturing and Sharing Your Viber Conversations</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-techniques-for-creating-stunning-time-lapse-videos-capturing-every-detail-efficiently/"><u>Effective Techniques for Creating Stunning Time-Lapse Videos: Capturing Every Detail Efficiently</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/enhancing-user-experience-with-auto-exit-application-updates/"><u>Enhancing User Experience with Auto-Exit Application Updates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-a05s-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel A05s</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-mathematics-with-these-7-ai-tools-solve-complex-equations-easily/"><u>Mastering Mathematics with These 7 AI Tools - Solve Complex Equations Easily</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/playing-lossless-music-on-ios-the-ultimate-tutorial-for-flac-format-mastery/"><u>Playing Lossless Music on iOS: The Ultimate Tutorial for FLAC Format Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-enhancing-clarity-in-google-meet-calls/"><u>Step-by-Step Enhancing Clarity in Google Meet Calls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-preferred-alternative-contact-number-applications/"><u>Top 8 Preferred Alternative Contact Number Applications</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-malvertising-a-guide-by-malwarefox/"><u>Understanding Malvertising: A Guide by MalwareFox</u></a></li>
 </ul></div>
 
