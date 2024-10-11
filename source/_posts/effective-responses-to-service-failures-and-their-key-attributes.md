@@ -1,7 +1,7 @@
 ---
 title: Effective Responses to Service Failures and Their Key Attributes
-date: 2024-09-28T20:14:53.807Z
-updated: 2024-10-05T17:36:23.823Z
+date: 2024-10-05T20:27:16.455Z
+updated: 2024-10-11T03:57:07.161Z
 tags:
   - user-guide
 categories:
@@ -81,32 +81,25 @@ Table of Contents
 A service Failure Operation allows you to set failure actions for a service which is already installed or being installed by the current package.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Service Name
 
  This field contains a string which represents the name of the service on which to set the failure actions. This string can be [localized](https://tools.techidaily.com/advancedinstaller/products/) and it can contain installer properties. You may choose a service to be installed from the combo box or you can enter the name of a service already installed on the target machine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Attached Component
 
  In this field you can specify the component which will contain the failure operation. You may choose it from the drop-down list box which contains all the package's components.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Configure On
@@ -132,10 +125,10 @@ In this section you can specify a message to be sent to network users before res
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To keep current message intact leave this field empty.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Run Program
@@ -143,6 +136,13 @@ In this section you can specify a message to be sent to network users before res
  In this section you can specify a program to run in response to a "Run a program" action specified in the "Failure Actions" list. Use \[\~\] formatted string to delete the current command and run no program when the service fails. To keep using the current run program leave this field empty.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The specified change takes effect next time the system is started.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -182,24 +182,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-easy-tweaks-changing-fishy-vocal-patterns-on-windows-for-2024/"><u>[Updated] Easy Tweaks Changing Fishy Vocal Patterns on Windows for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-stream-perfecting-tweets-with-correct-video-formats/"><u>[Updated] Stream-Perfecting Tweets with Correct Video Formats</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-ps1-emulation-software-on-modern-computers/"><u>[Updated] Top 5 PS1 Emulation Software on Modern Computers</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-evaluation-of-the-leading-free-decision-trees-in-2e-choose-wisely/"><u>Comprehensive Evaluation of the Leading Free Decision Trees in 2E - Choose Wisely!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/csr8510-a10-driver-malfunctions-on-windows-comprehensive-solutions-and-support-advice/"><u>CSR8510 A10 Driver Malfunctions on Windows - Comprehensive Solutions and Support Advice</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/efficient-regulation-compliance-search-engine-optimization/"><u>Efficient Regulation Compliance Search Engine Optimization</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effortless-tutorials-for-smooth-ipad-game-recording-strategies/"><u>Effortless Tutorials for Smooth iPad Game Recording Strategies</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/essential-insights-on-configuring-folder-position-attributes/"><u>Essential Insights on Configuring Folder Position Attributes</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exclusive-conversations-unlocking-the-power-of-targeted-communication/"><u>Exclusive Conversations: Unlocking the Power of Targeted Communication</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-top-real-estate-opportunities-with-cab-properties/"><u>Explore Top Real Estate Opportunities with CAB Properties</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-black-display-problems-in-far-cry-6-a-comprehensive-guide/"><u>Fixing Black Display Problems in Far Cry 6: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-techniques-for-eliminating-the-filmora-emblem-from-your-videos-this-year/"><u>Free Techniques for Eliminating the Filmora Emblem From Your Videos This Year</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-effective-is-windows-defender-in-ensuring-robust-cybersecurity/"><u>How Effective Is Windows Defender in Ensuring Robust Cybersecurity?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-6s-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 6s Plus With 7 Methods</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-officejet-pro-8715-fresh-driver-downloads-for-smooth-functionality-on-multiple-windows-versions/"><u>HP OfficeJet Pro 8715: Fresh Driver Downloads for Smooth Functionality on Multiple Windows Versions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-12-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 12 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-and-easy-steps-to-merge-mp4-files-seamlessly/"><u>Quick and Easy Steps to Merge MP4 Files Seamlessly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-anywhere-now-leading-trio-of-language-learning-aids/"><u>Speak Anywhere, Now: Leading Trio of Language Learning Aids</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-reconnecting-to-functional-steam-content-servers/"><u>Troubleshooting and Reconnecting to Functional Steam Content Servers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-examination-samsungs-complete-360-camera-experience/"><u>[New] Full Examination Samsung's Complete 360° Camera Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-most-effective-ways-to-log-youtube-live-events-for-2024/"><u>[New] Most Effective Ways to Log YouTube Live Events for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-a-path-to-success-exploring-15-top-youtube-beginnings/"><u>[Updated] In 2024, Charting a Path to Success Exploring 15 Top YouTube Beginnings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-iphone-x-the-ultimate-guide-for-users/"><u>[Updated] Mastering iPhone X The Ultimate Guide for Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-assistance-for-complex-equations/"><u>AI Assistance for Complex Equations</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-updating-asus-pce-ac56-drivers-for-windows-1087-issues-fixed/"><u>Comprehensive Guide to Updating ASUS PCE-AC56 Drivers for Windows 10/8/7 [ISSUES FIXED]</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-does-iregistryvalue-work-understanding-its-functionality-and-application/"><u>How Does IRegistryValue Work? Understanding Its Functionality and Application</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/48497077-in-2024-spark-inspiration-free-soundtracks-to-enhance-projects/"><u>In 2024, Spark Inspiration - Free Soundtracks to Enhance Projects</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-effectively-hiding-identities-by-blurring-faces-in-images/"><u>Step-by-Step Guide: Effectively Hiding Identities by Blurring Faces in Images</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-avi-videos-into-optimized-3gp-streamlines-storage-and-playback/"><u>Step-by-Step Guide: Transforming AVI Videos Into Optimized 3GP Streamlines Storage and Playback</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-free-online-tools-for-screen-recording/"><u>Top Free Online Tools for Screen Recording</u></a></li>
 </ul></div>
 

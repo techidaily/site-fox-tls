@@ -1,7 +1,7 @@
 ---
 title: Seamless App Installation with EasyTab
-date: 2024-09-30T16:13:18.695Z
-updated: 2024-10-05T20:31:34.902Z
+date: 2024-10-03T20:58:23.411Z
+updated: 2024-10-10T20:12:45.454Z
 tags:
   - user-guide
 categories:
@@ -89,41 +89,34 @@ App Installer allows installation of Windows 10 apps by double clicking the app 
 
 An AppInstaller is an XML file that contains information about an APPX/MSIX package. It is used by Windows to check for updates to the package and to install them automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### URL
 
 A folder containing the MSIX resulted from the build (the output of the build must be copied in this folder). Both https and file:// protocols are supported.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The dependencies of the package are expected to be in a subfolder named Dependencies under the folder above. Also the package of each dependency must have the name identical with its package ID.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Frequency check
 
 Select how often will Windows check if your application has pending updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Show prompt
@@ -133,10 +126,10 @@ Informs the user about the update through a prompt.
 _Available in Windows 10, version 1903 and later._
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Updates block activation
@@ -154,6 +147,13 @@ _Available in Windows 10, version 1903 and later._
 With this option enabled, periodic checks for updates are made in the background even if the application was not launched. The check for updates interval is 8 hours. 
 
 _Available in Windows 10, version 1803 and later._
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Force update from any version
 
@@ -194,22 +194,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-streamlining-access-to-fb-live-via-roku/"><u>[New] 2024 Approved Streamlining Access to FB Live via Roku</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-solving-sync-issues-between-cameras-and-obs/"><u>[New] Solving Sync Issues Between Cameras and OBS</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/advanced-dialogue-management-tools-the-ultimate-guide/"><u>Advanced Dialogue Management Tools: The Ultimate Guide</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effortless-guide-how-to-get-mp3-files-onto-your-android-phone/"><u>Effortless Guide: How to Get MP3 Files Onto Your Android Phone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-does-iregistryvalue-work-understanding-its-functionality-and-application/"><u>How Does IRegistryValue Work? Understanding Its Functionality and Application</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-t2-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo T2 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004749987-mastering-optimal-performance-no-more-lag-with-resident-evil-village-on-your-pc/"><u>Mastering Optimal Performance: No More Lag with Resident Evil Village on Your PC</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-record-like-a-pro-top-10-webcam-software-for-windows-10/"><u>New In 2024, Record Like a Pro Top 10 Webcam Software for Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-video-card-problems-in-the-sims-4-expert-solutions/"><u>Resolving Video Card Problems in The Sims 4 - Expert Solutions</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-avi-videos-into-optimized-3gp-streamlines-storage-and-playback/"><u>Step-by-Step Guide: Transforming AVI Videos Into Optimized 3GP Streamlines Storage and Playback</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-image-backdrops-into-pure-white/"><u>Step-by-Step Guide: Transforming Image Backdrops Into Pure White</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-7-high-earning-remote-job-tools-maximize-your-profits-working-from-anywhere/"><u>Top 7 High-Earning Remote Job Tools: Maximize Your Profits Working From Anywhere</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-free-online-tools-for-screen-recording/"><u>Top Free Online Tools for Screen Recording</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-programs-for-creating-engaging-training-video-content/"><u>Top Programs for Creating Engaging Training Video Content</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722791500090-unboxing-and-testing-the-fitbit-inspire-hr-a-non-stop-health-monitor-for-daily-workouts-reviewed/"><u>Unboxing & Testing the Fitbit Inspire HR – A Non-Stop Health Monitor for Daily Workouts Reviewed!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-your-inner-hero-basic-diablo-play-mechanics/"><u>Unleashing Your Inner Hero: Basic Diablo Play Mechanics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-the-seamless-transition-from-obs-to-facebook-live-for-2024/"><u>[Updated] Mastering the Seamless Transition From OBS to Facebook Live for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-top-trends-in-instagram-hashtags-for-enhanced-reach-for-2024/"><u>[Updated] Top Trends in #Instagram Hashtags for Enhanced Reach for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/discover-essential-latest-innovations-in-the-iphone-x-and-iphone-8/"><u>Discover Essential Latest Innovations in the iPhone X & iPhone 8</u></a></li>
+<li><a href="https://win-blog.techidaily.com/endureless-control-malfunctions-heres-how-to-fix-them-swiftly-and-easily/"><u>Endureless Control Malfunctions? Here's How to Fix Them Swiftly and Easily!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-concept-of-index-or-homepage-your-guide-to-browsers-main-file/"><u>Exploring the Concept of 'Index' Or Homepage: Your Guide to Browser's Main File</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-hd-mp3-and-mp4-song-tracks-from-the-63rd-grammy-awards-ceremony-in-202-cuisinetypecakes/"><u>Full HD MP3 and MP4 Song Tracks From the 63Rd Grammy Awards Ceremony in 202 Cuisine_type=cakes</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-validate-your-xml-documents-effective-techniques-and-tips/"><u>How To Validate Your XML Documents: Effective Techniques & Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-direct-transfer-techniques-camera-roll-images-to-snapchat/"><u>In 2024, Direct Transfer Techniques Camera Roll Images to Snapchat</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/managing-access-with-the-permissions-tab-in-xml-documents/"><u>Managing Access with the Permissions Tab in XML Documents</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/masterful-video-starts-get-them-for-free-for-2024/"><u>Masterful Video Starts, Get Them for Free for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/next-gen-itranslationscomponent-optimizing-multilingual-applications-in-tech-industry/"><u>Next-Gen ITranslationsComponent: Optimizing Multilingual Applications in Tech Industry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-update-failure-code-0xc004f050/"><u>Overcoming Common Update Failure Code 0xC004F050</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-xml-a-guide-to-mastering-element-attributes-in-the-properties-pane/"><u>Understanding XML: A Guide to Mastering Element Attributes in the Properties Pane</u></a></li>
 </ul></div>
 

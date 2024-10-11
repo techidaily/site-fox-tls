@@ -1,7 +1,7 @@
 ---
 title: Navigating the Permissions Tab in Your Installer Projects
-date: 2024-09-28T17:45:14.650Z
-updated: 2024-10-05T18:31:32.026Z
+date: 2024-10-08T16:43:25.696Z
+updated: 2024-10-11T06:09:01.539Z
 tags:
   - user-guide
 categories:
@@ -101,22 +101,21 @@ Table of Contents
 
 ![Permissions Dialog](https://cdn.advancedinstaller.com/img/dialog/folder-permission.png "Permissions Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New...
 
  This button creates a new permission for the selected file, folder, registry key or value. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). You can use the Insert key while the "Groups or user names" list is focused to create a new share permission. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit...
@@ -124,30 +123,37 @@ Table of Contents
  Shows you the selected permission's properties and allows you to change them. You can use the Space key while en element is selected, to edit its properties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove
 
  Removes the selected permission. You can use theDelete key while an element from the list is selected to delete that entry.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Keep existing permissions
 
 The default permissions from target folder on disk at install time will be preserved and the new permissions will be added on top of them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Apply to all subfolders
 
 The current folder permissions are inherited by all subfolders in the project.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -187,16 +193,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-boost-views-and-engagement-top-rated-online-keyword-generators/"><u>[New] Boost Views and Engagement Top-Rated Online Keyword Generators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-favourites-revealed-top-20-anime-melodies-for-2024/"><u>[New] Favourites Revealed Top 20 Anime Melodies for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-expert-review-of-apeaksoft-for-video-capture-technology-for-2024/"><u>[Updated] Expert Review of Apeaksoft for Video Capture Technology for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-monetizing-video-how-much-does-a-single-streamer-earn/"><u>[Updated] In 2024, Monetizing Video How Much Does a Single Streamer Earn?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-rapid-reactivities-leading-fast-paced-titles-on-pc-and-tablet/"><u>[Updated] Rapid Reactivities Leading Fast-Paced Titles on PC & Tablet</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guide-to-file-system-navigation-during-software-deployment/"><u>Guide to File System Navigation During Software Deployment</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A05s</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-and-easy-guide-top-apps-for-instantly-sharpening-blurry-photos-on-iphone/"><u>Quick & Easy Guide: Top Apps for Instantly Sharpening Blurry Photos on iPhone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-guide-clearing-private-data-off-your-ios-smartphone-effortlessly/"><u>Quick Guide: Clearing Private Data Off Your iOS Smartphone Effortlessly</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-guide-syncing-your-iphone-11-with-a-pc-via-wireless-methods/"><u>Ultimate Guide: Syncing Your iPhone 11 with a PC via Wireless Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862827375-upgrade-to-a-new-level-of-productivity-with-the-premium-lg-34-inch-ultragear-screen-at-an-unbeatable-price-of-499/"><u>Upgrade to a New Level of Productivity With the Premium LG 34-Inch UltraGear Screen at an Unbeatable Price of $499</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-8-best-fbx-game-recorder-alternatives/"><u>[New] In 2024, Top 8 Best FBX Game Recorder Alternatives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-librevid-x-version-10-reviewed-highlights-and-downsides/"><u>[New] LibreVid X Version 10 Reviewed Highlights and Downsides</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exploring-fb-video-aspect-proportions-for-2024/"><u>[Updated] Exploring FB Video Aspect Proportions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screencast-excellence-the-ultimate-guide-to-best-obs-tools-for-2024/"><u>[Updated] Screencast Excellence The Ultimate Guide to Best OBS Tools for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-steps-for-creating-an-eye-catching-quotation-photo/"><u>1. Steps for Creating an Eye-Catching Quotation Photo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-responses-to-service-failures-and-their-key-attributes/"><u>Effective Responses to Service Failures and Their Key Attributes</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/essential-pre-requirements-understanding-the-basics/"><u>Essential Pre-Requirements: Understanding the Basics</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-features-of-the-jvm-configuration-tabs/"><u>Exploring the Features of the JVM Configuration Tabs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-updated-dell-monitor-drivers-from-home/"><u>Hassle-Free Installation of Updated Dell Monitor Drivers From Home</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-6-plus-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone 6 Plus IMEI Checker</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mac-vlc-trimmer-effortlessly-cut-videos-without-compromising-quality/"><u>Mac VLC Trimmer Effortlessly Cut Videos Without Compromising Quality</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-json-files-a-deep-dive-into-the-tabbed-preferences/"><u>Mastering JSON Files: A Deep Dive Into the 'Tabbed Preferences'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-teases-artificial-intelligence-capabilities-for-legacy-galaxy-devices/"><u>Samsung Teases Artificial Intelligence Capabilities for Legacy Galaxy Devices</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/seamless-app-installation-with-easytab/"><u>Seamless App Installation with EasyTab</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/speedy-android-syncing-tutorial-steps-for-seamless-mobile-data-transfer-to-desktop-systems/"><u>Speedy Android Syncing Tutorial: Steps for Seamless Mobile Data Transfer to Desktop Systems</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-three-techniques-for-extracting-audio-from-your-dvd-collection/"><u>Top Three Techniques for Extracting Audio From Your DVD Collection</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-on-converting-cds-to-high-quality-mp3-format-using-top-ripping-tools/"><u>Ultimate Guide on Converting CDs to High-Quality MP3 Format Using Top Ripping Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-speech-recognition-in-ms-word-for-efficient-documentation-for-2024/"><u>Unlocking the Full Potential of Speech Recognition in MS Word for Efficient Documentation for 2024</u></a></li>
 </ul></div>
 

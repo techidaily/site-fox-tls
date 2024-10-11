@@ -1,7 +1,7 @@
 ---
 title: "Understanding MIME Type Classification: A Key Element in Web Communication"
-date: 2024-10-01T17:28:38.888Z
-updated: 2024-10-05T21:30:40.379Z
+date: 2024-10-04T04:44:20.065Z
+updated: 2024-10-10T16:23:07.192Z
 tags:
   - user-guide
 categories:
@@ -101,10 +101,10 @@ Multipurpose Internet Mail Extensions (MIME) is a specification for creating fil
 ![Mime types](https://cdn.advancedinstaller.com/img/ui/mime-types.png "Mime types")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new MIME
@@ -116,10 +116,10 @@ Use the \[New... \] button, the “New...” context menu item or press theInser
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a MIME
@@ -129,17 +129,17 @@ Use the \[Remove \] button, the “Remove” context menu item or press theDelet
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can configure a global MIME map for the entire IIS server once you have added at least a Web Site or a Virtual Directory.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -180,19 +180,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-selection-high-quality-zero-price-free-luts-for-2024/"><u>[New] The Ultimate Selection High Quality, Zero Price Free LUTs for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-can-i-browse-through-all-my-contacts-shared-videos-and-photos-for-2024/"><u>[Updated] Can I Browse Through All My Contact's Shared Videos & Photos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unleashing-your-gopro-potential-must-have-additions/"><u>[Updated] Unleashing Your GoPro Potential - Must-Have Additions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-10-ultimate-screen-capture-tool/"><u>[Updated] Windows 10 Ultimate Screen Capture Tool</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/bypassing-issues-with-elgato-hd60-drivers-simple-steps-to-success/"><u>Bypassing Issues with Elgato HD60 Drivers - Simple Steps to Success</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-wi-fi-fix-for-microsoft-surface-users-facing-connection-problems/"><u>DIY Wi-Fi Fix for Microsoft Surface Users Facing Connection Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-download-updated-printer-driver-for-hp-officejet-pro-n9015/"><u>Easy Download: Updated Printer Driver for HP OfficeJet Pro N9015</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/efficient-registry-selection-interface-the-ultimate-guide/"><u>Efficient Registry Selection Interface: The Ultimate Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-virtuoso-broadcasting-services/"><u>Elite Virtuoso Broadcasting Services</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-13c-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi 13C 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/leading-image-editing-programs-top-tools-for-windows-and-macos-users/"><u>Leading Image Editing Programs: Top Tools for Windows & macOS Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/optimizing-the-installation-process-with-advanced-pre-install-uis/"><u>Optimizing the Installation Process with Advanced Pre-Install UIs</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/reliable-teamspeak-strategies-for-superior-communication/"><u>Reliable TeamSpeak Strategies for Superior Communication</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/troubleshooting-a-non-functioning-video-detector-during-download-process/"><u>Troubleshooting a Non-Functioning Video Detector During Download Process</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-best-on-the-move-dvd-player-selections-for-you/"><u>[New] Best On-the-Move DVD Player Selections for You</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-want-to-send-snaps-from-camera-roll-see-how-it-is-done/"><u>[New] In 2024, Want to Send Snaps From Camera Roll? See How It Is Done</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-imaginative-inspirations-for-virtual-explorers-the-best-metaverse-moments/"><u>[Updated] Imaginative Inspirations for Virtual Explorers The Best Metaverse Moments</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-legality-of-recording-on-youtube-platform/"><u>[Updated] Legality of Recording on YouTube Platform?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/customizing-video-assets-for-instagram-mastery/"><u>Customizing Video Assets for Instagram Mastery</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-guide-how-to-get-mp3-files-onto-your-android-phone/"><u>Effortless Guide: How to Get MP3 Files Onto Your Android Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/framed-fantasies-expert-recommendations-on-software-and-sites-for-2024/"><u>Framed Fantasies Expert Recommendations on Software & Sites for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-logitech-steering-wheel-software-downloads-compatible-with-windows-7-10-and-11/"><u>Free Logitech Steering Wheel Software Downloads: Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-does-iregistryvalue-work-understanding-its-functionality-and-application/"><u>How Does IRegistryValue Work? Understanding Its Functionality and Application</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-sound-editing-shorten-audio-sections-in-imovie-for-mac-and-iphone-for-2024/"><u>Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-avi-videos-into-optimized-3gp-streamlines-storage-and-playback/"><u>Step-by-Step Guide: Transforming AVI Videos Into Optimized 3GP Streamlines Storage and Playback</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-7-high-earning-remote-job-tools-maximize-your-profits-working-from-anywhere/"><u>Top 7 High-Earning Remote Job Tools: Maximize Your Profits Working From Anywhere</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-free-online-tools-for-screen-recording/"><u>Top Free Online Tools for Screen Recording</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-programs-for-creating-engaging-training-video-content/"><u>Top Programs for Creating Engaging Training Video Content</u></a></li>
 </ul></div>
 

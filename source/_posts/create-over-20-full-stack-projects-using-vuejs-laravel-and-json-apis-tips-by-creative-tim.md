@@ -1,7 +1,7 @@
 ---
 title: Create Over 20 Full Stack Projects Using Vue.js, Laravel & JSON APIs | Tips by Creative Tim
-date: 2024-09-30T18:57:15.079Z
-updated: 2024-10-05T17:23:14.636Z
+date: 2024-10-07T22:33:18.307Z
+updated: 2024-10-11T00:33:35.600Z
 tags:
   - product
 categories:
@@ -20,19 +20,25 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,16 +60,22 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-introduction-to-swift-video-streaming-on-snapchat/"><u>2024 Approved Introduction to Swift Video Streaming on Snapchat</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/a-comprehensive-review-the-good-and-not-so-good-in-qc30/"><u>A Comprehensive Review: The Good & Not-So-Good in QC30</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capturing-life-from-above-yuneec-breeze-experience-for-2024/"><u>Capturing Life From Above Yuneec Breeze Experience for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-downloading-vh1-shows-and-episodes-seamlessly/"><u>Effortless Guide: Downloading VH1 Shows & Episodes Seamlessly</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/fortifying-your-digital-life-a-step-by-step-guide-to-achieving-impervious-computer-safety-through-multi-tier-security/"><u>Fortifying Your Digital Life: A Step-by-Step Guide to Achieving Impervious Computer Safety Through Multi-Tier Security</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-design-one-of-a-kind-registration-tokens-with-easy-steps/"><u>How to Design One-of-a-Kind Registration Tokens with Easy Steps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo V29 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ideal-replacements-for-foxit-reader-top-pdf-editors-you-should-try/"><u>Ideal Replacements for Foxit Reader: Top PDF Editors You Should Try</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-hot-40-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Hot 40 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/persistent-adware-understanding-its-recurrence-and-how-to-prevent-it/"><u>Persistent Adware: Understanding Its Recurrence and How to Prevent It</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-video-recording-tools-effective-substitutes-for-camtasia/"><u>Top Video Recording Tools: Effective Substitutes for Camtasia</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-and-the-evolution-of-short-form-videos-a-2023-perspective-for-2024/"><u>[New] Facebook and the Evolution of Short-Form Videos A 2023 Perspective for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mp3-masterclass-easy-audio-to-video-for-youtube-enthusiasts/"><u>[New] MP3 Masterclass Easy Audio to Video for YouTube Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade/"><u>[New] Trailblaze Your Way to Success Insights on YouTube Metrics with Social Blade</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>[Updated] 2024 Approved Tune & Time Lapses Creating Music Videos with Your Phone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-peeksnapper-a-critical-examination-of-micro-recording-tools-for-2024/"><u>[Updated] PeekSnapper A Critical Examination of Micro-Recording Tools for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-online-marketplaces-for-partnering-with-youtube-content-makers/"><u>2024 Approved Online Marketplaces for Partnering With YouTube Content Makers</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/essential-insights-on-configuring-folder-position-attributes/"><u>Essential Insights on Configuring Folder Position Attributes</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/explore-our-selection-of-gourmet-java-goodies-and-kitchenware/"><u>Explore Our Selection of Gourmet Java Goodies and Kitchenware</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/explore-top-real-estate-opportunities-with-cab-properties/"><u>Explore Top Real Estate Opportunities with CAB Properties</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/free-techniques-for-eliminating-the-filmora-emblem-from-your-videos-this-year/"><u>Free Techniques for Eliminating the Filmora Emblem From Your Videos This Year</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-effective-is-windows-defender-in-ensuring-robust-cybersecurity/"><u>How Effective Is Windows Defender in Ensuring Robust Cybersecurity?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-mini-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 mini without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-use-of-interfaces-and-extensions-in-software-development-the-ultimate-guide/"><u>Mastering the Use of Interfaces and Extensions in Software Development: The Ultimate Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-world-of-media-with-vlc-on-mac/"><u>Navigating the World of Media with VLC on Mac</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-easy-steps-to-merge-mp4-files-seamlessly/"><u>Quick and Easy Steps to Merge MP4 Files Seamlessly</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-effortless-guide-migrating-music-from-an-iphone-evo-to-iphone-6/"><u>Quick and Effortless Guide: Migrating Music From an iPhone Evo to iPhone 6</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-itel-a05s-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Itel A05s Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Mastering Edit Options in XML Configuration Interface"
-date: 2024-10-03T19:40:30.515Z
-updated: 2024-10-05T19:15:10.060Z
+date: 2024-10-09T01:10:42.033Z
+updated: 2024-10-11T05:16:29.243Z
 tags:
   - user-guide
 categories:
@@ -99,13 +99,6 @@ This dialog enables you to make configurations to an XML File. You can create an
 
 ![XML Dialog](https://cdn.advancedinstaller.com/img/dialog/xml-file.png "XML Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Manage general XML file settings
 
 Select the XML file in the left tree and you will be able to edit general file settings in the [File Settings Tab](https://tools.techidaily.com/advancedinstaller/products/). 
@@ -115,15 +108,22 @@ Select the XML file in the left tree and you will be able to edit general file s
  Select the XML file in the left tree. The install parameters can be modified from the [Install](https://tools.techidaily.com/advancedinstaller/products/) tab. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new XML element
 
 Use the “New Element” context menu option or press the Insert key while an existing XML element is selected in the tree in order to create a child node. The newly created element has an [Element Settings](https://tools.techidaily.com/advancedinstaller/products/) tab and an [Attributes](https://tools.techidaily.com/advancedinstaller/products/) tab. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creating a new XML comment
 
@@ -132,15 +132,22 @@ Use the “New Comment” context menu option. The newly created element has a "
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This string is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new XML element removal
 
 Use the “New Element Removal” context menu option. You can configure this operation from its [Element Removal](https://tools.techidaily.com/advancedinstaller/products/) tab. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Renaming an XML element or comment
 
@@ -152,28 +159,21 @@ Use the “Delete” context menu option or press theDelete key while a tree ite
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The root element cannot be deleted and must match the root element of the file being updated (if any).
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Moving an XML element up, down, left or right
 
 Use the “Move Up”, “Move Down”, “Move Left” or “Move Right” tree context menu items or press Shift + Up, Shift + Down, Shift + Left or Shift + Right. When moving to the left, the element will be moved after the last element of its parent element. When moving to the right, the element will be moved after the last child element of the element before it. You can also _move elements_ and comments by**drag and drop**. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If an element or component is **dragged** when theShift key is pressed, it will be**copied** to its new location rather than_moved_. All its child elements and attributes will also be copied **(duplicate)**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * The **order** in which the elements appear in the tree is very important as it is used during the XML update process and should match the order of the elements from the XML file being updated.
 * You can bulk edit or delete elements by selecting them in the tree using Ctrl+Click orShift+Click shortcuts.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Escaping special XML characters
 
@@ -231,20 +231,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-record-twitch-stream-5-solutions/"><u>[Updated] 2024 Approved Record Twitch Stream [5 Solutions]</u></a></li>
-<li><a href="https://driver-install.techidaily.com/conexants-high-definition-audio-driver-for-windows-11-success/"><u>Conexant's High Definition Audio Driver for Windows 11 Success</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-now-focusrites-scarlett-solo-top-quality-usb-microphone-preamp-for-win-1011/"><u>Download Now: Focusrite's Scarlett Solo - Top-Quality USB Microphone Preamp for Win 10/11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-download-of-corsair-driver-software-for-your-windows-pc/"><u>Effortless Download of Corsair Driver Software for Your Windows PC</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-text-formatting-options-tabs-and-beyond/"><u>Exploring Text Formatting Options: Tabs and Beyond</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/fast-track-guide-5-easy-methods-to-watch-videos-at-reduced-speed/"><u>Fast Track Guide: 5 Easy Methods to Watch Videos at Reduced Speed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-s23-ultra-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy S23 Ultra Is Unlocked</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964974047-obtain-upgraded-gigabit-network-interface-card-drivers-for-your-killer-e2200-device-today/"><u>Obtain Upgraded Gigabit Network Interface Card Drivers for Your Killer E2200 Device Today!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/premier-retro-video-editor-tools/"><u>Premier Retro Video Editor Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revamped-dialogue-strategies-for-engaging-podcasters-for-2024/"><u>Revamped Dialogue Strategies for Engaging Podcasters for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-setting-up-a-professional-live-stream-for-fortnite-gaming-on-windows-computer/"><u>Step-by-Step Tutorial: Setting Up a Professional Live Stream for Fortnite Gaming on Windows Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722988875638-struggling-with-fortnite-login-errors-get-back-to-gaming-faster/"><u>Struggling with Fortnite Login Errors? Get Back to Gaming Faster</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-mp3-converter-apps-mp3-rockets-worthy-competitors/"><u>Top MP3 Converter Apps: MP3 Rocket's Worthy Competitors</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-rated-audio-transformation-tool-for-windows-10-users/"><u>Top-Rated Audio Transformation Tool for Windows 10 Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-utilizing-apowermirror-with-aircast-technology/"><u>Ultimate Guide to Utilizing ApowerMirror with AIRCAST Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-end-asus-monitor-4k-precision-hdr-mastery/"><u>[New] High-End ASUS Monitor 4K Precision, HDR Mastery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-lifetime-favorites-reddits-highly-endorsed-top-10/"><u>[New] In 2024, Lifetime Favorites Reddit's Highly-Endorsed Top 10</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-beat-the-competition-designing-unforgettable-tiktok-dancing-on-a-mac/"><u>[Updated] Beat the Competition Designing Unforgettable TikTok Dancing on a Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-expert-techniques-for-effective-social-sharing-via-pins/"><u>[Updated] Expert Techniques for Effective Social Sharing via Pins</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fading-audio-tracks-with-ease-in-adobe-premiere-pro/"><u>[Updated] Fading Audio Tracks with Ease in Adobe Premiere Pro</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/crafting-seamless-layouts-an-expert-guide-to-the-edit-pattern-box/"><u>Crafting Seamless Layouts: An Expert Guide to the Edit Pattern Box</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-dhcp-communication-errors-why-your-device-cant-reach-the-server/"><u>Fixing DHCP Communication Errors: Why Your Device Can't Reach the Server</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-use-our-no-cost-3gp-video-converter-for-seamless-digital-media-adaptation/"><u>How to Use Our No-Cost 3GP Video Converter for Seamless Digital Media Adaptation</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ipathvariable-explained-key-strategies-for-boosting-your-sites-seo-performance/"><u>IPathVariable Explained: Key Strategies for Boosting Your Site's SEO Performance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/petcubes-most-economical-hd-pets-camera-a-buyers-guide/"><u>Petcube's Most Economical HD Pets Camera – A Buyer's Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-rtl81n8cu-drivers-free-download-for-enhanced-connectivity-on-windows-117/"><u>Realtek RTL81n8CU Drivers: Free Download for Enhanced Connectivity on Windows 11/7</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-strategies-for-removing-unwanted-icloud-storage/"><u>Simple Strategies for Removing Unwanted iCloud Storage</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-setting-up-a-secure-windows-sandbox-environment/"><u>Step-by-Step Guide: Setting Up a Secure Windows Sandbox Environment</u></a></li>
 </ul></div>
 

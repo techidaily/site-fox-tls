@@ -1,7 +1,7 @@
 ---
 title: "All-in-One JRE Suite: Your Essential Compilation of Java Development Resources"
-date: 2024-09-28T20:20:50.984Z
-updated: 2024-10-05T21:42:13.941Z
+date: 2024-10-05T16:59:19.041Z
+updated: 2024-10-10T19:14:53.993Z
 tags:
   - user-guide
 categories:
@@ -91,13 +91,6 @@ A 64-bit JRE Bundle can be specified for 64-bit packages or for 64-bit Java Prod
 
 If an x86 Package Type is used, the 64-bit JRE Bundle can only be specified if the "64-bit" Platform is selected for the Java product in [Java Product Settings Tab.](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Destination
 
 ### Folder
@@ -107,20 +100,26 @@ In this field, you can specify where the bundle will be placed/installed (you wi
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can specify this folder only the first time you select a JRE bundle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Source
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Folder
 
@@ -129,13 +128,20 @@ In this field, you can select the location of the JRE you want to be bundled wit
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Builds with the same destination folder use the same JRE bundle. If you change the JRE bundled, that change will apply to all the builds that use the same destination folder. The content of the destination folder will be removed, and the files from the specified source folder will be added.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The files from the JRE bundle are included only in the current build and in any other build with the same destination folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -170,24 +176,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-freedom-with-top-rated-android-editing-apps/"><u>[New] 2024 Approved Harness Freedom with Top-Rated Android Editing Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-fade-strategies-for-dynamic-videos/"><u>[Updated] Expert Fade Strategies for Dynamic Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-explore-the-ultimate-selection-of-free-slide-show-designs-for-2024/"><u>[Updated] Explore the Ultimate Selection of Free Slide Show Designs for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/boost-efficiency-with-the-latest-abbyy-finescanner-app-enhanced-performance-and-faster-document-processing-on-ios-devices/"><u>Boost Efficiency with the Latest ABBYY FineScanner App: Enhanced Performance & Faster Document Processing on iOS Devices!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/can-modern-anti-malware-solutions-successfully-clean-up-current-viruses-on-your-device/"><u>Can Modern Anti-Malware Solutions Successfully Clean Up Current Viruses on Your Device?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/complete-user-manual-navigating-apowersofts-background-eraser-tool/"><u>Complete User Manual: Navigating Apowersoft's Background Eraser Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/curated-collection-of-enchanting-movies-for-families-on-amazon-prime-this-july/"><u>Curated Collection of Enchanting Movies for Families on Amazon Prime This July</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/discover-10-prime-replacements-for-google-play-on-your-android-device/"><u>Discover 10 Prime Replacements for Google Play on Your Android Device</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-techniques-to-break-down-a-single-pdf-file-into-smaller-pieces/"><u>Easy Techniques to Break Down a Single PDF File Into Smaller Pieces</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effective-strategies-for-optimizing-iupdatetargets/"><u>Effective Strategies for Optimizing IUpdateTargets</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/essential-attributes-of-data-sources-unlocking-optimal-performance/"><u>Essential Attributes of Data Sources: Unlocking Optimal Performance</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-the-basics-of-isoiec-19770-22e09-essential-information-on-software-identification-markers/"><u>Exploring the Basics of ISO/IEC 19770-2:2E09 – Essential Information on Software Identification Markers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-google-pixel-fold-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Google Pixel Fold to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a2-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A2 Phone Screen?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-service-management-understanding-service-control-settings/"><u>Mastering Service Management: Understanding Service Control Settings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/movavi-plus-review-a-detailed-look-at-its-version/"><u>Movavi Plus Review – A Detailed Look at Its Version</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-your-colored-pdf-into-monochrome/"><u>Step-by-Step Guide: Transforming Your Colored PDF Into Monochrome</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-the-2024-civilization-vi-access-violation-fixed-with-civ-6-update/"><u>Ultimate Solution for the 2024 Civilization VI Access Violation Fixed with Civ 6 Update</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-becoming-a-broadcast-pro-zooming-into-youtube-live-success/"><u>[New] Becoming a Broadcast Pro Zooming Into YouTube Live Success</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweettracker-monitor-and-grab-visuals-from-social-feeds/"><u>[Updated] 2024 Approved TweetTracker Monitor & Grab Visuals From Social Feeds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-glow-up-your-android-footage/"><u>[Updated] Glow Up Your Android Footage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-through-bot-barriers-rising-from-the-crowd/"><u>Break Through Bot Barriers Rising From the Crowd</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-to-file-system-navigation-during-software-deployment/"><u>Guide to File System Navigation During Software Deployment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-top-talents-merging-photography-and-sound-in-videos/"><u>In 2024, Top Talents Merging Photography & Sound in Videos</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/leading-photo-slide-show-software-compatible-with-windows-10-reviews-and-comparisons/"><u>Leading Photo Slide Show Software Compatible with Windows 10 - Reviews & Comparisons</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-complexity-a-deep-dive-into-sophisticated-installer-interface-options/"><u>Mastering the Complexity: A Deep Dive Into Sophisticated Installer Interface Options</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/navigating-the-permissions-tab-in-your-installer-projects/"><u>Navigating the Permissions Tab in Your Installer Projects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/procedure-passo-passo-per-il-backup-la-conversione-video-e-le-modifiche-al-dimensionamento-con-registrazione-su-dvd/"><u>Procedure Passo-Passo per Il Backup, La Conversione Video E Le Modifiche Al Dimensionamento Con Registrazione Su DVD</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-methods-for-converting-pdf-files-into-excel-spreadsheets-on-your-android-device/"><u>Simple Methods for Converting PDF Files Into Excel Spreadsheets on Your Android Device</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-effectively-hiding-identities-by-blurring-faces-in-images/"><u>Step-by-Step Guide: Effectively Hiding Identities by Blurring Faces in Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-photo-magic-intro-to-snapseed-features-for-2024/"><u>Unlocking Photo Magic Intro to Snapseed Features for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-realities-of-the-genius-widecam-f100-struggles-with-visual-resolution-and-audio-echos/"><u>Unveiling the Realities of the Genius WideCam F100: Struggles with Visual Resolution & Audio Echos</u></a></li>
 </ul></div>
 

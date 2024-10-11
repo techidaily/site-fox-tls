@@ -1,7 +1,7 @@
 ---
 title: "Essential Pre-Requirements: Understanding the Basics"
-date: 2024-10-02T21:18:54.299Z
-updated: 2024-10-05T17:55:35.865Z
+date: 2024-10-06T17:05:09.317Z
+updated: 2024-10-11T03:06:10.795Z
 tags:
   - user-guide
 categories:
@@ -79,22 +79,15 @@ Table of Contents
 
 In this page you can select predefined prerequisites to be included in your package. You can also set global prerequisite options for the [EXE bootstrapper](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Predefined Prerequisites
 
 In the predefined prerequisites list you can simply check the prerequisites you want to include in your package. After they are added in the prerequisites tree control, you can select each prerequisite to modify its settings.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Global Prerequisite Options
@@ -102,26 +95,33 @@ In the predefined prerequisites list you can simply check the prerequisites you 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These options affect only the [EXE setup file](https://tools.techidaily.com/advancedinstaller/products/) and prerequisites included in your package.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Download/extraction folder
 
 Specify the default download or extract folder for prerequisite files. Right-click into this field to insert a reference to a default Windows folder or to Windows Installer properties. This field can also contain environment variables.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Always store prerequisites in MSI database (if applicable)
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option only refers to prerequisites that are scheduled during or after main package (are linked to a feature).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By default, if the package type is EXE, the prerequisites files will be stored in the EXE package. If this option is used, the prerequisites will be stored in MSI database.
 
@@ -174,20 +174,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[New] 2024 Approved Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-scene-stealer-snapshot-study/"><u>[New] In 2024, Scene-Stealer Snapshot Study</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fiscal-horizons-exploring-mr-beasts-income/"><u>[Updated] 2024 Approved Fiscal Horizons Exploring Mr. Beast's Income</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-straightforward-strategies-for-iphones-screen-recording-for-2024/"><u>[Updated] Straightforward Strategies for iPhone's Screen Recording for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-step-by-step-guide-transferring-data-from-your-huawei-nova-5-smartphone-to-a-windows-or-mac-computer/"><u>1. Step-by-Step Guide: Transferring Data From Your Huawei Nova 5 Smartphone to a Windows or Mac Computer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-windows-movie-maker-tips-for-youtube-editing-excellence/"><u>2024 Approved Windows Movie Maker Tips for YouTube Editing Excellence</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/best-tools-for-capturing-and-sharing-your-viber-conversations/"><u>Best Tools for Capturing and Sharing Your Viber Conversations</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effective-techniques-for-creating-stunning-time-lapse-videos-capturing-every-detail-efficiently/"><u>Effective Techniques for Creating Stunning Time-Lapse Videos: Capturing Every Detail Efficiently</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/enhancing-user-experience-with-auto-exit-application-updates/"><u>Enhancing User Experience with Auto-Exit Application Updates</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-a05s-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel A05s</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-mathematics-with-these-7-ai-tools-solve-complex-equations-easily/"><u>Mastering Mathematics with These 7 AI Tools - Solve Complex Equations Easily</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/playing-lossless-music-on-ios-the-ultimate-tutorial-for-flac-format-mastery/"><u>Playing Lossless Music on iOS: The Ultimate Tutorial for FLAC Format Mastery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/step-by-step-enhancing-clarity-in-google-meet-calls/"><u>Step-by-Step Enhancing Clarity in Google Meet Calls</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-preferred-alternative-contact-number-applications/"><u>Top 8 Preferred Alternative Contact Number Applications</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/understanding-malvertising-a-guide-by-malwarefox/"><u>Understanding Malvertising: A Guide by MalwareFox</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-8-unbeatable-zero-price-software-choices-for-online-media-makers/"><u>[Updated] 8 Unbeatable Zero-Price Software Choices For Online Media Makers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-step-by-step-guide-to-eliminate-yt-green-issues/"><u>A Step-by-Step Guide to Eliminate YT Green Issues</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/advanced-dialogue-management-tools-the-ultimate-guide/"><u>Advanced Dialogue Management Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-guide-how-to-get-mp3-files-onto-your-android-phone/"><u>Effortless Guide: How to Get MP3 Files Onto Your Android Phone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-hp-laserjet-pro-400-driver-issues-in-windows/"><u>Fix: HP LaserJet Pro 400 Driver Issues in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-must-read-ebook-titles-available-on-kindle-store/"><u>Free Must-Read eBook Titles Available on Kindle Store</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-personalize-and-change-ringtones-on-your-iphone-for-2024/"><u>How to Personalize and Change Ringtones on Your iPhone for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-essential-propeller-choices-mastering-flight-excellence/"><u>In 2024, Essential Propeller Choices Mastering Flight Excellence</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-7-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-poco-c55-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Poco C55 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 15 Pro</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-fixes-effortless-itunes-integration-on-your-iphone/"><u>Quick Fixes: Effortless iTunes Integration on Your iPhone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-image-backdrops-into-pure-white/"><u>Step-by-Step Guide: Transforming Image Backdrops Into Pure White</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-7-high-earning-remote-job-tools-maximize-your-profits-working-from-anywhere/"><u>Top 7 High-Earning Remote Job Tools: Maximize Your Profits Working From Anywhere</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-programs-for-creating-engaging-training-video-content/"><u>Top Programs for Creating Engaging Training Video Content</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-folder-settings-a-guide-to-organizing-file-locations/"><u>Understanding Folder Settings: A Guide to Organizing File Locations</u></a></li>
 </ul></div>
 

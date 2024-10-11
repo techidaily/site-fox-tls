@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of the JVM Configuration Tabs
-date: 2024-10-02T18:50:21.284Z
-updated: 2024-10-05T20:36:08.368Z
+date: 2024-10-04T06:40:37.681Z
+updated: 2024-10-10T16:54:44.054Z
 tags:
   - user-guide
 categories:
@@ -85,6 +85,13 @@ In this page you can set the parameters for the Java Virtual Machine.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the latest Java Distributions (e.g. _OpenJDK, AdoptOpenJDK,_ etc.) are supported. Our Java Product Launcher supports the _AdoptOpenJDK_ Java distributions only when _AdoptOpenJDK_ is installed withFeatureOracleJavaSoft feature (e.g. usingADDLOCAL=FeatureEnvironment,FeatureJarFileRunWith,FeatureOracleJavaSoft command line switch).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Settings
 
 ### JRE version
@@ -93,40 +100,26 @@ You can specify the minimum and maximum allowed Java Version. Advanced Installer
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)JVM path is searched in the registry and in JAVA\_HOME environment variable.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### JVM parameters
 
 This is an optional field. You can easily specify the JVM parameters. Click on the \[... \] button in order to go to the [JVM Parameters Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Command line
 
 Here you can specify arguments that yourmain method will always receive. These arguments will be appended to the other arguments that may be receive from the system.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Virtual Machine Type
 
@@ -137,10 +130,10 @@ There are two types of virtual machines: client and server. You can choose one o
 * Server only - Advanced Installer looks only for the server Java Virtual Machine. If it is not found then the user is prompted to browse a JRE with a valid server Java Virtual Machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Virtual Machine Source
@@ -167,31 +160,31 @@ Specify the Java Virtual Machine's source.
 
 ## Stream redirection
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Output Stream
 
 Specify the location of the file that will contain [Java Products](https://tools.techidaily.com/advancedinstaller/products/)'s output stream. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to folders, properties and installtime or runtime environment variables.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Error Stream
 
 Specify the location of the file that will contain [Java Products](https://tools.techidaily.com/advancedinstaller/products/)'s error stream. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to folders, properties and installtime or runtime environment variables.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Append Error Stream to File
 
 By enabling this option, the errors will be written at the end of the file rather than deleting the errors from previous sessions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Append Output Stream to File
 
@@ -212,6 +205,13 @@ Sample resulting filename:
 C:\Your Company\Your Application\output-2014-Mar-06 14-43-38-373.log
 
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Java Library Path
 
@@ -269,19 +269,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/amplify-audio-on-windows-10-tips-and-tricks-for-maximum-volume-control/"><u>Amplify Audio on Windows 10: Tips and Tricks for Maximum Volume Control</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-google-pixel-8-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Google Pixel 8 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-note-12-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi Note 12 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/leading-photo-slide-show-software-compatible-with-windows-10-reviews-and-comparisons/"><u>Leading Photo Slide Show Software Compatible with Windows 10 - Reviews & Comparisons</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/navigating-the-permissions-tab-in-your-installer-projects/"><u>Navigating the Permissions Tab in Your Installer Projects</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-fast-photo-viewing-software/"><u>Premier Fast Photo Viewing Software</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/simple-methods-for-converting-pdf-files-into-excel-spreadsheets-on-your-android-device/"><u>Simple Methods for Converting PDF Files Into Excel Spreadsheets on Your Android Device</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-effectively-hiding-identities-by-blurring-faces-in-images/"><u>Step-by-Step Guide: Effectively Hiding Identities by Blurring Faces in Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-taskbar-in-windows-11/"><u>Tailoring Your Taskbar in Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-virtual-webcams-and-live-cam-software-discover-manycam/"><u>Top Virtual Webcams and Live Cam Software: Discover ManyCam</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-your-broadcasts-with-manycam-top-virtual-webcam-software-options/"><u>Transform Your Broadcasts with ManyCam - Top Virtual Webcam Software Options</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photo-to-film-adding-melodies-for-emotion/"><u>[New] Photo to Film Adding Melodies for Emotion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-photoshops-powerful-tool-image-curving-techniques/"><u>[New] Photoshop's Powerful Tool Image Curving Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-action-packed-snapshots-of-x-snow-2022/"><u>[Updated] Action-Packed Snapshots of X-Snow 2022</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-windows-hdri-tools-for-editors/"><u>[Updated] Windows HDRI Tools for Editors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/a-detailed-walkthrough-for-crafting-and-changing-your-videos-covers-on-facebook/"><u>A Detailed Walkthrough for Crafting and Changing Your Videos' Covers on Facebook</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-tutorial-on-how-to-descend-from-itunes-121-to-older-software-editions/"><u>Comprehensive Tutorial on How to Descend From iTunes 12.1 to Older Software Editions</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-guide-mastering-edit-options-in-xml-configuration-interface/"><u>Effortless Guide: Mastering Edit Options in XML Configuration Interface</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-song-creation-with-mixcraft-edit-and-manage-music-tracks-on-your-mac/"><u>Effortless Song Creation with Mixcraft: Edit & Manage Music Tracks on Your Mac</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-identify-and-revoke-admin-rights-of-unseen-devices-on-android-a-guide-by-malwarefox/"><u>How To Identify & Revoke Admin Rights of Unseen Devices on Android: A Guide by MalwareFox</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-13-pro-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 13 Pro From Your Apple ID</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chic-and-stylish-beauty-videos/"><u>In 2024, Chic and Stylish Beauty Videos</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/maximizing-digital-footprint-effective-techniques-for-increasing-webpage-sizes-and-additional-content-options/"><u>Maximizing Digital Footprint: Effective Techniques for Increasing Webpage Sizes and Additional Content Options</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/most-effective-software-options-for-adding-onyx-backdrops-to-images-in-213/"><u>Most Effective Software Options for Adding Onyx Backdrops to Images in 2^13</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/social-media-forecasting-through-data-visualization-for-2024/"><u>Social Media Forecasting Through Data Visualization for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-psd-design-transformations/"><u>Superior PSD Design Transformations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-endless-cycle-unveiled-insights-into-black-survival-crash/"><u>The Endless Cycle Unveiled: Insights Into 'Black Survival Crash'</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-three-techniques-for-extracting-audio-from-your-dvd-collection/"><u>Top Three Techniques for Extracting Audio From Your DVD Collection</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-on-converting-cds-to-high-quality-mp3-format-using-top-ripping-tools/"><u>Ultimate Guide on Converting CDs to High-Quality MP3 Format Using Top Ripping Tools</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-top-ranking-automated-background-eliminators-why-everyone-needs-one/"><u>Ultimate Guide to Top-Ranking Automated Background Eliminators: Why Everyone Needs One</u></a></li>
 </ul></div>
 

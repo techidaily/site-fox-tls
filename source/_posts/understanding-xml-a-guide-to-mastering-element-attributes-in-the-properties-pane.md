@@ -1,7 +1,7 @@
 ---
 title: "Understanding XML: A Guide to Mastering Element Attributes in the Properties Pane"
-date: 2024-10-04T20:14:37.492Z
-updated: 2024-10-05T21:06:00.088Z
+date: 2024-10-05T02:56:27.402Z
+updated: 2024-10-11T06:25:04.160Z
 tags:
   - user-guide
 categories:
@@ -99,10 +99,10 @@ Table of Contents
 ![Element Attributes](https://cdn.advancedinstaller.com/img/dialog/xml-element-attributes.png "Element Attributes")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new attribute
@@ -114,22 +114,15 @@ Use the \[New... \] button, the “New...” context menu item or press the Inse
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the "Attributes" list is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an attribute
 
 Use the \[Remove \] button, the “Remove” context menu item or press the Delete key while an element from the "Attributes" list is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Change the attribute order
 
@@ -138,10 +131,17 @@ Use the \[Move Up \] / \[Move Down \] buttons, the “Move Up” / “Move Down�
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When an XML element is being updated the attributes found in the target file are **merged** with the ones configured here, using the specified attribute update rules. All the specified element attributes that are meant to be created or updated will be added to the target's elements already existing in the attribute list, changing the value of the overlapping attributes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -182,16 +182,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comprehensive-hdr-mastery-for-breathtaking-portraits/"><u>[New] Comprehensive HDR Mastery for Breathtaking Portraits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-connect-and-entertain-stream-xbox-games-on-the-worlds-stage-facebook/"><u>[Updated] 2024 Approved Connect & Entertain Stream Xbox Games on the World's Stage - Facebook</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-customizable-rocket-launch-requirements/"><u>1. Customizable Rocket Launch Requirements</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-google-images-and-you-fast-collages-created-in-seconds/"><u>2024 Approved Google Images & You Fast Collages Created in Seconds</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/best-alternatives-to-limewire-for-legal-music-download-platforms/"><u>Best Alternatives to LimeWire for Legal Music Download Platforms</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-sony-vaio-driver-packs-for-windows-systems/"><u>Download & Install Sony Vaio Driver Packs for Windows Systems</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-resetting-your-apple-id-password-across-iphone-models/"><u>Step-by-Step Guide: Resetting Your Apple ID Password Across iPhone Models</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-9-innovative-tools-to-eliminate-white-background-signatures/"><u>Top 9 Innovative Tools to Eliminate White-Background Signatures</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-rated-titles-discover-the-highest-ranked-apps-on-google-play/"><u>Top Rated Titles: Discover the Highest-Ranked Apps on Google Play</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/uniting-tech-and-talk-setup-winchatgpt/"><u>Uniting Tech and Talk: Setup WinChatGPT</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>[New] 2024 Approved Revolutionizing Podcast Titles Leading 10 AI Generators</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-decoding-facebooks-absence-of-personalized-video-content-for-2024/"><u>[New] Decoding Facebook's Absence of Personalized Video Content for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-to-achieving-realism-in-photoshop-artwork-for-2024/"><u>A Step-by-Step to Achieving Realism in Photoshop Artwork for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-ai-interaction-design-discover-the-quintessential-course-selections-to-shape-prompts-professionally/"><u>Ace AI Interaction Design: Discover The Quintessential Course Selections to Shape Prompts Professionally</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/all-in-one-jre-suite-your-essential-compilation-of-java-development-resources/"><u>All-in-One JRE Suite: Your Essential Compilation of Java Development Resources</u></a></li>
+<li><a href="https://windows11.techidaily.com/ditch-the-expensive-software-mastering-project-management-with-just-excel/"><u>Ditch the Expensive Software - Mastering Project Management with Just Excel</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-sound-hunting-discover-and-secure-your-tracks-with-mp3-explorer/"><u>Effortless Sound Hunting: Discover & Secure Your Tracks with MP3 Explorer</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/implementing-installedscriptfiles-in-sharepoint-through-custom-actions/"><u>Implementing InstalledScriptFiles in SharePoint Through Custom Actions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-eternal-gallery-of-commons-artworks-online/"><u>In 2024, The Eternal Gallery of Commons Artworks Online</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/inheritance-planning-strategies-navigating-legacy-choices/"><u>Inheritance Planning Strategies: Navigating Legacy Choices</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-steps-download-and-keep-your-favorite-reddit-videos/"><u>Simple Steps: Download and Keep Your Favorite Reddit Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-x6-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco X6 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-a-non-functioning-video-detector-during-download-process/"><u>Troubleshooting a Non-Functioning Video Detector During Download Process</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-mime-type-classification-a-key-element-in-web-communication/"><u>Understanding MIME Type Classification: A Key Element in Web Communication</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/unleash-advanced-features-with-the-innovative-i-upgrade-code-solution/"><u>Unleash Advanced Features with the Innovative I-Upgrade Code Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-lava-blaze-2-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Lava Blaze 2 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>Updated 2024 Approved Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
 </ul></div>
 

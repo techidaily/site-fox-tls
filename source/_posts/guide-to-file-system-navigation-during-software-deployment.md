@@ -1,7 +1,7 @@
 ---
 title: Guide to File System Navigation During Software Deployment
-date: 2024-09-30T19:28:25.125Z
-updated: 2024-10-05T18:59:23.508Z
+date: 2024-10-08T22:13:48.273Z
+updated: 2024-10-11T06:34:51.965Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ The files, folders or shortcuts will be placed in one of the[Folders](https://to
 The right pane lists all the files from the selected folder of the left panel, and their details. If a file doesn't exist anymore at the specified location, it will be shown with a question mark icon ![Missing File](https://cdn.advancedinstaller.com/img/gfx/missing-file.png "Missing File") and “???” as its size. You can restore this file by double-clicking it and setting its correct path.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting the Current Feature
@@ -130,30 +130,36 @@ Advanced Installer will create components for the added resources as necessary, 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Visible Members
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The feature is available starting with the Advanced Installer Professional Edition.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This option enables you to filter the members that are displayed on the _Files And Folders_ page by their type. For example, you can only display _Files, Shortcuts, INI Files, Xml Files, Json Files, File Removal operations, File Duplication operations, File Move operations, Temporary Files, Libraries, Text File Updates, File Downloads, Extract Archives_ or any combination of the above elements. To achieve this, click on the_Visible Members_ toolbar button and select from the menu what types of members you want to display.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -216,22 +222,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-lol-recording-three-easy-techniques/"><u>[New] In 2024, Mastering LOL Recording Three Easy Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-what-is-a-watermark-how-to-watermark-your-facebook-photosvideos/"><u>[New] What Is a Watermark? How to Watermark Your Facebook Photos/Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-transforming-your-reel-game-on-instagram-in-days/"><u>[Updated] In 2024, Transforming Your Reel Game on Instagram in Days</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pros-and-cons-gopro-hero-4-vs-drift-ghost-s-racing-edition/"><u>[Updated] Pros & Cons GoPro Hero 4 Vs. Drift Ghost-S Racing Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-virtual-screenscapes-for-streamers/"><u>2024 Approved Ideal Virtual Screenscapes for Streamers</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-the-best-anti-malware-apps-for-your-android-device-a-comprehensive-review/"><u>Explore the Best Anti-Malware Apps for Your Android Device : A Comprehensive Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-galaxy-s8-review-a-leap-forward-with-4k-display/"><u>In 2024, Galaxy S8 Review - A Leap Forward with 4K Display</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-13-mini-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 13 mini online without jailbreak</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/leading-photo-slide-show-software-compatible-with-windows-10-reviews-and-comparisons/"><u>Leading Photo Slide Show Software Compatible with Windows 10 - Reviews & Comparisons</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-the-complexity-a-deep-dive-into-sophisticated-installer-interface-options/"><u>Mastering the Complexity: A Deep Dive Into Sophisticated Installer Interface Options</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/navigating-the-permissions-tab-in-your-installer-projects/"><u>Navigating the Permissions Tab in Your Installer Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scriptwriting-success-on-youtube-using-chatgpts-ai-technology/"><u>Scriptwriting Success on YouTube Using ChatGPT's AI Technology</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/simple-methods-for-converting-pdf-files-into-excel-spreadsheets-on-your-android-device/"><u>Simple Methods for Converting PDF Files Into Excel Spreadsheets on Your Android Device</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-effectively-hiding-identities-by-blurring-faces-in-images/"><u>Step-by-Step Guide: Effectively Hiding Identities by Blurring Faces in Images</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-how-to-erase-individuals-from-images-seamlessly-on-your-phone-this-year/"><u>Step-by-Step Tutorial: How to Erase Individuals From Images Seamlessly on Your Phone This Year</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-how-to-remove-background-noise-in-final-cut-pro-x/"><u>Updated In 2024, How to Remove Background Noise in Final Cut Pro X?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-action-camera-buying-guide-for-beginners/"><u>[New] Complete Action Camera Buying Guide For Beginners</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-can-you-broadcast-videos-without-infringing-laws-specifically-fb/"><u>[New] In 2024, Can You Broadcast Videos Without Infringing Laws, Specifically FB?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/10plus-best-instagram-video-editor-for-pc-online-android-for-2024/"><u>10+ Best Instagram Video Editor for PC, Online, Android for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-affordable-android-calls-10-best-selection/"><u>2024 Approved Affordable Android Calls, 10 Best Selection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-innovative-watermarks-for-impactful-insta-imagery/"><u>2024 Approved Innovative Watermarks for Impactful Insta Imagery</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-tutorial-on-how-to-descend-from-itunes-121-to-older-software-editions/"><u>Comprehensive Tutorial on How to Descend From iTunes 12.1 to Older Software Editions</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-guide-mastering-edit-options-in-xml-configuration-interface/"><u>Effortless Guide: Mastering Edit Options in XML Configuration Interface</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-identify-and-revoke-admin-rights-of-unseen-devices-on-android-a-guide-by-malwarefox/"><u>How To Identify & Revoke Admin Rights of Unseen Devices on Android: A Guide by MalwareFox</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-infinix-gt-10-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Infinix GT 10 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-silence-the-verbal-directions-feature-on-a-samsung-set-top-box/"><u>How To Silence the Verbal Directions Feature On A Samsung Set-Top Box</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-a15-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy A15 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/maximizing-digital-footprint-effective-techniques-for-increasing-webpage-sizes-and-additional-content-options/"><u>Maximizing Digital Footprint: Effective Techniques for Increasing Webpage Sizes and Additional Content Options</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-top-ranking-automated-background-eliminators-why-everyone-needs-one/"><u>Ultimate Guide to Top-Ranking Automated Background Eliminators: Why Everyone Needs One</u></a></li>
 </ul></div>
 

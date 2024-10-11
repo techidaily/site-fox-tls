@@ -1,7 +1,7 @@
 ---
 title: 1. Customizable Rocket Launch Requirements
-date: 2024-09-28T16:09:09.208Z
-updated: 2024-10-05T16:47:50.117Z
+date: 2024-10-06T00:48:13.839Z
+updated: 2024-10-11T00:55:58.571Z
 tags:
   - user-guide
 categories:
@@ -37,26 +37,26 @@ Table of Contents
 
 ## ICustomLaunchConditions
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 ICustomLaunchConditions : IDispatch
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to access, edit or remove custom launch conditions
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -64,10 +64,10 @@ This interface is meant to access, edit or remove custom launch conditions
 **Array<ICustomLaunchCondition> LaunchConditions**Gets the custom launch conditions list  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -79,10 +79,16 @@ Creates new custom launch condition. The installation will run only if the custo
 Deletes and existing custom launch condition
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -124,24 +130,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-youtube-live-recording-on-every-gadget/"><u>[New] Mastering YouTube Live Recording on Every Gadget</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-practical-methods-for-instagram-story-capture/"><u>[New] Practical Methods for Instagram Story Capture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-expert-tips-on-seamless-multisnapping-videos-in-snapchat/"><u>[Updated] In 2024, Expert Tips on Seamless Multisnapping Videos in Snapchat</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-innovative-approaches-for-effective-use-of-streamlabs-obs/"><u>[Updated] In 2024, Innovative Approaches for Effective Use of Streamlabs OBS</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/discover-essential-latest-innovations-in-the-iphone-x-and-iphone-8/"><u>Discover Essential Latest Innovations in the iPhone X & iPhone 8</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effortless-song-creation-with-mixcraft-edit-and-manage-music-tracks-on-your-mac/"><u>Effortless Song Creation with Mixcraft: Edit & Manage Music Tracks on Your Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elegant-darkening-premieres-touch/"><u>Elegant Darkening Premiere's Touch</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-the-concept-of-index-or-homepage-your-guide-to-browsers-main-file/"><u>Exploring the Concept of 'Index' Or Homepage: Your Guide to Browser's Main File</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-validate-your-xml-documents-effective-techniques-and-tips/"><u>How To Validate Your XML Documents: Effective Techniques & Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-x-flip-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo X Flip</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/managing-access-with-the-permissions-tab-in-xml-documents/"><u>Managing Access with the Permissions Tab in XML Documents</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-snapshots-from-videos-top-10-converters-to-extract-images/"><u>New 2024 Approved Snapshots From Videos Top 10 Converters to Extract Images</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/next-gen-itranslationscomponent-optimizing-multilingual-applications-in-tech-industry/"><u>Next-Gen ITranslationsComponent: Optimizing Multilingual Applications in Tech Industry</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/reimagine-old-school-vhs-with-modern-computer-techniques/"><u>Reimagine Old-School VHS with Modern Computer Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-windows-pc-issues-fixes-for-crackdown-3-freezing-problems/"><u>Solving Windows PC Issues: Fixes for 'Crackdown 3' Freezing Problems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-100-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor 100 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-guide-choosing-the-best-software-for-image-sticker-embellishment/"><u>Ultimate Guide: Choosing the Best Software for Image Sticker Embellishment</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/understanding-xml-a-guide-to-mastering-element-attributes-in-the-properties-pane/"><u>Understanding XML: A Guide to Mastering Element Attributes in the Properties Pane</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/unlocking-tumblrs-audio-treasures-three-straightforward-steps-for-seamless-downloads/"><u>Unlocking Tumblr's Audio Treasures: Three Straightforward Steps for Seamless Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-facebook-video-fails-overcome-chromesafari-issues-with-9-fixes/"><u>[New] Facebook Video Fails? Overcome Chrome/Safari Issues with 9 Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-optimizing-viewing-distance-youtube-tips/"><u>[Updated] 2024 Approved Optimizing Viewing Distance YouTube Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-comprehensive-guide-to-the-12-superior-vlogging-cameras-for-2024/"><u>[Updated] A Comprehensive Guide to the 12 Superior Vlogging Cameras for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-record-and-upload-speeches-to-powerpoint/"><u>2024 Approved Record and Upload Speeches to PowerPoint</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-features-of-net-native-image-selection/"><u>Exploring the Features of .NET Native Image Selection</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/free-to-play-battle-ground-tips-winning-in-pubg-mobile-for-pc-users/"><u>Free-to-Play Battle Ground Tips: Winning in PUBG Mobile for PC Users</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-accessing-and-editing-filename-search-characteristics/"><u>Guide: Accessing and Editing Filename Search Characteristics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimize-frame-rates-for-maximum-gameplay-immersion/"><u>In 2024, Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/smart-assistant-choosing-the-perfect-product-with-our-advanced-selection-chat/"><u>Smart Assistant: Choosing the Perfect Product with Our Advanced Selection Chat</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-rated-titles-discover-the-highest-ranked-apps-on-google-play/"><u>Top Rated Titles: Discover the Highest-Ranked Apps on Google Play</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-apple-idevice-wi-fi-woes-with-these-8-effective-tips/"><u>Troubleshoot Apple iDevice Wi-Fi Woes with These 8 Effective Tips</u></a></li>
 </ul></div>
 

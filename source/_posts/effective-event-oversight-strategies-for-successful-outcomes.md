@@ -1,7 +1,7 @@
 ---
 title: Effective Event Oversight Strategies for Successful Outcomes
-date: 2024-09-29T16:34:03.835Z
-updated: 2024-10-05T17:01:19.264Z
+date: 2024-10-07T01:06:42.209Z
+updated: 2024-10-10T19:47:19.567Z
 tags:
   - user-guide
 categories:
@@ -126,6 +126,13 @@ Windows Installer uses control events to manage the installation dialogs and the
    14. [Receive selection change notification for a DirectoryList control - IgnoreChange](https://tools.techidaily.com/advancedinstaller/products/)  
    15. [Display installation script information - ScriptInProgress](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Published Events
 
 This type of control events can be published at the discretion of a user by interacting with a button or checkbox on a dialog box.
@@ -208,6 +215,13 @@ This event shows the dialog specified in the_Argument_ field if its condition is
 
 This event notifies the installer to check and set the selected path. If the path is not valid or the installer doesn't have write access for it, all control events associated with the control are blocked.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check if a folder path has write permissions - CheckExistingTargetPath
 
 This event notifies the installer to check if it can write in the selected path. If it cannot write in the path (for example it doesn't have enough privileges), the event blocks further control events associated with the control. For the _Argument_ field it can use the name of the property which contains the path. If the property is indirect its name should be enclosed in square brackets (for example \[PROPERTY\].
@@ -216,22 +230,15 @@ This event notifies the installer to check if it can write in the selected path.
 
 This event notifies the installer to check if the selected path is valid. If the path is not valid the event blocks further control events associated with the control. For the_Argument_ field it can use the name of the property which contains the path. If the property is indirect its name should be enclosed in square brackets (for example\[PROPERTY\].
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Set install level value - SetInstallLevel
 
 This event changes the installation level to the value specified by the argument. For the _Argument_ field it can use a number which represents the new install level.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Reset control properties to default values - Reset
@@ -249,6 +256,13 @@ This event can be used to turn on or turn off the installer's rollback capabilit
 
 This event is used by a SelectionTree control (like the one on "CustomizeDlg") to spawn a Browse dialog, making it possible to modify the highlighted item's path. Any controls that publish a SelectionBrowse event become disabled if the selected feature is already installed, not configurable or not selected for local installation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Restart processes using your installation files - RmShutdownAndRestart
 
 This event notifies Windows Installer to use the Restart Manager to shutdown all applications that have files in use and to restart them at the end of the installation. It has **no effect if**:
@@ -265,10 +279,10 @@ This event notifies a DirectoryList control (like the one in "BrowseDlg") that a
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If this control event is called again when a new folder already exists, a second new folder will not be created. In this case, calling DirectoryListNew selects the existing new folder's name for editing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Open a directory in a DirectoryList control - DirectoryListOpen
@@ -287,23 +301,9 @@ This event notifies the DirectoryList control (like the one in "BrowseDlg") that
 
 This event sets the _ProductID_ property to the full Product ID. If the validation is unsuccessful, this event shows an error message and a modal dialog which allows the user to set the Product ID.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Refresh the current dialog
 
 This event refreshes all user interface controls from the current dialog. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Subscribed Events
 
@@ -311,21 +311,7 @@ This type of events are used by controls to subscribe to installer actions (the 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)All the control events described under [Published Events](https://tools.techidaily.com/advancedinstaller/products/) section can be used as a Subscribed Event.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In addition to the control events presented above, a control can subscribe to the following actions:
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display action data during install - ActionData
 
@@ -334,13 +320,6 @@ This event is used to publish data on the latest action. A Static Text control w
 ### Display action text during install - ActionText
 
 This event is used to publish the present action's name. A Static Text control which subscribes to it can show the data to the user.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display installation summary (Enhanced UI only)
 
@@ -366,6 +345,13 @@ This event is triggered only when the selection tree control has no nodes. It is
 
 This event is used to publish the path for the highlighted item. It can affect only the controls located on the same dialog box as the SelectionTree control. A Static Text control which subscribes to it can show the path to the user.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Determine if the selected tree item is using a path - SelectionPathOn
 
 This event is used to publish a Boolean value indicating whether there is a selection path associated with the currently selected feature. It can affect only the controls located on the same dialog box as the SelectionTree control and it is not used during maintenance. A Static Text control which subscribes to it can show the selection path's caption to the user.
@@ -378,6 +364,13 @@ This event is used to publish the highlighted item's size. If it is a parent ite
 
 This event is used to publish information on the installation's progress. A progress bar or billboard control can subscribe to it in order to receive information about the installation progress.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Display overall installation progress (Enhanced UI only) - AiGlobalProgress
 
 This event is used to display information on the installation's overall progress. A progress bar can subscribe to it in order to receive information about the overall installation progress. This event requires the [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/). 
@@ -389,6 +382,13 @@ This event is used to publish the approximate time remaining, in seconds, for th
 ### Receive selection change notification for a DirectoryList control - IgnoreChange
 
 This event is published by the DirectoryList control (like the one in "BrowseDlg") when the selected folder is changed from one directory to another in the control.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Display installation script information - ScriptInProgress
 
@@ -440,18 +440,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-a-thorough-guide-to-thriving-in-stardews-hidden-landmark-ginger-isle-for-2024/"><u>[Updated] A Thorough Guide to Thriving in Stardew's Hidden Landmark Ginger Isle for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-essential-yoda-of-youtube-analytics-deciphering-earnings-and-viewer-counts/"><u>[Updated] In 2024, The Essential Yoda of YouTube Analytics Deciphering Earnings & Viewer Counts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-your-videos-top-7-rippers-explored/"><u>[Updated] Unlocking Your Videos Top 7 Rippers Explored</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-drones-key-parts-for-peak-performance/"><u>2024 Approved Mastering Drones Key Parts for Peak Performance</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-financial-frontier-youtubes-pay-structure-at-the-1m-mark/"><u>2024 Approved The Financial Frontier Youtube's Pay Structure at the 1M Mark</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/all-in-one-jre-suite-your-essential-compilation-of-java-development-resources/"><u>All-in-One JRE Suite: Your Essential Compilation of Java Development Resources</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1725285104654-dvd-shrink/"><u>DVD Shrinkにおける一般的なエラー発生時の解決策</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/leading-image-editing-programs-top-tools-for-windows-and-macos-users/"><u>Leading Image Editing Programs: Top Tools for Windows & macOS Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/optimizing-the-installation-process-with-advanced-pre-install-uis/"><u>Optimizing the Installation Process with Advanced Pre-Install UIs</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/simple-steps-download-and-keep-your-favorite-reddit-videos/"><u>Simple Steps: Download and Keep Your Favorite Reddit Videos</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012033193-social-determinants-of-health-a-critical-review/"><u>Social Determinants of Health: A Critical Review</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/troubleshooting-a-non-functioning-video-detector-during-download-process/"><u>Troubleshooting a Non-Functioning Video Detector During Download Process</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/understanding-mime-type-classification-a-key-element-in-web-communication/"><u>Understanding MIME Type Classification: A Key Element in Web Communication</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-a-gamers-treasure-chest-top-5-ways-to-record-vr-games-professionally-for-2024/"><u>[New] A Gamer's Treasure Chest Top 5 Ways to Record VR Games Professionally for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[New] Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-audio-gradients-in-ableton/"><u>[Updated] Streamlining Audio Gradients in Ableton</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhanced-collaboration-through-top-tier-backgrounds/"><u>2024 Approved Enhanced Collaboration Through Top-Tier Backgrounds</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/discover-the-enhanced-functionality-of-apowensofts-latest-release-the-remarkable-background-eraser/"><u>Discover the Enhanced Functionality of Apowensoft's Latest Release - The Remarkable Background Eraser!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/efficient-regulation-compliance-search-engine-optimization/"><u>Efficient Regulation Compliance Search Engine Optimization</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-tutorials-for-smooth-ipad-game-recording-strategies/"><u>Effortless Tutorials for Smooth iPad Game Recording Strategies</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exclusive-conversations-unlocking-the-power-of-targeted-communication/"><u>Exclusive Conversations: Unlocking the Power of Targeted Communication</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-effective-is-windows-defender-in-ensuring-robust-cybersecurity/"><u>How Effective Is Windows Defender in Ensuring Robust Cybersecurity?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-get-it-right-screencast-tips-from-ezvid-video-maker-pros/"><u>In 2024, Get It Right Screencast Tips From EZvid Video Maker Pros</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-and-easy-steps-to-merge-mp4-files-seamlessly/"><u>Quick and Easy Steps to Merge MP4 Files Seamlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resurrect-frozen-media-player-on-win11-pc/"><u>Steps to Resurrect Frozen Media Player on Win11 PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-dragons-dogma-2-on-your-computer-a-guide-to-eliminate-crashing-problems/"><u>Troubleshoot Dragon's Dogma 2 on Your Computer: A Guide to Eliminate Crashing Problems</u></a></li>
 </ul></div>
 

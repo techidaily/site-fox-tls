@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of .NET Native Image Selection
-date: 2024-10-03T17:24:55.961Z
-updated: 2024-10-05T19:54:52.332Z
+date: 2024-10-04T01:47:53.771Z
+updated: 2024-10-10T18:23:08.683Z
 tags:
   - user-guide
 categories:
@@ -81,25 +81,18 @@ Table of Contents
 
 ![.NET Native Image Dialog](https://cdn.advancedinstaller.com/img/dialog/net-native-image.png ".NET Native Image Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scenarios
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Debug
 
 Use this option to generate native images that can be used under a debugger.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Profile
 
@@ -112,16 +105,10 @@ Use this option to generate the minimum number of native images required.
 ## Installation
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Platform
@@ -131,6 +118,13 @@ Use this option to generate the minimum number of native images required.
 * 64-bit native image - Generate native image only for the .NET Framework's 64-bit version.
 * 32-bit and 64-bit native images - Generate native image for both the 32-bit and the 64-bit .NET Framework versions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Priority
 
 * Wait for this native image generation to continue - image generation occurs synchronously during the installation process. This is the highest priority level.
@@ -139,10 +133,10 @@ Use this option to generate the minimum number of native images required.
 * Generate when the computer is idle - image generation occurs when the machine is idle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dependencies Location
@@ -151,6 +145,13 @@ Use this option to generate the minimum number of native images required.
 
 Select this option if you don't have any dependencies or you want to let the generator use its default dependencies search mechanism.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use the specified executable assembly's configuration
 
 Since the generator needs to make the same decisions as the loader when binding to dependencies for DLL assemblies which are loaded via reflection, this field should indicate the application which will load this assembly.
@@ -158,13 +159,6 @@ Since the generator needs to make the same decisions as the loader when binding 
 ### Use specified folder as the application base
 
 Folder used as the application base when locating dependencies.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Generator Version
 
@@ -210,22 +204,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unleash-creative-potential-tips-and-tricks-for-filming-with-logitech-cam/"><u>[New] In 2024, Unleash Creative Potential Tips and Tricks for Filming with Logitech Cam</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-through-time-with-historical-fb-features-device-guide/"><u>[Updated] 2024 Approved Navigating Through Time with Historical FB Features Device Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-effortless-viewing-automatic-playback-of-youtube-videos-on-social-media/"><u>2024 Approved Effortless Viewing Automatic Playback of YouTube Videos on Social Media</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/can-modern-anti-malware-solutions-successfully-clean-up-current-viruses-on-your-device/"><u>Can Modern Anti-Malware Solutions Successfully Clean Up Current Viruses on Your Device?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/closer-look-techniques-for-microsoft-teams-for-2024/"><u>Closer Look Techniques for Microsoft Teams for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/detecting-unwarranted-eavesdropping-signs-of-phone-snooping-exposed/"><u>Detecting Unwarranted Eavesdropping: Signs of Phone Snooping Exposed.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/discover-10-prime-replacements-for-google-play-on-your-android-device/"><u>Discover 10 Prime Replacements for Google Play on Your Android Device</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-tutorial-on-copying-content-from-your-huawei-p20-phone-to-a-windows-or-mac-pc/"><u>Easy Tutorial on Copying Content From Your Huawei P20 Phone to a Windows or Mac PC</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effective-strategies-for-optimizing-iupdatetargets/"><u>Effective Strategies for Optimizing IUpdateTargets</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/essential-attributes-of-data-sources-unlocking-optimal-performance/"><u>Essential Attributes of Data Sources: Unlocking Optimal Performance</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-edge-40-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Edge 40 Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/seamless-music-video-mp3-converter-and-downloader-for-instant-audio-format-transformation/"><u>Seamless Music Video MP3 Converter & Downloader for Instant Audio Format Transformation!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/side-by-side-showdown-how-does-the-apple-watch-series-9-compare-to-the-fitbit-charge-6/"><u>Side by Side Showdown: How Does the Apple Watch Series 9 Compare to the Fitbit Charge 6?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-restoring-data-from-your-icloud-backup/"><u>Step-by-Step Guide: Restoring Data From Your iCloud Backup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-basics-of-biometrics-explained-what-you-need-to-know/"><u>The Basics of Biometrics Explained - What You Need to Know</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-rated-pdf-scanner-apps-of-2022-your-guide-to-effortlessly-scanning-documents-on-ios/"><u>Top Rated PDF Scanner Apps of 2022: Your Guide to Effortlessly Scanning Documents on iOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-action-cameras-with-superior-mics/"><u>[New] Prime Action Cameras with Superior Mics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[Updated] 2024 Approved Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-things-to-consider-before-buying-a-used-ipad/"><u>5 Things to Consider Before Buying a Used iPad</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-15-pro-imei-checker-by-drfone-ios/"><u>Best Free iPhone 15 Pro IMEI Checker</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-tutorial-on-how-to-descend-from-itunes-121-to-older-software-editions/"><u>Comprehensive Tutorial on How to Descend From iTunes 12.1 to Older Software Editions</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/discover-essential-latest-innovations-in-the-iphone-x-and-iphone-8/"><u>Discover Essential Latest Innovations in the iPhone X & iPhone 8</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-guide-mastering-edit-options-in-xml-configuration-interface/"><u>Effortless Guide: Mastering Edit Options in XML Configuration Interface</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-song-creation-with-mixcraft-edit-and-manage-music-tracks-on-your-mac/"><u>Effortless Song Creation with Mixcraft: Edit & Manage Music Tracks on Your Mac</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-concept-of-index-or-homepage-your-guide-to-browsers-main-file/"><u>Exploring the Concept of 'Index' Or Homepage: Your Guide to Browser's Main File</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-identify-and-revoke-admin-rights-of-unseen-devices-on-android-a-guide-by-malwarefox/"><u>How To Identify & Revoke Admin Rights of Unseen Devices on Android: A Guide by MalwareFox</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-brand-identity-in-pictures-how-to-watermark-on-instagram/"><u>In 2024, Brand Identity in Pictures How to Watermark on Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>In 2024, Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-tech-talk-the-best-ways-to-move-files-between-idevices/"><u>In 2024, Tech Talk The Best Ways to Move Files Between iDevices</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/most-effective-software-options-for-adding-onyx-backdrops-to-images-in-213/"><u>Most Effective Software Options for Adding Onyx Backdrops to Images in 2^13</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/twitch-time-travel-retrieve-lost-broadcast-moments/"><u>Twitch Time-Travel Retrieve Lost Broadcast Moments</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-call-of-duty-wwii-error-4220-step-by-step-guide/"><u>Ultimate Fixes for Call of Duty: WWII Error 4220 - Step by Step Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-top-ranking-automated-background-eliminators-why-everyone-needs-one/"><u>Ultimate Guide to Top-Ranking Automated Background Eliminators: Why Everyone Needs One</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-xml-a-guide-to-mastering-element-attributes-in-the-properties-pane/"><u>Understanding XML: A Guide to Mastering Element Attributes in the Properties Pane</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-igtv-success-hashtag-strategies-for-fame/"><u>Unlocking IGTV Success Hashtag Strategies for Fame</u></a></li>
 </ul></div>
 

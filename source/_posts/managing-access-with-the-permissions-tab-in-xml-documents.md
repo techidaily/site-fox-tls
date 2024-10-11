@@ -1,7 +1,7 @@
 ---
 title: Managing Access with the Permissions Tab in XML Documents
-date: 2024-10-04T17:21:40.083Z
-updated: 2024-10-05T17:12:49.882Z
+date: 2024-10-08T19:29:50.245Z
+updated: 2024-10-11T05:31:17.003Z
 tags:
   - user-guide
 categories:
@@ -104,10 +104,10 @@ Table of Contents
 ![Permissions Dialog](https://cdn.advancedinstaller.com/img/dialog/xml-permissions.png "Permissions Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New...
@@ -115,10 +115,10 @@ Table of Contents
  This button creates a new permission for the selected file, folder, registry key or value. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). You can use the Insert key while the "Groups or user names" list is focused to create a new share permission. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit...
@@ -126,10 +126,16 @@ Table of Contents
  Shows you the selected permission's properties and allows you to change them. You can use the Space key while an element is selected, to edit its properties.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove
@@ -169,18 +175,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cross-border-tech-assessment-by-experts/"><u>[New] 2024 Approved Cross-Border Tech Assessment by Experts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>[New] Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-novice-to-expert-advanced-screencasting-steps/"><u>[Updated] 2024 Approved From Novice to Expert Advanced Screencasting Steps</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-archive-snaps-on-iphoneandroid-from-snapchat/"><u>[Updated] 2024 Approved How To Archive Snaps on iPhone/Android From Snapchat</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-capturing-attention-sharing-tweets-as-snaps/"><u>2024 Approved Capturing Attention Sharing Tweets as Snaps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensive-list-best-10-terraria-mods/"><u>2024 Approved Comprehensive List Best 10 Terraria Mods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-nanoleaf-skylight-a-comprehensive-review-for-innovative-home-illumination-solutions-on-the-ceiling/"><u>Exploring Nanoleaf Skylight: A Comprehensive Review for Innovative Home Illumination Solutions on the Ceiling</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-the-features-of-net-native-image-selection/"><u>Exploring the Features of .NET Native Image Selection</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-to-play-battle-ground-tips-winning-in-pubg-mobile-for-pc-users/"><u>Free-to-Play Battle Ground Tips: Winning in PUBG Mobile for PC Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-inisections-a-key-to-organized-and-efficient-document-management/"><u>Mastering IniSections: A Key to Organized and Efficient Document Management</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-comparison-best-white-background-editing-apps-free-vs-paid-for-photos/"><u>Ultimate Comparison: Best White Background Editing Apps (Free Vs. Paid) for Photos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-nikon-video-editing-essentials-software-tips-and-best-practices/"><u>Updated In 2024, Nikon Video Editing Essentials Software, Tips, and Best Practices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-upgrade-your-photo-presence-best-border-selection-tips-for-instagram/"><u>[New] In 2024, Upgrade Your Photo Presence Best Border Selection Tips for Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximize-gaming-essential-tips-and-picks-for-the-best-monitors-for-xbox-series-x/"><u>[New] Maximize Gaming - Essential Tips & Picks for the Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-secrets-of-sending-short-videos-to-youtube-tech-for-mobile-and-laptops/"><u>[New] Secrets of Sending Short Videos to YouTube - Tech for Mobile & Laptops</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-today-key-changes-for-users/"><u>[Updated] Facebook Today Key Changes for Users</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/complete-user-manual-navigating-apowersofts-background-eraser-tool/"><u>Complete User Manual: Navigating Apowersoft's Background Eraser Tool</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/easy-techniques-to-break-down-a-single-pdf-file-into-smaller-pieces/"><u>Easy Techniques to Break Down a Single PDF File Into Smaller Pieces</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-strategies-for-optimizing-iupdatetargets/"><u>Effective Strategies for Optimizing IUpdateTargets</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-basics-of-isoiec-19770-22e09-essential-information-on-software-identification-markers/"><u>Exploring the Basics of ISO/IEC 19770-2:2E09 – Essential Information on Software Identification Markers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-pair-your-wireless-headphones-with-a-ps4-console-a-step-by-step-guide-with-images/"><u>How to Pair Your Wireless Headphones with a PS4 Console: A Step-by-Step Guide with Images</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-service-management-understanding-service-control-settings/"><u>Mastering Service Management: Understanding Service Control Settings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-transformare-video-ogg-virtuale-a-carta-stampata-in-modalita-on-line-prova-gratuita/"><u>Movavi: Transformare Video OGG Virtuale a Carta Stampata in Modalità On-Line Prova Gratuita</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-missing-or-corrupt-msodll-expert-strategies-and-solutions/"><u>Overcoming 'Missing or Corrupt mso.dll': Expert Strategies and Solutions</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-your-colored-pdf-into-monochrome/"><u>Step-by-Step Guide: Transforming Your Colored PDF Into Monochrome</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-simple-way-to-obtain-the-latest-amd-ryzen-driver-updates-and-ensure-reliability/"><u>The Simple Way to Obtain the Latest AMD Ryzen Driver Updates & Ensure Reliability</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/3g23gp/"><u>이상화 시스템을 사용한 웹 내 부드러운 3G2/3GP 파일 전환 - 무료</u></a></li>
 </ul></div>
 

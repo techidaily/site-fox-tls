@@ -1,7 +1,7 @@
 ---
 title: "How to Enable and Use Active Screen Capture Feature: A Comprehensive Guide"
-date: 2024-09-28T20:46:06.639Z
-updated: 2024-10-05T16:12:47.529Z
+date: 2024-10-08T19:05:48.639Z
+updated: 2024-10-11T05:30:39.457Z
 tags:
   - product
 categories:
@@ -62,25 +62,11 @@ Action Tutorials
 
  Follow this tutorial to learn basics about Windows desktop region recording.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Active desktop region recording mode
 
  Select **"Active desktop region/area"** recording mode.
 
 ![Mirillis Action! - active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_tutorial_active_desktop_region_recording_mode.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Main Action! application window will hide and Action! will switch to desktop region recording view. Use mouse to adjust your region size and position. You can precisely control region size and position with keyboard: use **arrows** to move region, use **SHIFT + arrows** to resize region.
 
@@ -92,28 +78,55 @@ Action Tutorials
 
 ![Mirillis Action! - HUD in active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Active desktop region recording
 
  Press **"Start/stop recording"** button or **F9** hotkey to start Windows desktop recording. 
 
 ![Mirillis Action! - record button](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_desktop_region_recording_button.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Selected region frame turns red showing that Windows desktop region recording is in progress.
 
 ![Mirillis Action! - red frame shows desktop region recording in progress](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_tutorial_active_desktop_region_recording.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  HUD status also changes showing that Windows desktop region recording is in progress.
 
 ![Mirillis Action! - HUD shows desktop region recording in progress](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_video_recording_status.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press "Start/stop recording" button or F9 hotkey to stop desktop region recording. Region frame color and HUD status will change showing that Windows desktop region recording has finished.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Desktop region recordings playback
 
@@ -122,22 +135,15 @@ Action Tutorials
 ![Mirillis Action! - desktop region recording thumbnail](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_region_recording_thumbnail.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Action! includes internal fast player dedicated for video recordings playback. Select your new desktop region recording and use mouse double click on a thumbnail to start video recording playback.
 
 ![Mirillis Action! - desktop region recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_region_recording_playback.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Action! HUD on desktop region video recordings
 
@@ -160,24 +166,21 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-excellent-easytime-timer-services/"><u>[New] In 2024, Excellent EasyTime Timer Services</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlock-extra-space-premium-external-drives-for-ps5-for-2024/"><u>[New] Unlock Extra Space Premium External Drives for PS5 for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-optimal-recording-tool-for-high-definition-youtube-videos/"><u>[Updated] 2024 Approved Optimal Recording Tool For High-Definition YouTube Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-navigating-the-nuances-of-ps4-live-gaming-recordings/"><u>[Updated] In 2024, Navigating the Nuances of PS4 Live Gaming Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-hidden-sights-in-google-meet-conferences/"><u>[Updated] Unveiling Hidden Sights in Google Meet Conferences</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-tutorial-on-how-to-descend-from-itunes-121-to-older-software-editions/"><u>Comprehensive Tutorial on How to Descend From iTunes 12.1 to Older Software Editions</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effortless-guide-mastering-edit-options-in-xml-configuration-interface/"><u>Effortless Guide: Mastering Edit Options in XML Configuration Interface</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-the-features-of-the-jvm-configuration-tabs/"><u>Exploring the Features of the JVM Configuration Tabs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-reno-8t-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo Reno 8T to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-triggering-a-forced-reboot-into-windows-safe-mode/"><u>Guide: Triggering a Forced Reboot Into Windows Safe Mode</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-identify-and-revoke-admin-rights-of-unseen-devices-on-android-a-guide-by-malwarefox/"><u>How To Identify & Revoke Admin Rights of Unseen Devices on Android: A Guide by MalwareFox</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-edge-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Edge 2023 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/maximizing-digital-footprint-effective-techniques-for-increasing-webpage-sizes-and-additional-content-options/"><u>Maximizing Digital Footprint: Effective Techniques for Increasing Webpage Sizes and Additional Content Options</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/most-effective-software-options-for-adding-onyx-backdrops-to-images-in-213/"><u>Most Effective Software Options for Adding Onyx Backdrops to Images in 2^13</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transforming-your-sony-hd-video-tapes-to-dvd-quality-for-playback-and-storage/"><u>Step-by-Step Guide: Transforming Your Sony HD Video Tapes to DVD Quality for Playback and Storage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-strategies-for-integrating-chatgpt-into-your-visual-studio-code-workflow/"><u>Top 10 Strategies for Integrating ChatGPT Into Your Visual Studio Code Workflow</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-three-techniques-for-extracting-audio-from-your-dvd-collection/"><u>Top Three Techniques for Extracting Audio From Your DVD Collection</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-guide-on-converting-cds-to-high-quality-mp3-format-using-top-ripping-tools/"><u>Ultimate Guide on Converting CDs to High-Quality MP3 Format Using Top Ripping Tools</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-top-ranking-automated-background-eliminators-why-everyone-needs-one/"><u>Ultimate Guide to Top-Ranking Automated Background Eliminators: Why Everyone Needs One</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-algorithm-behind-youtubes-post-upload-logic/"><u>[New] 2024 Approved The Algorithm Behind YouTube's Post-Upload Logic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-updated-list-of-phones-for-gear-vr-use/"><u>[New] 2024 Approved Updated List of Phones for Gear VR Use</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-fb-stream-downloading-on-different-operating-systems/"><u>[Updated] 2024 Approved FB Stream Downloading on Different Operating Systems</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-customizable-rocket-launch-requirements/"><u>1. Customizable Rocket Launch Requirements</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-detailed-guide-to-minecraft-capturing-techniques-on-mac/"><u>2024 Approved Detailed Guide to Minecraft Capturing Techniques on Mac</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/best-tools-to-showcase-iphone-content-on-your-desktop-monitor/"><u>Best Tools to Showcase iPhone Content on Your Desktop Monitor</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-use-our-no-cost-3gp-video-converter-for-seamless-digital-media-adaptation/"><u>How to Use Our No-Cost 3GP Video Converter for Seamless Digital Media Adaptation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-fearless-filming-mastering-your-first-10-clips/"><u>In 2024, Fearless Filming Mastering Your First 10 Clips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-90-lite-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 90 Lite Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-resetting-your-apple-id-password-across-iphone-models/"><u>Step-by-Step Guide: Resetting Your Apple ID Password Across iPhone Models</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-setting-up-a-secure-windows-sandbox-environment/"><u>Step-by-Step Guide: Setting Up a Secure Windows Sandbox Environment</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-7-ideal-television-pedestals-a-comprehensive-guide-by-zdnet/"><u>Top 7 Ideal Television Pedestals : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-9-innovative-tools-to-eliminate-white-background-signatures/"><u>Top 9 Innovative Tools to Eliminate White-Background Signatures</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-rated-titles-discover-the-highest-ranked-apps-on-google-play/"><u>Top Rated Titles: Discover the Highest-Ranked Apps on Google Play</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
 

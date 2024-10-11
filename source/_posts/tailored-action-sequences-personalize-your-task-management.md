@@ -1,7 +1,7 @@
 ---
 title: Tailored Action Sequences - Personalize Your Task Management
-date: 2024-10-02T21:00:09.221Z
-updated: 2024-10-05T17:52:10.800Z
+date: 2024-10-08T01:41:42.321Z
+updated: 2024-10-10T16:42:09.064Z
 tags:
   - user-guide
 categories:
@@ -286,13 +286,6 @@ This custom action enables setting a folder from a formatted text string.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This custom action can be scheduled only after the "Paths Resolution" action group from "Install Execution Stage".
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Call function from attached native DLL
 
 Using this type of custom action you can call a function from a native DLL. You can find a sample DLL and its project in the [Serial Number Validation DLL](https://tools.techidaily.com/advancedinstaller/products/) article.
@@ -329,6 +322,13 @@ The list with the function's arguments. There can be any number of arguments.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg) You can change the order of arguments using the \[Move Up \] and\[Move Down \] context menu options. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Call Method from .NET Assembly
 
 This predefined custom action can be used to call .NET Core and .NET Framework code.
@@ -336,13 +336,6 @@ This predefined custom action can be used to call .NET Core and .NET Framework c
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In order for the custom action to execute the code, the appropriate version of .NET Core or .NET Framework should be installed on the target machine, so it should be added as a prerequisite to your project. 
 
 For more information please see [How to create a .NET Custom Action](https://tools.techidaily.com/advancedinstaller/products/) article.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Properties
 
@@ -397,27 +390,26 @@ This custom action will prompt a message box containing the value of the APPDIR 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Any [return value of the script](https://learn.microsoft.com/en-us/windows/win32/msi/return-values-of-jscript-and-vbscript-custom-actions?redirectedfrom=MSDN "Return Values of JScript and VBScript Custom Actions") functions is interpreted as success by this custom action type.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)"Wait for custom action to finish before proceeding" option from "Execution Options" field is mandatory for script custom actions and cannot be disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Run Inline PowerShell Script
 
 This custom action is basically a small inline PowerShell script that is ran during the install process.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Built-in Windows PowerShell is the default tool used to run the script. 
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 At install-time the custom action will select which PowerShell tool to run: the default _powershell.exe_ (Windows PowerShell) or _pwsh.exe_ \- (PowerShell Core) if:
 
@@ -426,6 +418,13 @@ At install-time the custom action will select which PowerShell tool to run: the 
 Copy
 
 (or newer) is found in the script.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Properties
 
@@ -517,13 +516,6 @@ Copy
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is not possible to get/set properties on this custom action type on**Deferred** execution time
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)"Wait for custom action to finish before proceeding" option from "Execution Options" field is mandatory for script custom actions and cannot be disabled.
 
 ## Generate and install a self signed certificate
@@ -544,13 +536,6 @@ This custom action creates and installs a self signed certificate
 This custom action enables the stopping of the installation process if some condition is satisfied or not. An error message will be displayed to let the user know what happened.
 
  The condition for stopping the install process must be entered in the "Execution Condition" field.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Properties
 
@@ -653,10 +638,10 @@ This custom action allows you to check if a specific user account exists on the 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Leave the "Domain" field empty when checking a local user account.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Name - this field needs to be set to the target user name. (USER\_NAME property)
@@ -749,6 +734,13 @@ Specify the source folder and the destination folder. You can add multiple pairs
 
 This option ensures that the source files will be copied to the profile of future users.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Predefined custom actions for working with ComboBox controls
 
 **Populate combo box**, **Delete from ComboBox** and **Extract ComboBox Data** are UI-only custom actions that can be used to populate, delete from and extract data from ComboBox controls. See the [ComboBox and ListBox controls](https://tools.techidaily.com/advancedinstaller/products/) tutorial for details and sample projects.
@@ -787,11 +779,25 @@ Copy
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On an earlier Windows versions this predefined custom action will not be able to resolve any Known Folder, so you should condition the installation of all components in that folder, based on the OS version. (e.g. **VersionNT >= 600**)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In order to use this predefined custom action in your project, follow the steps below:
 
 a) Add the predefined **Resolve known folder path** custom action under "Wizard Dialogs Stage -> Searches".
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **Resolve known folder path** predefined custom action can be added under any standard action before **Paths Resolution** action group.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 b) Keeping the SHIFT key pressed, drag-and-drop the custom action in tree control, under "Install Execute Stage -> Searches". This will create a copy of the action in the Install Execution Stage.
 
@@ -802,6 +808,19 @@ d) select “Advanced execution scenarios...” link button and set the scheduli
 e) In the [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page create a new property based folder, specifying the property from step c. You can now add content to this property based folder.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Add as many properties as you need in the same way.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start image slideshow
 
@@ -869,13 +888,6 @@ This predefined custom action allows you to automatically add a new shortcut to 
 ## Remove network location
 
 This predefined custom action allows you to automatically delete an existent network location shortcut from the target machine. In case the network location shortcut doesn't exist this custom action will not make any modifications to the system. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Properties
 
@@ -1138,24 +1150,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-profits-via-celebrity-skincare-channels-for-2024/"><u>[New] Elevating Profits via Celebrity Skincare Channels for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-your-step-by-step-guide-to-downloading-youtube-srt-files-effortlessly-for-2024/"><u>[New] Your Step-by-Step Guide to Downloading YouTube SRT Files Effortlessly for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/all-in-one-jre-suite-your-essential-compilation-of-java-development-resources/"><u>All-in-One JRE Suite: Your Essential Compilation of Java Development Resources</u></a></li>
-<li><a href="https://facebook.techidaily.com/app-privacy-iphone-users-growing-aversion/"><u>App Privacy: IPhone Users' Growing Aversion</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/best-top-6-tools-for-creating-stunning-quote-wallpapers/"><u>Best Top 6 Tools for Creating Stunning Quote Wallpapers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convierte-archivos-ogg-libremente-a-audio-m4a-directamente-online-un-resumen-paso-a-paso/"><u>Convierte Archivos OGG Libremente a Audio M4A Directamente Online: Un Resumen Paso a Paso</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/critically-acclaimed-vr-film-selections-for-2024/"><u>Critically Acclaimed VR Film Selections for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effortless-sound-hunting-discover-and-secure-your-tracks-with-mp3-explorer/"><u>Effortless Sound Hunting: Discover & Secure Your Tracks with MP3 Explorer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-frequent-exiting-of-v-rising-game-while-playing-on-your-computer/"><u>How To Fix Frequent Exiting of V Rising Game While Playing on Your Computer</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/implementing-installedscriptfiles-in-sharepoint-through-custom-actions/"><u>Implementing InstalledScriptFiles in SharePoint Through Custom Actions</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/inheritance-planning-strategies-navigating-legacy-choices/"><u>Inheritance Planning Strategies: Navigating Legacy Choices</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/refine-designed-input-box-chat-layout/"><u>Refine Designed Input Box Chat Layout</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sulfur-is-also-a-nonmetal-but-it-is-solid-at-room-temperature/"><u>Sulfur Is Also a Nonmetal but It Is Solid at Room Temperature.</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-youtube-studio-editing-handbook/"><u>The Ultimate YouTube Studio Editing Handbook</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oneplus-11r-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent OnePlus 11R Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-free-tools-for-live-streaming-with-a-webcam-compatible-with-windows-and-macos/"><u>Top Free Tools for Live Streaming with a Webcam: Compatible with Windows & macOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-predictive-artifice-intelligence-mechanisms-and-functionality/"><u>Understanding Predictive Artifice Intelligence: Mechanisms & Functionality</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/unleash-advanced-features-with-the-innovative-i-upgrade-code-solution/"><u>Unleash Advanced Features with the Innovative I-Upgrade Code Solution</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/unmasking-the-invisible-effective-strategies-for-identifying-espionage-software-on-android-phones/"><u>Unmasking the Invisible: Effective Strategies for Identifying Espionage Software on Android Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004547299-fixed-zoom-crashing-on-windows-1110-2024-tips/"><u>[FIXED] Zoom Crashing on Windows 11/10 – 2024 Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-nine-key-approaches-for-storing-mov-in-windows-environments/"><u>[Updated] In 2024, Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-picks-of-youtubes-snackable-shorter-videos-free/"><u>2024 Approved Prime Picks of YouTube's Snackable Shorter Videos (FREE)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/broadcast-battleground-pick-your-preferred-livestreaming-champion-vmixwirecast/"><u>Broadcast Battleground Pick Your Preferred Livestreaming Champion (VMix/Wirecast)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-sunbeam-effect-android-screen-brightening/"><u>In 2024, Sunbeam Effect Android Screen Brightening</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/leading-photo-slide-show-software-compatible-with-windows-10-reviews-and-comparisons/"><u>Leading Photo Slide Show Software Compatible with Windows 10 - Reviews & Comparisons</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/navigating-the-permissions-tab-in-your-installer-projects/"><u>Navigating the Permissions Tab in Your Installer Projects</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-methods-for-converting-pdf-files-into-excel-spreadsheets-on-your-android-device/"><u>Simple Methods for Converting PDF Files Into Excel Spreadsheets on Your Android Device</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-effectively-hiding-identities-by-blurring-faces-in-images/"><u>Step-by-Step Guide: Effectively Hiding Identities by Blurring Faces in Images</u></a></li>
 </ul></div>
 

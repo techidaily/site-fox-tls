@@ -1,7 +1,7 @@
 ---
 title: "Tailored Database Interface: Custom SQL Connection Portal"
-date: 2024-09-29T18:27:38.789Z
-updated: 2024-10-05T17:00:00.986Z
+date: 2024-10-05T17:43:16.505Z
+updated: 2024-10-10T22:15:37.599Z
 tags:
   - user-guide
 categories:
@@ -83,16 +83,16 @@ You can use this type of SQL connection to run your scripts when you require to 
 
 ![Custom sql connection](https://cdn.advancedinstaller.com/img/ui/custom-sql-connection.png "Custom sql connection")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Condition
 
 Condition the execution of all scripts from this connection. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Connection Type
 
@@ -111,6 +111,13 @@ Edit the connection string. You can insert [Formatted Type](https://tools.techid
 
 Set the login timeout interval (in seconds) for this database connection. A value of "**0**" (zero) means the login timeout is disabled, and the connection will wait indefinitely for a server response. The range tolerance for this value is dependent on the specific ODBC driver used and its standard compliance / implementation.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Connection and all its scripts are verbose
 
 When using the verbose mode for an SQL connection, if an error occurs when connecting or during the execution of one of its SQL scripts, a dialog box will be shown containing the ODBC error response.
@@ -120,29 +127,28 @@ When using the verbose mode for an SQL connection, if an error occurs when conne
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can choose to let the installing user to **pick** an SQL Server to connect to, from the available Microsoft SQL Servers on the network. Advanced Installer can automatically **browse** the network to discover any SQL Server (instances) online. Also, you have the possibility of allow the user to **select** a database from a list of available databases he is allowed to connect to. Please see[Browse for SQL Servers](https://tools.techidaily.com/advancedinstaller/products/) and [Show Databases from an SQL Server](https://tools.techidaily.com/advancedinstaller/products/) articles for details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Log errors to file
 
 If this option is enabled and an error occurs, a log file(**_AI\_SQLScripts.log_**) containing the error message will be automatically generated by the installer in the user's **Temp** folder, .
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use 64-bit ODBC resource
 
@@ -187,24 +193,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-advanced-tactics-preserving-the-integrity-of-whatsapp-talks/"><u>[New] 2024 Approved Advanced Tactics Preserving the Integrity of WhatsApp Talks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-lore-legends-top-10-roguelike-experiences/"><u>[New] 2024 Approved Lore Legends Top 10 Roguelike Experiences</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-slow-motion-a-guide-for-instagrams-next-viral-reels/"><u>[New] In 2024, The Art of Slow-Motion A Guide for Instagram's Next Viral Reels</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-from-silent-videos-to-engaging-content-swiftly-add-captions-on-fb/"><u>2024 Approved From Silent Videos to Engaging Content Swiftly Add Captions on FB</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-16-leaks-insights-on-release-date-price-and-features-stay-updated/"><u>Android 16 Leaks: Insights on Release Date, Price & Features - Stay Updated</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/best-top-6-tools-for-creating-stunning-quote-wallpapers/"><u>Best Top 6 Tools for Creating Stunning Quote Wallpapers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games-for-2024/"><u>Beyond the Screen Advanced Techniques in Logging Virtual Reality Games for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-the-features-of-net-native-image-selection/"><u>Exploring the Features of .NET Native Image Selection</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-to-play-battle-ground-tips-winning-in-pubg-mobile-for-pc-users/"><u>Free-to-Play Battle Ground Tips: Winning in PUBG Mobile for PC Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-14-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 14 Pro Max or iPad?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-13-proplus-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 13 Pro+ 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-inisections-a-key-to-organized-and-efficient-document-management/"><u>Mastering IniSections: A Key to Organized and Efficient Document Management</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ating-youtubes-tagging-system-tips-for-finding-prime-video-labels-for-2024/"><u>Navigating YouTube's Tagging System Tips for Finding Prime Video Labels for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-entry-point-not-found-on-windows-pc/"><u>Overcoming 'Entry Point Not Found' On Windows PC</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/smart-assistant-choosing-the-perfect-product-with-our-advanced-selection-chat/"><u>Smart Assistant: Choosing the Perfect Product with Our Advanced Selection Chat</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/tailored-action-sequences-personalize-your-task-management/"><u>Tailored Action Sequences - Personalize Your Task Management</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-free-tools-for-live-streaming-with-a-webcam-compatible-with-windows-and-macos/"><u>Top Free Tools for Live Streaming with a Webcam: Compatible with Windows & macOS</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-comparison-best-white-background-editing-apps-free-vs-paid-for-photos/"><u>Ultimate Comparison: Best White Background Editing Apps (Free Vs. Paid) for Photos</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/unmasking-the-invisible-effective-strategies-for-identifying-espionage-software-on-android-phones/"><u>Unmasking the Invisible: Effective Strategies for Identifying Espionage Software on Android Phones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-your-shorts-image-visible-again/"><u>[New] 2024 Approved How to Make Your Shorts' Image Visible Again</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audioarchitect-designing-without-dacast/"><u>[New] AudioArchitect Designing Without DaCast</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-animator-marketplace-of-custom-creative-stunts/"><u>[New] The Animator' Marketplace of Custom Creative Stunts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-pros-guide-to-documenting-your-online-facebook-interactions/"><u>[New] The Pro's Guide to Documenting Your Online Facebook Interactions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-recording-guide-for-sims-enthusiasts-for-2024/"><u>[New] Ultimate Recording Guide for Sims Enthusiasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-render-and-upload-your-youtube-video-faster-in-2024/"><u>[Updated] How to Render and Upload Your YouTube Video Faster, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-swiftclick-retrorecall-video/"><u>[Updated] In 2024, SwiftClick RetroRecall Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-artists-blueprint-10-tips-for-podcast-cover-success/"><u>[Updated] The Artist's Blueprint 10 Tips for Podcast Cover Success</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/capture-festive-moments-with-these-top-5-holiday-scene-generator-apps/"><u>Capture Festive Moments with These Top 5 Holiday Scene Generator Apps</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/explore-our-selection-of-gourmet-java-goodies-and-kitchenware/"><u>Explore Our Selection of Gourmet Java Goodies and Kitchenware</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-seamlessly-transform-dv-video-footage-into-high-quality-mp4-essential-techniques-unveiled/"><u>How to Seamlessly Transform DV Video Footage Into High-Quality MP4: Essential Techniques Unveiled</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-art-of-happy-glass-a-comprehensive-guide-to-winning-on-your-computer/"><u>Mastering the Art of 'Happy Glass' - A Comprehensive Guide to Winning on Your Computer</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-use-of-interfaces-and-extensions-in-software-development-the-ultimate-guide/"><u>Mastering the Use of Interfaces and Extensions in Software Development: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/protecting-your-data-expert-solutions-to-windows-10s-privacy-concerns-with-malwarefox/"><u>Protecting Your Data: Expert Solutions to Windows 10'S Privacy Concerns with MalwareFox</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-picks-enhancing-your-instagram-with-amazing-gifs/"><u>Top Picks: Enhancing Your Instagram with Amazing GIFs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973942573-update-and-install-epson-l3n-50-driver-on-windows-10-8-and-7-direct-links-here/"><u>Update and Install Epson L3n-50 Driver on Windows 10, 8 & 7 - Direct Links Here!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/upgrade-your-images-with-ipatch-a-comprehensive-guide/"><u>Upgrade Your Images with IPatch: A Comprehensive Guide</u></a></li>
 </ul></div>
 
