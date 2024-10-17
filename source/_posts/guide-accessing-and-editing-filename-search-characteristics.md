@@ -1,7 +1,7 @@
 ---
 title: "Guide: Accessing and Editing Filename Search Characteristics"
-date: 2024-10-03T16:40:07.187Z
-updated: 2024-10-11T05:15:36.733Z
+date: 2024-10-16T00:01:13.338Z
+updated: 2024-10-16T22:03:56.292Z
 tags:
   - user-guide
 categories:
@@ -79,6 +79,19 @@ Table of Contents
 
 ![File search properties](https://cdn.advancedinstaller.com/img/ui/file-search-properties.png "File search properties")  
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Name
 
  The name of the file to search. Type the long name, as a short name will be generated for you if necessary.
@@ -87,49 +100,37 @@ You can use the \[... \] button to select a file to search.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You cannot use properties in this field because the path in which the file is searched is specified by the location of the search.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Languages
 
  The languages supported by the file. 
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Version
 
  Minimum and maximum version for the file. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Size
 
  Minimum and maximum size in bytes for the file. 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Minimum modification
@@ -141,13 +142,6 @@ You can use the \[... \] button to select a file to search.
  The maximum modification date and time for the file.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * FileName
 * MinVersion
@@ -193,17 +187,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-optimizing-your-workflow-with-bandicams-screen-recorder-features/"><u>[Updated] In 2024, Optimizing Your Workflow with Bandicam’s Screen Recorder Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/agile-quick-windows-picture-sorter/"><u>Agile Quick Windows Picture Sorter</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-3d-video-makers-you-must-know/"><u>Best 3D Video Makers You Must Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-keyboard-wont-connect-here-are-the-steps-to-get-it-working-with-your-pc-again/"><u>Bluetooth Keyboard Won't Connect? Here Are the Steps to Get It Working with Your PC Again!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/darkness-decoded-iphone-photography-mastery/"><u>Darkness Decoded IPhone Photography Mastery</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effective-event-oversight-strategies-for-successful-outcomes/"><u>Effective Event Oversight Strategies for Successful Outcomes</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/fast-track-guide-5-easy-methods-to-watch-videos-at-reduced-speed/"><u>Fast Track Guide: 5 Easy Methods to Watch Videos at Reduced Speed</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-capture-a-stunning-and-professional-headshot-for-your-resume/"><u>How To Capture A Stunning & Professional Headshot For Your Résumé</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-sony-xperia-1-v-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Sony Xperia 1 V Pattern Lock Screen</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-setting-up-a-professional-live-stream-for-fortnite-gaming-on-windows-computer/"><u>Step-by-Step Tutorial: Setting Up a Professional Live Stream for Fortnite Gaming on Windows Computer</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-guide-to-utilizing-apowermirror-with-aircast-technology/"><u>Ultimate Guide to Utilizing ApowerMirror with AIRCAST Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208207391-windows-users-say-goodbye-to-that-troublesome-sticking-keyboard-problem/"><u>Windows Users, Say Goodbye to That Troublesome Sticking Keyboard Problem</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-seamless-youtube-experience-facebooks-autoplay-solution/"><u>[New] In 2024, Seamless YouTube Experience Facebook's Autoplay Solution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>[Updated] 2024 Approved Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/sn55er-ssd/"><u>復元されたSN55er SSD - 頑丈なハードウェアを維持しながらの交換手順とヒント</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/samsung-hdd-aomei-backupper/"><u>免費使用：Samsung HDD的拷贝软件 - AOMEI BackUpper</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-opengl-error-3-from-nvidia/"><u>Correcting OpenGL Error 3 From NVIDIA</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-infinix-note-30-vip-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Infinix Note 30 VIP Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-tips-for-making-backups-how-to-construct-a-system-restore-point-in-windows-easily-using-two-techniques/"><u>Quick Tips for Making Backups: How to Construct a System Restore Point in Windows Easily Using Two Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-pcs-bluetooth-link-with-these-9-essential-tips-for-win-11/"><u>Restore Your PC's Bluetooth Link with These 9 Essential Tips for Win 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/soundscapes-for-social-scenarios-on-facebook/"><u>Soundscapes for Social Scenarios on Facebook</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-converting-avchd-mtsm2ts-files-to-mov-format/"><u>Step-by-Step Guide: Converting AVCHD MTS/M2TS Files to MOV Format</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/successfully-transferring-images-from-your-iphone-to-your-pc-without-issues/"><u>Successfully Transferring Images From Your iPhone to Your PC Without Issues</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/the-ultimate-guide-top-9-solutions-when-your-iphone-contacts-wont-sync-with-icloud/"><u>The Ultimate Guide: Top 9 Solutions When Your iPhone Contacts Won't Sync with iCloud</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-ranking-of-top-6-hard-drive-data-retrieval-tools-for-solid-state-drives/"><u>Ultimate Ranking of Top 6 Hard Drive Data Retrieval Tools for Solid-State Drives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/which-one-rules-podcasts-vs-youtube-for-entertainment/"><u>Which One Rules? Podcasts Vs. YouTube for Entertainment</u></a></li>
 </ul></div>
 

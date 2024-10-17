@@ -1,7 +1,7 @@
 ---
 title: Explore & Organize Your Files - A Guide to Effective Version Tab Management
-date: 2024-10-05T00:57:24.312Z
-updated: 2024-10-10T23:06:07.546Z
+date: 2024-10-10T18:02:34.761Z
+updated: 2024-10-17T03:18:21.830Z
 tags:
   - user-guide
 categories:
@@ -98,41 +98,35 @@ In this dialog, you can specify a file version that will be used during the inst
 
 ![The File Version Tab](https://cdn.advancedinstaller.com/img/dialog/file-version.png "The File Version Tab")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## File Version
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get from file
 
 The file has the default version if it has one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### User specified
 
 You can specify the version for the file. The default value is 1.0.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Make companion of file
@@ -144,10 +138,10 @@ If you choose this option, the installation of a companion file doesn't depend o
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is not available for the files that are key paths in a component because the key path file versioning logic would be determined by the companion parent file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -183,17 +177,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-exceptional-hd-video-capturing-options-compiled-here/"><u>[New] 2024 Approved Exceptional HD Video Capturing Options Compiled Here</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sensual-sequence-capturing-culinary-creativity-on-camera/"><u>[New] Sensual Sequence Capturing Culinary Creativity on Camera</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-how-to-zoom-photos-and-videos-on-snapchat/"><u>[Updated] How to Zoom Photos and Videos on Snapchat</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instagram-snapshot-of-an-enlightening-episode/"><u>[Updated] Instagram Snapshot of an Enlightening Episode</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-features-of-the-asus-zenwifi-ax6600-xt8-a-thorough-review-of-its-mesh-networking-prowess/"><u>Breaking Down The Features Of The ASUS ZenWiFi AX6600 (XT8) - A Thorough Review of Its Mesh Networking Prowess</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/customizable-launch-criteria-and-conditions-optimization/"><u>Customizable Launch Criteria & Conditions Optimization</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/customizable-preset-folder-structure-options/"><u>Customizable Preset Folder Structure Options</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/existing-enrollment-record-verification-a-guide/"><u>Existing Enrollment Record Verification: A Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-nature-garmin-virb-ultra-30-cam-review-for-2024/"><u>Exploring Nature Garmin VIRB Ultra 30 Cam Review for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/simple-strategies-for-removing-unwanted-icloud-storage/"><u>Simple Strategies for Removing Unwanted iCloud Storage</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/tailored-database-interface-custom-sql-connection-portal/"><u>Tailored Database Interface: Custom SQL Connection Portal</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-efficient-techniques-to-snap-up-twitter-gifs/"><u>[New] Efficient Techniques to Snap Up Twitter Gifs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-expert-tips-the-finest-7-wet-proof-recorders/"><u>[Updated] 2024 Approved Expert Tips The Finest 7 Wet-Proof Recorders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-dominate-social-media-sales-5-strategic-moves-for-instagram-experts/"><u>[Updated] Dominate Social Media Sales 5 Strategic Moves for Instagram Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-filming-on-the-go-what-you-need/"><u>2024 Approved Filming On-the-Go – What You Need</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/iphone-idevice/"><u>如何克服 iPhone 回復階段卡死？ - iDevice教育指南</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728485889305-aomei-backupper/"><u>AOMEI Backupper還原：簡易指南 - 重建損壞的分割區與單元</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/central-luts-in-post-production-filmmaking-revolution-for-2024/"><u>Central Luts in Post-Production Filmmaking Revolution for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-bidirectional-file-sharing-four-strategies-with-google-drive-sync/"><u>Mastering Bidirectional File Sharing: Four Strategies with Google Drive Sync</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/onoff-switch-windows-11s-auto-hdr-feature-for-2024/"><u>On/Off Switch Windows 11'S Auto-HDR Feature for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-how-to-successfully-duplicating-your-bootable-sd-card-in-windows-using-5-simple-steps/"><u>Quick How-To: Successfully Duplicating Your Bootable SD Card in WINDOWS (Using 5 Simple Steps)</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/resolving-startup-problems-with-windows-11-on-optical-media-top-4-methods/"><u>Resolving Startup Problems with Windows 11 on Optical Media - Top 4 Methods</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-steps-to-move-your-video-files-from-computer-to-iphone-itunes-and-non-itunes-methods/"><u>Simple Steps to Move Your Video Files From Computer to iPhone: ITunes & Non-iTunes Methods</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/solving-usb-connection-problems-effective-ways-to-enable-file-sharing-between-device-and-windows-11-pc/"><u>Solving USB Connection Problems: Effective Ways to Enable File Sharing Between Device and Windows 11 PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-want-to-get-vsdc-video-editor-on-mac-but-it-is-only-available-on-windows-dont-worry-we-compiled-a-list-of-best-vsdc-video-editor-for-m/"><u>Updated 2024 Approved Want to Get VSDC Video Editor on Mac? But It Is only Available on Windows. Dont Worry, We Compiled a List of Best VSDC Video Editor for Mac Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-record-your-gameplay-3-beginner-friendly-options/"><u>Updated Record Your Gameplay 3 Beginner-Friendly Options</u></a></li>
 </ul></div>
 

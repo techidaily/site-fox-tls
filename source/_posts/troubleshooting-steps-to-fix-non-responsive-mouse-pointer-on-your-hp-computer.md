@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps To Fix Non-Responsive Mouse Pointer On Your HP Computer
-date: 2024-10-03T21:13:18.903Z
-updated: 2024-10-10T17:59:07.187Z
+date: 2024-10-10T10:16:43.087Z
+updated: 2024-10-17T11:11:17.548Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7dcef137c48ff3983d7a66e67.jpg
@@ -50,13 +50,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
@@ -67,6 +60,13 @@ In a word, if you want to make an image back for your computer or want to clone 
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Image Your Computer with Norton Ghost
 
 1\. Install Norton Ghost and open it. It will run a step-by-step wizard the first time you open it. At last, you will see the **Easy Setup** interface where you can create a backup at once. You can also click the **Cancel** option and set the backup task later.
@@ -74,6 +74,13 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 2\. On the Home screen, you can create a backup task by clicking **Define Backup Wizard** or **Run or Manage Backups**. Here we choose the latter one.
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
 
@@ -96,6 +103,13 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. After the scanning, select the file you need and click **Recover Files...**
 
 **Recover My Computer:**
@@ -106,13 +120,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Clone Disk with Norton Ghost
 
 1\. Connect your new hard drive to your computer.
@@ -120,6 +127,13 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -142,6 +156,13 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -156,13 +177,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
@@ -172,18 +186,18 @@ Select the corresponding backup methods if you want to backup system, partition 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Restore Disk & Files
 
 If you have created a backup with AOMEI Backupper, you can easily perform a restore anytime you want. You can choose to [restore hard disk drive](https://tools.techidaily.com/ubackup/products/), the system, partition or files/folders to the point you ever made a backup.
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -193,17 +207,17 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clone Hard Drive
@@ -211,13 +225,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -257,13 +264,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -314,21 +314,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-smirk-sculptor-image-maker/"><u>[New] Smirk Sculptor Image Maker</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ace-titles-our-picks-for-the-very-best-adventurous-players-for-2024/"><u>Ace Titles Our Picks for the Very Best Adventurous Players for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/avoid-clipgrab-limitations-with-allavsoft-the-premier-video-downloading-app-for-both-pc-and-mac-enthusiasts/"><u>Avoid ClipGrab Limitations with Allavsoft: The Premier Video Downloading App for Both PC and MAC Enthusiasts</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/best-alternatives-to-crackle-top-5-streaming-platforms/"><u>Best Alternatives to Crackle: Top 5 Streaming Platforms</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/capture-and-keep-your-favorite-shows-with-pluzz-downloader-for-ultimate-access-to-french-tv-episodes/"><u>Capture and Keep Your Favorite Shows with Pluzz Downloader for Ultimate Access to French TV Episodes</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/comprehensive-guide-and-strategies-for-fifa-world-cup-2018-in-russia-enhancing-your-game/"><u>Comprehensive Guide & Strategies for FIFA World Cup 2018 in Russia - Enhancing Your Game</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-videos-from-opera-desktop-easy-guide-with-opera-media-extractor-tool/"><u>Download Videos From Opera Desktop: Easy Guide with Opera Media Extractor Tool</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-methods-for-switching-from-napster-music-files-to-itunes-mp3-playlist-compatibility-on-macos-and-windows-os/"><u>Easy Methods for Switching From Napster Music Files to iTunes MP3 Playlist Compatibility on macOS and Windows OS</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/extract-and-save-youtube-content-as-multiple-file-types-including-mp3-mp4-avi-easy-methods-for-windows-and-macos-users/"><u>Extract and Save YouTube Content as Multiple File Types Including MP3, MP4, AVI: Easy Methods for Windows & macOS Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-download-diverse-collection-of-escapist-entertainment-games-movies-series-and-more/"><u>Free Download: Diverse Collection of Escapist Entertainment - Games, Movies, Series & More!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-key-scenes-a-filmmakers-guidebook-for-2024/"><u>Mastering Key Scenes A Filmmaker's Guidebook for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10-for-2024/"><u>Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10) for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-pova-5-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Pova 5 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-strategies-to-achieve-virality-on-tiktok/"><u>Top 10 Strategies to Achieve Virality on TikTok</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/traveling-to-israel-tips-and-phrases-for-your-trip/"><u>Traveling To Israel? Tips And Phrases For Your Trip</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-cutting-to-the-chase-solutions-for-stagnant-srt-exports-in-premiere/"><u>[New] 2024 Approved Cutting to the Chase Solutions for Stagnant SRT Exports in Premiere</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>[New] In 2024, Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-snappy-zoom-calls-for-improved-engagement/"><u>[New] In 2024, Snappy Zoom Calls for Improved Engagement</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-amazons-hottest-tiktok-products-essentials/"><u>[Updated] 2024 Approved Amazon's Hottest TikTok Products - Essentials</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-uncovering-and-restoring-hidden-drives-in-windows-7-the-complete-guide/"><u>1. Uncovering and Restoring Hidden Drives in Windows 7 - The Complete Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/win112/"><u>如何在Win11中轻松重置计算机到原始状态：步骤指南（以及2个有效方法）</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/come-ripristinare-ununita-disco-non-avviabile-su-windows-1011/"><u>Come Ripristinare Un'unità Disco Non Avviabile Su Windows 10/11</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comparacion-detallada-diferencias-clave-entre-hacer-una-copia-de-seguridad-y-la-clonacion-en-tecnologia/"><u>Comparación Detallada: Diferencias Clave Entre Hacer Una Copia De Seguridad Y La Clonación en Tecnología</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-a05s-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy A05s</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-hindi-mastery-with-8-compelling-mondly-advantages/"><u>Dive Into Hindi Mastery with 8 Compelling Mondly Advantages</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guia-efectiva-para-la-instalacion-de-un-disco-duro-ssd-en-windows-sin-restaurar-el-sistema/"><u>Guía Efectiva Para La Instalación De Un Disco Duro SSD en Windows Sin Restaurar El Sistema</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guia-facil-para-crear-una-copia-de-seguridad-del-correo-electronico-de-microsoft-outlook-usando-aomei-backupper/"><u>Guía Fácil Para Crear Una Copia De Seguridad Del Correo Electrónico De Microsoft Outlook Usando AOMEI Backupper</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-google-pixel-fold-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Google Pixel Fold? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/keine-datenpanik-einfach-und-sicher-ps4-hdds-zu-wechseln/"><u>Keine Datenpanik: Einfach Und Sicher, PS4 HDDs Zu Wechseln</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-to-immediate-access-of-erased-reddit-threads/"><u>Secrets to Immediate Access of Erased Reddit Threads</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/wie-erneuert-man-auf-einem-dell-laptop-versehentlich-entfernte-dateien/"><u>Wie Erneuert Man Auf Einem Dell-Laptop Versehentlich Entfernte Dateien?</u></a></li>
 </ul></div>
 

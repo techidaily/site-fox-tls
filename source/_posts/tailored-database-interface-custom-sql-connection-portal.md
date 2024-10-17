@@ -1,7 +1,7 @@
 ---
 title: "Tailored Database Interface: Custom SQL Connection Portal"
-date: 2024-10-05T17:43:16.505Z
-updated: 2024-10-10T22:15:37.599Z
+date: 2024-10-12T03:38:06.278Z
+updated: 2024-10-17T03:40:04.208Z
 tags:
   - user-guide
 categories:
@@ -83,16 +83,16 @@ You can use this type of SQL connection to run your scripts when you require to 
 
 ![Custom sql connection](https://cdn.advancedinstaller.com/img/ui/custom-sql-connection.png "Custom sql connection")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Condition
 
 Condition the execution of all scripts from this connection. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Connection Type
 
@@ -111,13 +111,6 @@ Edit the connection string. You can insert [Formatted Type](https://tools.techid
 
 Set the login timeout interval (in seconds) for this database connection. A value of "**0**" (zero) means the login timeout is disabled, and the connection will wait indefinitely for a server response. The range tolerance for this value is dependent on the specific ODBC driver used and its standard compliance / implementation.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Connection and all its scripts are verbose
 
 When using the verbose mode for an SQL connection, if an error occurs when connecting or during the execution of one of its SQL scripts, a dialog box will be shown containing the ODBC error response.
@@ -127,28 +120,22 @@ When using the verbose mode for an SQL connection, if an error occurs when conne
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can choose to let the installing user to **pick** an SQL Server to connect to, from the available Microsoft SQL Servers on the network. Advanced Installer can automatically **browse** the network to discover any SQL Server (instances) online. Also, you have the possibility of allow the user to **select** a database from a list of available databases he is allowed to connect to. Please see[Browse for SQL Servers](https://tools.techidaily.com/advancedinstaller/products/) and [Show Databases from an SQL Server](https://tools.techidaily.com/advancedinstaller/products/) articles for details.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Log errors to file
 
 If this option is enabled and an error occurs, a log file(**_AI\_SQLScripts.log_**) containing the error message will be automatically generated by the installer in the user's **Temp** folder, .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use 64-bit ODBC resource
 
@@ -159,6 +146,13 @@ The connection will use the 64-bit DSN or driver.
  Using this option will ensure the creation of the database if it doesn't exist.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If no SQL Scripts are defined but you still want to use this option to create the database on the target machine you can add a script with a simple query. Something like USE database\_name;.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -193,22 +187,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-your-shorts-image-visible-again/"><u>[New] 2024 Approved How to Make Your Shorts' Image Visible Again</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audioarchitect-designing-without-dacast/"><u>[New] AudioArchitect Designing Without DaCast</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-animator-marketplace-of-custom-creative-stunts/"><u>[New] The Animator' Marketplace of Custom Creative Stunts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-pros-guide-to-documenting-your-online-facebook-interactions/"><u>[New] The Pro's Guide to Documenting Your Online Facebook Interactions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-recording-guide-for-sims-enthusiasts-for-2024/"><u>[New] Ultimate Recording Guide for Sims Enthusiasts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-render-and-upload-your-youtube-video-faster-in-2024/"><u>[Updated] How to Render and Upload Your YouTube Video Faster, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-swiftclick-retrorecall-video/"><u>[Updated] In 2024, SwiftClick RetroRecall Video</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-artists-blueprint-10-tips-for-podcast-cover-success/"><u>[Updated] The Artist's Blueprint 10 Tips for Podcast Cover Success</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/capture-festive-moments-with-these-top-5-holiday-scene-generator-apps/"><u>Capture Festive Moments with These Top 5 Holiday Scene Generator Apps</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-our-selection-of-gourmet-java-goodies-and-kitchenware/"><u>Explore Our Selection of Gourmet Java Goodies and Kitchenware</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-seamlessly-transform-dv-video-footage-into-high-quality-mp4-essential-techniques-unveiled/"><u>How to Seamlessly Transform DV Video Footage Into High-Quality MP4: Essential Techniques Unveiled</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-the-art-of-happy-glass-a-comprehensive-guide-to-winning-on-your-computer/"><u>Mastering the Art of 'Happy Glass' - A Comprehensive Guide to Winning on Your Computer</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-the-use-of-interfaces-and-extensions-in-software-development-the-ultimate-guide/"><u>Mastering the Use of Interfaces and Extensions in Software Development: The Ultimate Guide</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/protecting-your-data-expert-solutions-to-windows-10s-privacy-concerns-with-malwarefox/"><u>Protecting Your Data: Expert Solutions to Windows 10'S Privacy Concerns with MalwareFox</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-picks-enhancing-your-instagram-with-amazing-gifs/"><u>Top Picks: Enhancing Your Instagram with Amazing GIFs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973942573-update-and-install-epson-l3n-50-driver-on-windows-10-8-and-7-direct-links-here/"><u>Update and Install Epson L3n-50 Driver on Windows 10, 8 & 7 - Direct Links Here!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/upgrade-your-images-with-ipatch-a-comprehensive-guide/"><u>Upgrade Your Images with IPatch: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-leveraging-connected-networks-fb-to-whatsapp-video-sharing-strategies/"><u>[New] Leveraging Connected Networks FB to WhatsApp Video Sharing Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-building-harmonious-forms-crafting-circles-and-spheres/"><u>[Updated] In 2024, Building Harmonious Forms Crafting Circles and Spheres</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximize-your-income-winning-at-monetizing-social-media-videos/"><u>[Updated] In 2024, Maximize Your Income Winning at Monetizing Social Media Videos</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728481861346-windows-server-2008-r2/"><u>輕鬆修復 Windows Server 2008 R2: 完全靠命令提示符的操作手冊</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-5-gopro-filters-for-underwater-video-shooting-for-2024/"><u>Best 5 GoPro Filters for Underwater Video Shooting for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/deep-windows-11-know-how-importing-media-like-a-pro/"><u>Deep Windows 11 Know-How Importing Media Like a Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-fun-using-outside-hard-drives-through-steam/"><u>Enhancing Gaming Fun: Using Outside Hard Drives Through Steam</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-complet-comment-cloner-votre-sysdisk-pour-une-sauvegarde-ultime/"><u>Guide Complet : Comment Cloner Votre SysDisk Pour Une Sauvegarde Ultime</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/pasos-faciles-para-desbloquear-y-rescatar-informacion-de-una-memoria-usb-criptografiada/"><u>Pasos Fáciles Para Desbloquear Y Rescatar Información De Una Memoria USB Criptografiada</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/seamless-local-data-transfer-tactics-a-step-by-step-manual-for-moving-files-without-wifi/"><u>Seamless Local Data Transfer Tactics: A Step-by-Step Manual for Moving Files Without WiFi</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-app-para-hacer-copias-de-seguridad-y-restauraciones-en-windows-10-una-mente-sobre-el-omei/"><u>Top App Para Hacer Copias De Seguridad Y Restauraciones en Windows 10: Una Mente Sobre El Omei</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/transfer-hp-recovery-data-seamlessly-a-step-by-step-guide/"><u>Transfer HP Recovery Data Seamlessly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/transferencia-efectiva-de-canciones-desde-un-ordenador-windows-nativo-hasta-el-iphone-explorando-cuatro-soluciones-seguras-y-faciles-de-usar/"><u>Transferencia Efectiva De Canciones Desde Un Ordenador Windows Nativo Hasta El iPhone – Explorando Cuatro Soluciones Seguras Y Fáciles De Usar</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-now-how-to-easily-get-the-newest-driver-for-your-logitech-keyboard-on-windows-11-systems/"><u>Update Now: How to Easily Get the Newest Driver for Your Logitech Keyboard on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728485003408-windows-11/"><u>Windows 11環境でのアプリケーション仮想デスクトップ転送手順</u></a></li>
 </ul></div>
 

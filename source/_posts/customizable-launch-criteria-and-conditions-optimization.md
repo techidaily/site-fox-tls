@@ -1,7 +1,7 @@
 ---
 title: Customizable Launch Criteria & Conditions Optimization
-date: 2024-10-06T18:54:34.254Z
-updated: 2024-10-10T23:12:38.768Z
+date: 2024-10-10T03:14:45.354Z
+updated: 2024-10-16T18:23:39.981Z
 tags:
   - user-guide
 categories:
@@ -113,10 +113,10 @@ Table of Contents
 ## ICustomLaunchCondition
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -124,10 +124,10 @@ Table of Contents
 ICustomLaunchCondition : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -135,10 +135,16 @@ ICustomLaunchCondition : IDispatch
 This interface is meant to edit custom launch condition
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -150,10 +156,16 @@ Gets or sets the condition. The installation will run only if the condition is T
 Gets or sets the message that will be showed to the user if the condition is False 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -195,18 +207,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/faqs-essentielles-handbrake-et-son-encodage-de-videos-rapide-grace-au-gpu/"><u>FAQs Essentielles: HandBrake Et Son Encodage De Vidéos Rapide Grâce Au GPU</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-fortnite-errors-regain-your-right-to-play-after-a-permission-hurdle/"><u>Fixing Fortnite Errors: Regain Your Right to Play After a Permission Hurdle</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-does-iregistryvalue-work-understanding-its-functionality-and-application/"><u>How Does IRegistryValue Work? Understanding Its Functionality and Application</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-navigating-file-transfer-how-to-save-igtv-videos-on-windowsmac-os/"><u>In 2024, Navigating File Transfer How to Save IGTV Videos on Windows/Mac OS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlining-your-workflow-with-macs-finest-snipers/"><u>In 2024, Streamlining Your Workflow with Mac's Finest Snipers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-discovering-vn-video-editor-for-pc-a-brief-analysis/"><u>New 2024 Approved Discovering VN Video Editor for PC A Brief Analysis</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-effectively-hiding-identities-by-blurring-faces-in-images/"><u>Step-by-Step Guide: Effectively Hiding Identities by Blurring Faces in Images</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/streamlined-wellness-management-on-your-wrist-with-the-new-samsung-galaxy-ring/"><u>Streamlined Wellness Management on Your Wrist with the New Samsung Galaxy Ring</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-guide-for-roku-closed-captioning-issues/"><u>The Ultimate Fix Guide for Roku Closed Captioning Issues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-boomerang-edge-captivating-your-instagram-audience/"><u>[New] In 2024, The Boomerang Edge Captivating Your Instagram Audience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-screen-caption-composer-for-2024/"><u>[New] On-Screen Caption Composer for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-swiftly-excise-your-youtube-comment-spam-for-2024/"><u>[Updated] How to Swiftly Excise Your Youtube Comment Spam for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/as-principais-ferramentas-gratuitas-para-migracao-do-sistema-operacional-com-seguranca-para-ssd/"><u>As Principais Ferramentas Gratuitas Para Migração Do Sistema Operacional Com Segurança Para SSD.</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/experts-complete-walkthrough-for-factory-restoring-the-hard-disk-on-windows-11-computers/"><u>Expert's Complete Walkthrough for Factory Restoring the Hard Disk on Windows 11 Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-maps-made-simple-finding-and-using-ev-charging-stations-across-the-country/"><u>Google Maps Made Simple: Finding and Using EV Charging Stations Across the Country</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guia-completa-herramientas-superiores-para-la-restauracion-y-recuperacion-de-un-ssd-adata/"><u>Guía Completa: Herramientas Superiores Para La Restauración Y Recuperación De Un SSD Adata</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guia-experticia-resolucion-de-problemas-metodos-efectivos-para-guardar-la-copia-de-seguridad-en-windows-11/"><u>Guía Experticia: Resolución De Problemas - Métodos Efectivos Para Guardar La Copia De Seguridad en Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-evaluating-zdsofts-prowess-in-screen-recorder-tech/"><u>In 2024, Evaluating ZDSoft's Prowess in Screen Recorder Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/jumping-into-higher-performance-upgrading-windows-11s-bitness/"><u>Jumping Into Higher Performance: Upgrading Windows 11'S Bitness</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-hp-officejet-pro-cuintilla-8720-windows-printing-software-and-driver-downloads/"><u>Latest Updates for HP OfficeJet Pro Cuintilla 8720 Windows Printing Software and Driver Downloads</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/schritt-fur-schritt-guide-fur-die-datenwiedergewinnung-von-entfernten-dateien-aus-usbs-mit-windows-nativen-tools/"><u>Schritt-Für-Schritt-Guide Für Die Datenwiedergewinnung Von Entfernten Dateien Aus USBs Mit Windows Nativen Tools</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-inside-the-ultimate-list-of-immersive-youtube-vr-content/"><u>Step Inside The Ultimate List of Immersive YouTube VR Content</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-to-setting-up-a-factory-reset-partition-in-various-versions-of-windows/"><u>Step-by-Step Guide to Setting Up a Factory Reset Partition in Various Versions of Windows</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/tres-metodos-efectivos-para-solucionar-problemas-del-antivirus-windows-11-defender/"><u>Tres Métodos Efectivos Para Solucionar Problemas Del Antivirus Windows 11 Defender</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-creating-a-ken-burns-effect-in-software-for-2024/"><u>Updated The Ultimate Guide to Creating a Ken Burns Effect in Software for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/windows-10-bestandsherstellung-ohne-kosten-heftig-reduzierte-tarife-fur-volle-pakettransfers-and-herunterladen/"><u>Windows 10-Bestandsherstellung Ohne Kosten: Heftig Reduzierte Tarife Für Volle Pakettransfers & Herunterladen</u></a></li>
 </ul></div>
 

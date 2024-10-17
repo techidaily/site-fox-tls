@@ -1,7 +1,7 @@
 ---
 title: "Personalized Startup Settings Tab: Tailoring Your Application's Initial Environment"
-date: 2024-10-09T04:26:26.115Z
-updated: 2024-10-10T23:35:17.771Z
+date: 2024-10-10T21:26:35.662Z
+updated: 2024-10-17T08:41:35.841Z
 tags:
   - user-guide
 categories:
@@ -76,15 +76,22 @@ In this tab you can define custom launch conditions by using[installer propertie
 
 ![Custom launch conditions](https://cdn.advancedinstaller.com/img/ui/custom-launch-conditions.png "Custom launch conditions")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new launch condition
 
 Use the \[New \] button, the “New” list context menu item or press the Insert key while the list control is focused. The [Edit Launch Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up allowing you to specify a launch condition.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Modifying a launch condition
@@ -92,10 +99,16 @@ Use the \[New \] button, the “New” list context menu item or press the Inser
  Use the \[Edit \] button, the “Edit” list context menu item or press the Space key while an element from the list control is selected. The [Edit Launch Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up allowing you to edit a launch condition.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a launch condition
@@ -105,17 +118,10 @@ Use the \[New \] button, the “New” list context menu item or press the Inser
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation will run only if the custom launch conditions are**True**. Otherwise, the launch condition description will be showed to the user.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -156,21 +162,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-dorm-room-to-mainstream-trending-short-hashtags/"><u>[Updated] 2024 Approved From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-tracking-your-followers-departure/"><u>[Updated] In 2024, Instagram Tracking Your Followers' Departure</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-the-best-anti-malware-apps-for-your-android-device-a-comprehensive-review/"><u>Explore the Best Anti-Malware Apps for Your Android Device : A Comprehensive Review</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-lava-blaze-2-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Lava Blaze 2 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-effortless-video-editing-on-mac-with-mkvtoolnix/"><u>In 2024, Effortless Video Editing on Mac with MKVtoolnix</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-memetic-mastery-crafting-joy-via-adobe/"><u>In 2024, Memetic Mastery Crafting Joy via Adobe</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/on-the-go-security-excellence-with-expressvpn-aircove-go-an-in-depth-analysis/"><u>On-the-Go Security Excellence with ExpressVPN Aircove Go: An In-Depth Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photo-pace-crafting-time-lapse-videos-on-your-galaxy-phone-for-2024/"><u>Photo Pace Crafting Time-Lapse Videos on Your Galaxy Phone for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-and-easy-guide-top-apps-for-instantly-sharpening-blurry-photos-on-iphone/"><u>Quick & Easy Guide: Top Apps for Instantly Sharpening Blurry Photos on iPhone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-and-effortless-techniques-to-stream-your-android-screen-to-computer-systems/"><u>Quick & Effortless Techniques to Stream Your Android Screen to Computer Systems</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-guide-clearing-private-data-off-your-ios-smartphone-effortlessly/"><u>Quick Guide: Clearing Private Data Off Your iOS Smartphone Effortlessly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safeguard-battery-health-8-techniques-to-solve-on-hold-charging-glitch-on-iphones/"><u>Safeguard Battery Health: 8 Techniques to Solve 'On-Hold' Charging Glitch on iPhones</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-how-to-erase-individuals-from-images-seamlessly-on-your-phone-this-year/"><u>Step-by-Step Tutorial: How to Erase Individuals From Images Seamlessly on Your Phone This Year</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-guide-syncing-your-iphone-11-with-a-pc-via-wireless-methods/"><u>Ultimate Guide: Syncing Your iPhone 11 with a PC via Wireless Methods</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/unlocking-tumblrs-audio-treasures-three-straightforward-steps-for-seamless-downloads/"><u>Unlocking Tumblr's Audio Treasures: Three Straightforward Steps for Seamless Downloads</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728492467309-windows-11/"><u>«Windows 11 裁剪區段複制到不同硬碟片：完全指南」</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-diving-into-action-how-to-shoot-impressive-underwater-gopro-videos-for-2024/"><u>[New] Diving Into Action How to Shoot Impressive Underwater GoPro Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-minisculerecordings-snapshot-scrutiny/"><u>2024 Approved MinisculeRecordings Snapshot Scrutiny</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-the-top-five-gba-emulators-compatible-with-windows-pcs/"><u>2024 Approved Unveiling the Top Five GBA Emulators Compatible with Windows PCs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-animations-how-to-craft-engaging-professional-looking-gifs/"><u>2024 Approved YouTube Animations How To Craft Engaging, Professional-Looking GIFs</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728491801182-windows-112/"><u>新しいWindows 11でダイナミックディスクを2つの方法でクローンするためのガイド</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-on-how-to-construct-a-windows-t-7-restore-media-at-home/"><u>Comprehensive Guide on How to Construct a Windows T 7 Restore Media at Home</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/doppelter-erfolg-lesezeichen-und-dokumente-von-ipad-modellen-air-pro-und-mini-auf-externem-flash-speicher-verschieben/"><u>Doppelter Erfolg: Lesezeichen Und Dokumente Von iPad Modellen Air, Pro Und Mini Auf Externem Flash-Speicher Verschieben</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/efficiently-fix-your-pc-issues-using-these-6-tips-for-troubleshooting-windows-11/"><u>Efficiently Fix Your PC Issues Using These 6 Tips for Troubleshooting Windows 11</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/erweiterung-von-festplattespeicher-in-windows-11-entdecken-sie-drei-effiziente-methoden/"><u>Erweiterung Von Festplattespeicher in Windows 11 - Entdecken Sie Drei Effiziente Methoden</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-choices-best-mics-enhancing-4k-video-quality/"><u>In 2024, Expert Choices Best Mics Enhancing 4K Video Quality</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/maximize-performance-with-easy-steps-to-upgrade-disk-capacity-in-vmware-vsphere-systems/"><u>Maximize Performance with Easy Steps to Upgrade Disk Capacity in VMware vSphere Systems</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-5-tiktok-voice-generators-you-should-try/"><u>New In 2024, Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://win-hot.techidaily.com/notice-board-error-404-unable-to-locate-the-desired-content/"><u>Notice Board Error 404 – Unable to Locate the Desired Content</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-guide-to-updating-your-sataahci-drive-controller-drivers/"><u>Simple Guide to Updating Your SATA/AHCI Drive Controller Drivers</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-overcoming-the-hurdle-of-booting-windows-with-a-cd/"><u>Step-by-Step Guide: Overcoming the Hurdle of Booting Windows with a CD</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rt-of-steady-selfies-and-photos-for-2024/"><u>The Art of Steady Selfies & Photos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-tech-specs-with-toms-insights/"><u>The Ultimate Guide to Tech Specs with Tom's Insights</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/windows-11-admin-account-blocked-and-unlock-methods-recovery-steps/"><u>Windows 11 Admin Account Blocked & Unlock Methods - Recovery Steps</u></a></li>
 </ul></div>
 

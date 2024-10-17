@@ -1,7 +1,7 @@
 ---
 title: Tailored Action Sequences - Personalize Your Task Management
-date: 2024-10-08T01:41:42.321Z
-updated: 2024-10-10T16:42:09.064Z
+date: 2024-10-16T07:58:29.041Z
+updated: 2024-10-17T10:56:15.400Z
 tags:
   - user-guide
 categories:
@@ -247,6 +247,13 @@ Predefined parameters:
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When you create a custom action for Install,Uninstall, Rollback orCommit you must also change the Action parameter to the correspondent method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * InstallType.
 * LogFile - specifies the name of the log file where install progress is recorded. If empty then no log will be created.
 * ReqVersion - specifies the version of the .NET Framework required by the assembly. Advanced Installer automatically determines the required version, but you can overwrite that value.
@@ -286,6 +293,19 @@ This custom action enables setting a folder from a formatted text string.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This custom action can be scheduled only after the "Paths Resolution" action group from "Install Execution Stage".
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Call function from attached native DLL
 
 Using this type of custom action you can call a function from a native DLL. You can find a sample DLL and its project in the [Serial Number Validation DLL](https://tools.techidaily.com/advancedinstaller/products/) article.
@@ -321,13 +341,6 @@ The target DLL must be installed by your package and must exist on disk when thi
 The list with the function's arguments. There can be any number of arguments.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg) You can change the order of arguments using the \[Move Up \] and\[Move Down \] context menu options. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Call Method from .NET Assembly
 
@@ -398,19 +411,6 @@ This custom action is basically a small inline PowerShell script that is ran dur
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Built-in Windows PowerShell is the default tool used to run the script. 
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 At install-time the custom action will select which PowerShell tool to run: the default _powershell.exe_ (Windows PowerShell) or _pwsh.exe_ \- (PowerShell Core) if:
 
 #requires -version 6
@@ -418,13 +418,6 @@ At install-time the custom action will select which PowerShell tool to run: the 
 Copy
 
 (or newer) is found in the script.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Properties
 
@@ -484,6 +477,13 @@ Where YOUR\_PROP is the property and<VALUE> is the value assigned to it.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)"Wait for custom action to finish before proceeding" option from "Execution Options" field is mandatory for script custom actions and cannot be disabled before proceeding"
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)When there exists a GPO (Group Policy Object) restricting the execution of scripts, the digital certificate must be present in the Trusted Publishers in order for the script execution to succeed.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When passed as a function parameter the, AI\_GetMsiProperty statement must be enclosed between a set of parentheses, for instance:  
 myFunction(parameter1, (AI\_GetMsiProperty PROPERTY\_NAME), parameter3)
@@ -638,10 +638,10 @@ This custom action allows you to check if a specific user account exists on the 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Leave the "Domain" field empty when checking a local user account.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Name - this field needs to be set to the target user name. (USER\_NAME property)
@@ -734,13 +734,6 @@ Specify the source folder and the destination folder. You can add multiple pairs
 
 This option ensures that the source files will be copied to the profile of future users.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Predefined custom actions for working with ComboBox controls
 
 **Populate combo box**, **Delete from ComboBox** and **Extract ComboBox Data** are UI-only custom actions that can be used to populate, delete from and extract data from ComboBox controls. See the [ComboBox and ListBox controls](https://tools.techidaily.com/advancedinstaller/products/) tutorial for details and sample projects.
@@ -756,6 +749,13 @@ This option ensures that the source files will be copied to the profile of futur
 ## Update MSI edit controls
 
 This UI-only custom action provides a workaround for a Windows Installer issue. For more information on how to use it please see: [Set Edit control text on button push](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set user interface Property from execute sequence
 
@@ -779,25 +779,11 @@ Copy
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On an earlier Windows versions this predefined custom action will not be able to resolve any Known Folder, so you should condition the installation of all components in that folder, based on the OS version. (e.g. **VersionNT >= 600**)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In order to use this predefined custom action in your project, follow the steps below:
 
 a) Add the predefined **Resolve known folder path** custom action under "Wizard Dialogs Stage -> Searches".
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **Resolve known folder path** predefined custom action can be added under any standard action before **Paths Resolution** action group.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 b) Keeping the SHIFT key pressed, drag-and-drop the custom action in tree control, under "Install Execute Stage -> Searches". This will create a copy of the action in the Install Execution Stage.
 
@@ -810,16 +796,10 @@ e) In the [Files and Folders](https://tools.techidaily.com/advancedinstaller/pro
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Add as many properties as you need in the same way.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start image slideshow
@@ -847,6 +827,13 @@ This custom action allows you to check if a TCP port is free. For more details s
 * UsedPort - the port is used
 * SockError - an error occurred
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get a free TCP port
 
 This custom action allows you to get a free TCP port. For more details see the[Get a free TCP port](https://tools.techidaily.com/advancedinstaller/products/) How-To.
@@ -865,6 +852,19 @@ This predefined custom action allows your package to use the same installation t
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The package which uses this custom action should require Administrator privileges, otherwise, it may not be able to run. Therefore, your package should use a **Per-user only (with administrator rights required)** or **Per-machine only (fails if user is not administrator)** installation type.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This custom action uses the current package's Upgrade Code to find the older versions.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Uninstall previous versions
 
@@ -1150,20 +1150,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1723004547299-fixed-zoom-crashing-on-windows-1110-2024-tips/"><u>[FIXED] Zoom Crashing on Windows 11/10 – 2024 Tips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-nine-key-approaches-for-storing-mov-in-windows-environments/"><u>[Updated] In 2024, Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-picks-of-youtubes-snackable-shorter-videos-free/"><u>2024 Approved Prime Picks of YouTube's Snackable Shorter Videos (FREE)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/broadcast-battleground-pick-your-preferred-livestreaming-champion-vmixwirecast/"><u>Broadcast Battleground Pick Your Preferred Livestreaming Champion (VMix/Wirecast)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-sunbeam-effect-android-screen-brightening/"><u>In 2024, Sunbeam Effect Android Screen Brightening</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/leading-photo-slide-show-software-compatible-with-windows-10-reviews-and-comparisons/"><u>Leading Photo Slide Show Software Compatible with Windows 10 - Reviews & Comparisons</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/navigating-the-permissions-tab-in-your-installer-projects/"><u>Navigating the Permissions Tab in Your Installer Projects</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/simple-methods-for-converting-pdf-files-into-excel-spreadsheets-on-your-android-device/"><u>Simple Methods for Converting PDF Files Into Excel Spreadsheets on Your Android Device</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-effectively-hiding-identities-by-blurring-faces-in-images/"><u>Step-by-Step Guide: Effectively Hiding Identities by Blurring Faces in Images</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-creating-seamless-meeting-transitions-with-slackplusfilmora/"><u>[New] Creating Seamless Meeting Transitions with Slack+Filmora</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-examining-the-new-evolution-of-sonys-s6500-player/"><u>[New] In 2024, Examining the New Evolution of Sony's S6500 Player</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-a-list-14-animation-illustration-cases/"><u>2024 Approved A-List 14 Animation Illustration Cases</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-expanding-your-fb-video-scope-full-hd/"><u>2024 Approved Expanding Your Fb Video Scope Full HD</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/chrome-os-native-screen-recorder/"><u>Chrome OS Native Screen Recorder</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/come-ricostruire-e-ripristinare-i-file-utilizzando-la-funzione-di-snapshot-di-windows-10/"><u>Come Ricostruire E Ripristinare I File Utilizzando La Funzione Di Snapshot Di Windows 10</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/entfernung-von-festplattenpartitionen-unter-windows-10-und-11-funf-methoden-zur-losung-des-problems/"><u>Entfernung Von Festplattenpartitionen Unter Windows 10 Und 11: Fünf Methoden Zur Lösung Des Problems</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-tutorial-archiving-saving-retrieving-and-wechat-conversation-records/"><u>Guide, Tutorial, Archiving, Saving, Retrieving, and WeChat Conversation Records.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-11-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 11 Pro Max and iPad</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-11-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 11 Pro Max SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-the-secret-of-fbs-lately-viewed-videos/"><u>In 2024, Unlocking the Secret of Fb’s Lately Viewed Videos</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/strategies-pour-organiser-les-sauvegardes-et-planification-des-serveurs-via-desktops-cloud-partages/"><u>Stratégies Pour Organiser Les Sauvegardes Et Planification Des Serveurs via Desktops Cloud Partagés</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPhone Screen Malfunction Post iOS 15/16 Upgrade: Troubleshooting Guide"
-date: 2024-10-06T06:06:31.355Z
-updated: 2024-10-10T19:05:12.768Z
+date: 2024-10-13T21:03:26.477Z
+updated: 2024-10-17T04:07:03.611Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de917f68ea7f6f367d6a2483c3.jpg
@@ -50,18 +50,18 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
@@ -75,19 +75,19 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -103,13 +103,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. After the scanning, select the file you need and click **Recover Files...**
 
 **Recover My Computer:**
@@ -118,21 +111,7 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -163,13 +142,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -181,10 +153,10 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Click **Add Disk** to choose the system disk to be backed up.
@@ -192,15 +164,22 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 👉 **Notes:**
 
@@ -225,6 +204,19 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -265,6 +257,13 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
@@ -297,6 +296,13 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -314,24 +320,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-recording-device-quality-analysis-for-2024/"><u>[Updated] Recording Device Quality Analysis for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-video-playback-mkv-edition/"><u>[Updated] Ultimate Video Playback MKV Edition</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-the-power-of-luts-in-adobe-premiere-video-editing/"><u>2024 Approved Unleashing the Power of LUTs in Adobe Premiere Video Editing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/complete-analysis-gopro-hero4-silver-edition/"><u>Complete Analysis GoPro HERO4 Silver Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/designing-dynamic-podcast-engagements/"><u>Designing Dynamic Podcast Engagements</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-nextjs-and-tailwind-developer-guide-masterful-courses-and-effortless-landing-templates-by-creative-tim/"><u>Free NextJS & Tailwind Developer Guide: Masterful Courses and Effortless Landing Templates by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/livewire-material-dashboard-with-laravel-framework-updivision-and-creative-tim-collaboration/"><u>Livewire Material Dashboard with Laravel Framework – UpDivision and Creative Tim Collaboration</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/master-lightrooms-artistic-control-creating-and-merging-hdr-images/"><u>Master Lightroom's Artistic Control Creating & Merging HDR Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-boundaries-of-nlp-and-ml-research/"><u>Navigating the Boundaries of NLP & ML Research</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-bootstrap-4-admin-panel-with-light-theme-pro-version-by-creative-tim/"><u>Professional Bootstrap 4 Admin Panel with Light Theme - Pro Version by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-horizon-ai-framework-integrating-chakra-ui-with-nextjs-by-creative-tim/"><u>Professional Horizon AI Framework: Integrating Chakra UI with NextJS by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-material-ui-dashboard-template-for-laravel-developers-created-by-creative-tim-and-updivision/"><u>Professional Material UI Dashboard Template for Laravel Developers | Created by Creative Tim and Updivision</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-reactaspnet-core-integration-for-ultimate-dashboard-templates-creative-tim-premium-edition/"><u>Professional React/ASP.NET Core Integration for Ultimate Dashboard Templates @ Creative Tim - Premium Edition</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-tall-softui-dashboard-created-by-creative-tim-and-updivision/"><u>Professional Tall SoftUI Dashboard Created by Creative Tim and Updivision</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/revamped-data-tables-with-bootstrap-and-datagrid-inspired-by-creative-tims-design/"><u>Revamped Data Tables with Bootstrap & Datagrid - Inspired by Creative Tim's Design</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/set-financial-goals/"><u>Set Financial Goals</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/unlock-advanced-ui-components-with-vue-material-kit-2-get-your-free-vuejs-and-bootstrap-5-collection-from-creative-tim/"><u>Unlock Advanced UI Components with Vue Material Kit 2: Get Your Free VueJS & Bootstrap 5 Collection From Creative Tim</u></a></li>
-<li><a href="https://article-helps.techidaily.com/visionary-equipment-best-4k-cameras-for-professionals/"><u>Visionary Equipment Best 4K Cameras for Professionals</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-itel-a70-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Itel A70? Here is How | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-tips-and-tricks-elevating-your-images-with-text-editing-for-2024/"><u>[Updated] Tips & Tricks Elevating Your Images with Text Editing for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pcmobile-tips-for-partial-image-gaussian-blur/"><u>2024 Approved PC/Mobile Tips for Partial Image Gaussian Blur</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/iphone-idevice/"><u>如何克服 iPhone 回復階段卡死？ - iDevice教育指南</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728485889305-aomei-backupper/"><u>AOMEI Backupper還原：簡易指南 - 重建損壞的分割區與單元</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 14 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Hot 30 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-bidirectional-file-sharing-four-strategies-with-google-drive-sync/"><u>Mastering Bidirectional File Sharing: Four Strategies with Google Drive Sync</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-how-to-successfully-duplicating-your-bootable-sd-card-in-windows-using-5-simple-steps/"><u>Quick How-To: Successfully Duplicating Your Bootable SD Card in WINDOWS (Using 5 Simple Steps)</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/resolving-startup-problems-with-windows-11-on-optical-media-top-4-methods/"><u>Resolving Startup Problems with Windows 11 on Optical Media - Top 4 Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-8-strategies-to-finish-all-games-in-your-library/"><u>Top 8 Strategies to Finish All Games in Your Library</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Asus ROG Phone 8? | Dr.fone</u></a></li>
 </ul></div>
 

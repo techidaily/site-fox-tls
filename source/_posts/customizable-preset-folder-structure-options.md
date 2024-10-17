@@ -1,7 +1,7 @@
 ---
 title: Customizable Preset Folder Structure Options
-date: 2024-10-04T04:31:32.290Z
-updated: 2024-10-11T03:57:06.873Z
+date: 2024-10-11T17:38:34.256Z
+updated: 2024-10-16T16:23:34.220Z
 tags:
   - user-guide
 categories:
@@ -116,10 +116,10 @@ Table of Contents
 This interface is created as an access point, using getters, for all the predefined folders. It is meant to replicate Advanced Installer Files and Folders graphical interface.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -127,16 +127,10 @@ This interface is created as an access point, using getters, for all the predefi
 IPredefinedFolders : IDispatch
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -208,17 +202,23 @@ IPredefinedFolders : IDispatch
 ![Ipredefinedfolders](https://cdn.advancedinstaller.com/img/powershell-automation/ipredefinedfolders.png "Ipredefinedfolders")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -262,19 +262,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-picks-for-best-timelapse-tools-for-2024/"><u>[New] Expert Picks for Best Timelapse Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-best-time-to-post-on-ig-for-maximum-reach/"><u>[New] In 2024, The Best Time to Post on IG for Maximum Reach</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-dual-display-capture/"><u>[Updated] 2024 Approved Dual Display Capture</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-easy-free-uncovering-the-best-10-image-converters/"><u>[Updated] Fast, Easy, FREE Uncovering the Best 10 Image Converters</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[Updated] How to Become a YouTube Partner - You Need 10,000 Views Now!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effortless-guide-how-to-get-mp3-files-onto-your-android-phone/"><u>Effortless Guide: How to Get MP3 Files Onto Your Android Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professionals-choice-top-10-afx-templates-for-free/"><u>In 2024, Professionals' Choice Top 10 AFX Templates for FREE</u></a></li>
-<li><a href="https://techtrends.techidaily.com/sharing-playlists-how-many-people-can-use-spotify-together/"><u>Sharing Playlists: How Many People Can Use Spotify Together?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-transforming-avi-videos-into-optimized-3gp-streamlines-storage-and-playback/"><u>Step-by-Step Guide: Transforming AVI Videos Into Optimized 3GP Streamlines Storage and Playback</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-sharing-horizontals-in-igtvs-vertical-world/"><u>The Art of Sharing Horizontals in IGTV's Vertical World</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-7-high-earning-remote-job-tools-maximize-your-profits-working-from-anywhere/"><u>Top 7 High-Earning Remote Job Tools: Maximize Your Profits Working From Anywhere</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-free-online-tools-for-screen-recording/"><u>Top Free Online Tools for Screen Recording</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-programs-for-creating-engaging-training-video-content/"><u>Top Programs for Creating Engaging Training Video Content</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-multi-region-dvd-players-sony-vs-samsung-vs-philips-and-beyond/"><u>Ultimate Guide to Multi-Region DVD Players: Sony vs Samsung vs Philips and Beyond!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-thriving-on-youtube-universal-studio-techniques-explained/"><u>2024 Approved Thriving on YouTube Universal Studio Techniques Explained</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/beheben-sie-den-nicht-erkannten-tpm-fehler-in-windows-11-und-10/"><u>Beheben Sie Den Nicht Erkannten TPM-Fehler in Windows 11 Und 10</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comment-debuter-avec-windows-11-guide-facile-pour-le-telechargement-et-linstallation/"><u>Comment Débuter Avec Windows 11 : Guide Facile Pour Le Téléchargement Et L'Installation</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/como-clonar-correctamente-tu-gran-almacenamiento-hdd-de-1tb-hacia-un-impulso-ssd-rapido-y-compacto-de-groserias-seguimiento-de-los-cuatro-fundamentales-paso91/"><u>Cómo Clonar Correctamente Tu Gran Almacenamiento HDD De 1TB Hacia Un Impulso SSD Rápido Y Compacto De Groserías; Seguimiento De Los Cuatro Fundamentales Pasos Para El Arranque Seguro</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-linux-vm-preservation-and-retrieval-techniques-a-beginners-tutorial/"><u>Effortless Linux VM Preservation & Retrieval Techniques | A Beginner's Tutorial</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/elevate-your-online-interactions-master-microsoft-teams-snap/"><u>Elevate Your Online Interactions Master Microsoft Teams Snap</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-lava-blaze-2-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Lava Blaze 2 Phone? Unlock It Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-pro-vs-macbook-air-showdown-which-fits-your-needs-better/"><u>IPad Pro Vs. MacBook Air Showdown: Which Fits Your Needs Better?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/techniques-de-restauration-pour-les-fichiers-supprimes-ou-formates-a-partir-dune-memoire-sd-defectueuse/"><u>Techniques De Restauration Pour Les Fichiers Supprimés Ou Formatés À Partir D'une Mémoire SD Défectueuse</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-social-narrative-this-years-twittale-highlights-for-2024/"><u>The Social Narrative This Year's TwitTale Highlights for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-5-methoden-zur-behebung-von-fehlern-bei-der-installation-von-windows-11-losung-fur-den-fehlercode-0x80eb/"><u>Top 5 Methoden Zur Behebung Von Fehlern Bei Der Installation Von Windows 11 - Lösung Für Den Fehlercode 0X80eb</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/tutorial-per-risolvere-lerrore-del-download-bloccato-allo-0-o-al-99-in-windows-10/"><u>Tutorial per Risolvere L'errore Del Download Bloccato Allo 0% O Al 99% in Windows 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-higher-output-with-the-programmer-approach-learn-from-dev-teams-zdnet/"><u>Unlocking Higher Output with the Programmer Approach - Learn From Dev Teams | ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-video-metadata-editing-on-mac-top-8-picks-for-2024/"><u>Updated The Ultimate Guide to Video Metadata Editing on Mac (Top 8 Picks) for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/usb-esxi/"><u>USB-ベースのESXi インスタンスにブート可能なディスクを複製する手順</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/what-to-do-when-your-android-phone-cant-get-new-updates-anymore/"><u>What to Do When Your Android Phone Can't Get New Updates Anymore</u></a></li>
 </ul></div>
 
