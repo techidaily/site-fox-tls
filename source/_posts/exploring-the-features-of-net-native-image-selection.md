@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of .NET Native Image Selection
-date: 2024-10-16T07:30:02.736Z
-updated: 2024-10-17T02:03:29.005Z
+date: 2024-10-26T18:52:47.682Z
+updated: 2024-10-28T16:37:15.183Z
 tags:
   - user-guide
 categories:
@@ -84,52 +84,32 @@ Table of Contents
 ## Scenarios
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Debug
 
 Use this option to generate native images that can be used under a debugger.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Profile
 
 Use this option to generate native images that can be used under a profiler.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### No Dependencies
 
 Use this option to generate the minimum number of native images required.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Installation
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Platform
 
@@ -138,13 +118,6 @@ Use this option to generate the minimum number of native images required.
 * 64-bit native image - Generate native image only for the .NET Framework's 64-bit version.
 * 32-bit and 64-bit native images - Generate native image for both the 32-bit and the 64-bit .NET Framework versions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Priority
 
 * Wait for this native image generation to continue - image generation occurs synchronously during the installation process. This is the highest priority level.
@@ -152,11 +125,25 @@ Use this option to generate the minimum number of native images required.
 * Asynchronous generation - image generation begins after all images with immediate asynchronous priority have been generated.
 * Generate when the computer is idle - image generation occurs when the machine is idle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Dependencies Location
 
 ### Unspecified
 
 Select this option if you don't have any dependencies or you want to let the generator use its default dependencies search mechanism.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the specified executable assembly's configuration
 
@@ -165,6 +152,13 @@ Since the generator needs to make the same decisions as the loader when binding 
 ### Use specified folder as the application base
 
 Folder used as the application base when locating dependencies.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Generator Version
 
@@ -210,19 +204,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-master-list-of-best-mp4-players/"><u>[New] In 2024, Master List of Best MP4 Players</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-safely-download-facebook-media-on-windowsmac/"><u>[New] Safely Download Facebook Media on Windows/Mac</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-through-collective-media-on-messenger/"><u>[Updated] 2024 Approved Navigating Through Collective Media on Messenger</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-toolwiz-unpacked-expert-review-of-a-photography-powerhouse/"><u>2024 Approved Toolwiz Unpacked Expert Review of a Photography Powerhouse</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-windows-assistant-for-aomei-backupper-perfetto-guida/"><u>Download Windows Assistant for AOMEI Backupper: Perfetto Guida!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/embedding-system-status-updates-in-explorer-tooltips/"><u>Embedding System Status Updates in Explorer Tooltips</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/fragen-beantworten-wie-erfahren-sie-wenn-onedrive-dateien-unwiderruflich-geloscht-wurden/"><u>Fragen Beantworten: Wie Erfahren Sie, Wenn OneDrive-Dateien Unwiderruflich Gelöscht Wurden?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-v29-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo V29 for Free? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/metamorphosez-votre-macbook-air-de-2017-en-remplacant-le-disque-dur-astuces-et-conseils-essentiels/"><u>Métamorphosez Votre MacBook Air De 2017 en Remplaçant Le Disque Dur : Astuces Et Conseils Essentiels</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/olden-powerpoint-versions-wiederbeleben-methods-und-tipps-mit-myrecover/"><u>Olden PowerPoint Versions Wiederbeleben - Methods Und Tipps Mit MyRecover</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-best-10-online-subtitle-editors-for-2024/"><u>The Best 10 Online Subtitle Editors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-quantum-hdr/"><u>[Updated] The Ultimate Guide to Quantum HDR</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-como-hacer-visibles-tus-imagenes-de-sistema-multicomputador-mediante-la-red-una-guia-paso-a-paso/"><u>1. Cómo Hacer Visibles Tus Imágenes De Sistema Multicomputador Mediante La Red: Una Guía Paso a Paso</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-fast-and-easy-winx-dvd-ripper-platinum-convert-dvds-to-hd-mp4-in-just-5-minutes/"><u>1. Fast & Easy WinX DVD Ripper Platinum: Convert DVDs to HD MP4 in Just 5 Minutes!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/complete-tutorial-retrieving-deleted-items-from-your-usbexternal-storage-for-pcs-and-mac-computers/"><u>Complete Tutorial: Retrieving Deleted Items From Your USB/External Storage for PCs and Mac Computers</u></a></li>
+<li><a href="https://win-webster.techidaily.com/creative-tims-premium-bootstrap-4-admin-template-angular-material-dashboard-version-14/"><u>Creative Tim's Premium Bootstrap 4 Admin Template - Angular Material Dashboard, Version 14</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/email-safety-with-thunderbird-on-windows-10-a-guide-to-reliable-backups/"><u>Email Safety with Thunderbird on Windows 10: A Guide to Reliable Backups</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-logitech-bluetooth-mouse-drivers-installed-on-a-pc-or-laptop/"><u>Get Your Logitech Bluetooth Mouse Drivers Installed on a PC or Laptop</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a23-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A23 5GFRP Lock</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-convenient-download-for-the-ultimate-ft232r-usb-uart-drivers/"><u>Quick and Convenient Download for the Ultimate FT232r USB UART Drivers</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/safe-recovery-techniques-from-faulty-dynamic-disks-a-comprehensive-step-by-step-manual/"><u>Safe Recovery Techniques From Faulty Dynamic Disks: A Comprehensive Step-by-Step Manual</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/solving-your-operating-system-failure-problem-a-comprehensive-guide/"><u>Solving Your 'Operating System Failure' Problem: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-on-creating-a-highly-available-virtual-server-cluster-with-hyper-v/"><u>Step-by-Step Tutorial on Creating a Highly Available Virtual Server Cluster with Hyper-V</u></a></li>
 <li><a href="https://fox-tls.techidaily.com/top-3-free-image-editing-software-for-windows-10-create-amazing-disc-graphics/"><u>Top 3 Free Image Editing Software for Windows 10: Create Amazing Disc Graphics</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/troubleshooting-steps-to-fix-non-responsive-mouse-pointer-on-your-hp-computer/"><u>Troubleshooting Steps To Fix Non-Responsive Mouse Pointer On Your HP Computer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-the-power-of-gopro-hero5-sessions-for-2024/"><u>Unveiling the Power of GoPro Hero5 Sessions for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/tutorial-simple-construire-et-recuperer-des-sauvegardes-de-votre-syswin-10-avec-aomei-backupper/"><u>Tutorial Simple: Construire Et Recuperer Des Sauvegardes De Votre SysWin 10 Avec AOMEI Backupper</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-of-moto-g-with-stylus-remarkable-operational-speed-and-reasonable-energy-storage/"><u>Unveiling the Potential of Moto G with Stylus: Remarkable Operational Speed & Reasonable Energy Storage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wav-to-flac-conversion-ultimate-guide-high-quality-audio-preservation/"><u>WAV to FLAC Conversion Ultimate Guide – High-Quality Audio Preservation</u></a></li>
 </ul></div>
 
