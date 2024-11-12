@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Displaying File Sizes in Folders
-date: 2024-10-28T17:03:33.272Z
-updated: 2024-11-03T18:10:22.404Z
+date: 2024-11-05T17:57:03.366Z
+updated: 2024-11-12T17:04:29.238Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d01a8b699d519ecb10291bd82.jpg
@@ -43,6 +43,19 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
@@ -50,16 +63,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -77,6 +84,13 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 **Interferenze di Terze Parti**
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
@@ -118,6 +132,13 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -137,10 +158,10 @@ Passo 4\. Attendi il Completamento:
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
@@ -158,10 +179,10 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -224,13 +245,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -238,13 +252,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -267,13 +274,6 @@ Aiutaci a migliorare questo articolo
 Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
 
@@ -300,17 +300,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>[Updated] In 2024, Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-download-lionel-messis-most-spectacular-moves-and-scoring-highlights-hd-quality-videos-at-no-cost-mp43gp-formats/"><u>1. Download Lionel Messi's Most Spectacular Moves & Scoring Highlights: HD Quality Videos at No Cost - MP4/3GP Formats</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1-how-to-fix-vmware-error-when-attempting-to-change-vm-settings/"><u>1. How to Fix VMware Error When Attempting to Change VM Settings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-revolutionary-alternative-tools-for-fbx-file-capture/"><u>2024 Approved Revolutionary Alternative Tools for FBX File Capture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windowsandmac102024/"><u>最新動画保存ツール：無料Windows&Macアプリランキングトップ10！2024年用</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guia-expertos-como-recuperar-archivos-apresuradamente-de-unidad-estatal-formateada-informe-actualizado/"><u>Guía Expertos: Cómo Recuperar Archivos Apresuradamente De Unidad Estatal Formateada (Informe Actualizado)</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-securely-backup-your-iphone-with-cracked-or-unresponsive-touchscreen-the-best-two-techniques-explored/"><u>How to Securely Backup Your iPhone with Cracked or Unresponsive Touchscreen: The Best Two Techniques Explored</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-13c-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal/"><u>Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/palette-perfection-in-11-step-by-step-lessons/"><u>Palette Perfection in 11 Step-by-Step Lessons</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/techniques-rapides-pour-transferer-et-enregistrer-en-batch-des-fichiers-excel-sur-un-site-web-distinct/"><u>Techniques Rapides Pour Transférer Et Enregistrer en Batch Des Fichiers Excel Sur Un Site Web Distinct</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/windows-11-compatible-top-bitlocker-recovery-tools/"><u>Windows 11-Compatible Top BitLocker Recovery Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-collaborative-listening-made-simple-on-youtube/"><u>[New] 2024 Approved Collaborative Listening Made Simple on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-quick-guide-downloading-and-prepping-vrecord/"><u>[New] 2024 Approved Quick Guide Downloading & Prepping VRecord</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-necessary-details-for-twitter-video-submissions-aspect-ratio-for-2024/"><u>[New] Necessary Details for Twitter Video Submissions (Aspect Ratio) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-text-manipulation-techniques/"><u>[New] Superior Text Manipulation Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-visual-vanguard-leading-webcams-for-professional-podcasts/"><u>[Updated] In 2024, Visual Vanguard Leading Webcams for Professional Podcasts</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effizientster-ansatz-fur-die-kopie-einer-dual-boot-festplatte-auf-eine-ssd/"><u>Effizientster Ansatz Für Die Kopie Einer Dual-Boot Festplatte Auf Eine SSD</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-web-traffic-using-cookiebot-technology/"><u>Enhanced Web Traffic Using Cookiebot Technology</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/expert-tips-on-how-to-restore-accidentally-erased-pictures-on-lenovo-pcs/"><u>Expert Tips on How to Restore Accidentally Erased Pictures on Lenovo PCs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-premium-opening-scenes-top-16-youtube-intros-for-popularity/"><u>In 2024, Premium Opening Scenes Top 16 YouTube Intros for Popularity</u></a></li>
+<li><a href="https://win-updates.techidaily.com/quick-pdf-dissection-tool-securely-extract-individual-pages-from-your-pdf-file-online/"><u>Quick PDF Dissection Tool - Securely Extract Individual Pages From Your PDF File Online</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/secure-and-complete-guide-to-erasing-data-from-an-m2-ssd-on-windows-1011/"><u>Secure and Complete Guide to Erasing Data From an M.2 SSD on Windows 10/11</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-tricks-to-retrieve-accidentally-deleted-drives-in-windows-10-without-hassle/"><u>Simple Tricks to Retrieve Accidentally Deleted Drives in Windows 10 Without Hassle</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/steps-to-conduct-a-system-restore-on-windows-11-without-login-credentials/"><u>Steps to Conduct a System Restore on Windows 11 Without Login Credentials</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/tutorial-come-ottimizza-e-modifica-i-tuoi-backup-online/"><u>Tutorial: Come Ottimizza E Modifica I Tuoi Backup Online</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-troubleshooting-tips-for-restoring-microsoft-outlook-functionality-on-latest-windows-versions/"><u>Ultimate Troubleshooting Tips for Restoring Microsoft Outlook Functionality on Latest Windows Versions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-the-role-of-expertise-and-protection-in-advancing-cloud-native-platforms-according-to-zdnet/"><u>Unleashing Potential: The Role of Expertise and Protection in Advancing Cloud-Native Platforms, According to ZDNet</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/windows-server-sysimage/"><u>Windows Server SysImage 異なるコンピュータへの復元方法</u></a></li>
 </ul></div>
 
