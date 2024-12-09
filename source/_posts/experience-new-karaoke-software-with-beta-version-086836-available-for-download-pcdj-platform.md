@@ -1,7 +1,7 @@
 ---
 title: Experience New Karaoke Software with Beta Version 0.8.6836 Available for Download | PCDJ Platform
-date: 2024-11-27T20:52:50.075Z
-updated: 2024-11-30T16:04:57.041Z
+date: 2024-12-05T01:17:28.697Z
+updated: 2024-12-08T19:16:36.625Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We invite existing Karaoki users to update to version 0.8.6836 straight away. Ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.6836
@@ -52,7 +52,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about the latest iteration of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,19 +74,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/KARAOKI-betadownload.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-elite-videochats-enabling-online-meeting-excellence/"><u>[New] In 2024, Elite Videochats Enabling Online Meeting Excellence</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-budgetclouds-vault-spaceful-large-data-sanctuary/"><u>[Updated] BudgetCloud's Vault Spaceful Large Data Sanctuary</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/acceso-a-la-politica-de-privacidad-detallada-de-aomei-garantia-para-el-uso-seguro-de-nuestros-productos/"><u>Acceso a La Política De Privacidad Detallada De AOMEI: Garantía Para El Uso Seguro De Nuestros Productos</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1728504370239-aomei-backupper/"><u>AOMEI Backupper可以輔助的每一種作業系統探索方法</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/boost-computer-speed-with-a-bootable-sata-ssd-upgrade-from-ide-in-windows/"><u>Boost Computer Speed with a Bootable SATA SSD Upgrade From IDE in Windows</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/como-migrar-tu-sistema-operativo-windows/"><u>Cómo Migrar Tu Sistema Operativo Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-why-electric-cars-excel-beyond-their-gasoline-competitors/"><u>Discover Why Electric Cars Excel Beyond Their Gasoline Competitors</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effortless-file-management-master-these-8-strategies-for-swiftly-moving-data-to-google-drive/"><u>Effortless File Management: Master These 8 Strategies for Swiftly Moving Data to Google Drive</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-11-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus 11 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-m54-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy M54 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-gaming-install-funimate-via-apk-method/"><u>In 2024, Revolutionize Gaming - Install Funimate via APK Method</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/quick-steps-for-saving-your-macs-desktop/"><u>Quick Steps for Saving Your Mac's Desktop</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-top-5-best-tools-to-convert-text-to-audio-online-for-free/"><u>Updated In 2024, Top 5 Best Tools to Convert Text to Audio Online for Free</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1728466774228-windows-10/"><u>Windows 10 硬碟分區操作失效 - 修復指南</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-getting-to-grips-with-snapseed-for-images/"><u>[New] Getting to Grips With Snapseed for Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-conveniently-altering-resolution-on-ios-devices-for-2024/"><u>[Updated] Conveniently Altering Resolution on iOS Devices for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-powerful-storytelling-through-screencasts/"><u>[Updated] Unlocking Powerful Storytelling Through Screencasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-tech-and-treatment-gpt-for-effective-cognitive-strategies/"><u>Bridging Tech and Treatment: GPT for Effective Cognitive Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/guardians-against-gimmicks-recognizing-counterfeit-profiles/"><u>Guardians Against Gimmicks: Recognizing Counterfeit Profiles</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-fix-memory-cannot-write-error-on-your-pc-expert-advice-from-yl-computing/"><u>How to Fix 'Memory Cannot Write' Error on Your PC: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/key-investment-pitfalls-to-avoid-with-digital-assets-guidance-by-yl-software-specialists/"><u>Key Investment Pitfalls to Avoid with Digital Assets: Guidance by YL Software Specialists</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/latest-release-full-width-waveform-skins-for-pcdjs-dex-3-get-your-copy-now/"><u>Latest Release: Full-Width Waveform Skins for PCDJ's DEX 3, Get Your Copy Now!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209612308-9781547570041-meditacion-aprender-a-meditar-tecnicas-de-relajacion-y-meditacion-zen/"><u>Meditación: Aprender A Meditar Técnicas De Relajación Y Meditación Zen | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-stream-authorization-in-kodi-safety-and-management-tips/"><u>Navigating Stream Authorization in Kodi - Safety & Management Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/realme-gt-neo-5-se-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Realme GT Neo 5 SE ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-social-networks-and-communities-for-professional-djing-join-the-beat/"><u>Top Social Networks & Communities for Professional Djing - Join the Beat!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/unveiling-sonic-gems-weekly-explore-a-curated-collection-of-professional-karaokes-finest-now-with-an-extra-batch-of-melodies-for-your-friday-fix/"><u>Unveiling Sonic Gems Weekly: Explore a Curated Collection of Professional Karaoke's Finest, Now with an Extra Batch of Melodies for Your Friday Fix!</u></a></li>
 </ul></div>
 

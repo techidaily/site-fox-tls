@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!
-date: 2024-11-25T18:36:12.802Z
-updated: 2024-11-30T17:46:49.527Z
+date: 2024-12-02T19:07:13.294Z
+updated: 2024-12-08T22:52:42.789Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,20 +73,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-evolution-of-drone-remote-control-systems-syma-x8c/"><u>[New] 2024 Approved The Evolution of Drone Remote Control Systems – Syma X8C</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-through-the-fins-pro-techniques-for-taking-superior-gopro-videos-underwater/"><u>[New] 2024 Approved Through the Fins Pro Techniques for Taking Superior GoPro Videos Underwater</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-use-android-phones-in-watching-vr-or-360-videos-2023-update/"><u>[New] How to Use Android Phones in Watching VR or 360 Videos -2023 Update</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/all-in-one-jre-suite-your-essential-compilation-of-java-development-resources/"><u>All-in-One JRE Suite: Your Essential Compilation of Java Development Resources</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-google-pixel-8-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Google Pixel 8 Pro Phone Screen?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-curated-selection-5-superior-android-ps2-game-emulators/"><u>In 2024, Curated Selection 5 Superior Android PS2 Game Emulators</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-macs-choice-of-capture-an-in-depth-look-at-premium-software/"><u>In 2024, Mac's Choice of Capture An In-Depth Look at Premium Software</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/leading-image-editing-programs-top-tools-for-windows-and-macos-users/"><u>Leading Image Editing Programs: Top Tools for Windows & macOS Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/optimizing-the-installation-process-with-advanced-pre-install-uis/"><u>Optimizing the Installation Process with Advanced Pre-Install UIs</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/reliable-teamspeak-strategies-for-superior-communication/"><u>Reliable TeamSpeak Strategies for Superior Communication</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/simple-steps-download-and-keep-your-favorite-reddit-videos/"><u>Simple Steps: Download and Keep Your Favorite Reddit Videos</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/troubleshooting-a-non-functioning-video-detector-during-download-process/"><u>Troubleshooting a Non-Functioning Video Detector During Download Process</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/understanding-mime-type-classification-a-key-element-in-web-communication/"><u>Understanding MIME Type Classification: A Key Element in Web Communication</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1726223402662-mp4avi-movavi/"><u>오픈 원스터널에서 제공되는 무각성 주문 MP4/AVI 전환 - Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-techniques-to-boost-video-quality-on-web-browser-chrome/"><u>[Updated] Techniques to Boost Video Quality on Web Browser Chrome</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-liftoff-to-high-end-imagery-on-a-budget/"><u>2024 Approved Liftoff to High-End Imagery on a Budget</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-keep-windows-open-avoid-lockout-feature/"><u>How To Keep Windows Open: Avoid Lockout Feature</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/is-regular-cleaning-of-your-computers-ram-necessary-insights-from-yl-computing/"><u>Is Regular Cleaning of Your Computer's RAM Necessary? Insights From YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/maximizing-instagram-video-lengths-a-step-by-step-guide-for-2024/"><u>Maximizing Instagram Video Lengths A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/secure-your-account-easy-password-reset-instructions-using-yl-computings-control-panel/"><u>Secure Your Account: Easy Password Reset Instructions Using YL Computing's Control Panel</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-successfully-setting-up-your-computer-with-a-fresh-graphics-card-yl-technologies/"><u>Step-by-Step Guide: Successfully Setting Up Your Computer with a Fresh Graphics Card - YL Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-coding-predicting-how-artificial-intelligence-may-transform-developer-workflows/"><u>The Future of Coding: Predicting How Artificial Intelligence May Transform Developer Workflows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-overcooked-2-recipe-for-a-hilarious-adventure/"><u>The Ultimate Guide to Overcooked! 2 – Recipe for a Hilarious Adventure</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-and-repairing-malfunctioning-usb-connections-in-windows-expert-advice-from-yl-software/"><u>Troubleshooting and Repairing Malfunctioning USB Connections in Windows - Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-your-graphics-cards-unexpected-failure-with-guidance-from-yl-software/"><u>Troubleshooting Your Graphics Card's Unexpected Failure with Guidance From YL Software</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-root-causes-of-electronic-devices-failing-expertise-by-yl-software-team/"><u>Understanding Root Causes of Electronic Devices Failing: Expertise by YL Software Team</u></a></li>
 </ul></div>
 
