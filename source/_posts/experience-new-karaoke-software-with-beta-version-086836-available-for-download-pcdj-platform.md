@@ -1,7 +1,7 @@
 ---
 title: Experience New Karaoke Software with Beta Version 0.8.6836 Available for Download | PCDJ Platform
-date: 2024-12-05T01:17:28.697Z
-updated: 2024-12-08T19:16:36.625Z
+date: 2024-12-14T04:47:27.050Z
+updated: 2024-12-14T16:29:54.631Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We invite existing Karaoki users to update to version 0.8.6836 straight away. Ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.6836
@@ -52,7 +52,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about the latest iteration of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,18 +74,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/KARAOKI-betadownload.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-getting-to-grips-with-snapseed-for-images/"><u>[New] Getting to Grips With Snapseed for Images</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-conveniently-altering-resolution-on-ios-devices-for-2024/"><u>[Updated] Conveniently Altering Resolution on iOS Devices for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-powerful-storytelling-through-screencasts/"><u>[Updated] Unlocking Powerful Storytelling Through Screencasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bridging-tech-and-treatment-gpt-for-effective-cognitive-strategies/"><u>Bridging Tech and Treatment: GPT for Effective Cognitive Strategies</u></a></li>
-<li><a href="https://facebook.techidaily.com/guardians-against-gimmicks-recognizing-counterfeit-profiles/"><u>Guardians Against Gimmicks: Recognizing Counterfeit Profiles</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-fix-memory-cannot-write-error-on-your-pc-expert-advice-from-yl-computing/"><u>How to Fix 'Memory Cannot Write' Error on Your PC: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/key-investment-pitfalls-to-avoid-with-digital-assets-guidance-by-yl-software-specialists/"><u>Key Investment Pitfalls to Avoid with Digital Assets: Guidance by YL Software Specialists</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/latest-release-full-width-waveform-skins-for-pcdjs-dex-3-get-your-copy-now/"><u>Latest Release: Full-Width Waveform Skins for PCDJ's DEX 3, Get Your Copy Now!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209612308-9781547570041-meditacion-aprender-a-meditar-tecnicas-de-relajacion-y-meditacion-zen/"><u>Meditación: Aprender A Meditar Técnicas De Relajación Y Meditación Zen | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-stream-authorization-in-kodi-safety-and-management-tips/"><u>Navigating Stream Authorization in Kodi - Safety & Management Tips</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/realme-gt-neo-5-se-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Realme GT Neo 5 SE ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-social-networks-and-communities-for-professional-djing-join-the-beat/"><u>Top Social Networks & Communities for Professional Djing - Join the Beat!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/unveiling-sonic-gems-weekly-explore-a-curated-collection-of-professional-karaokes-finest-now-with-an-extra-batch-of-melodies-for-your-friday-fix/"><u>Unveiling Sonic Gems Weekly: Explore a Curated Collection of Professional Karaoke's Finest, Now with an Extra Batch of Melodies for Your Friday Fix!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-subscription-made-simple-building-a-user-friendly-button-for-channels/"><u>[New] 2024 Approved Subscription Made Simple Building a User-Friendly Button for Channels</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/diagnosing-underpowered-cpu-issues-tips-and-tricks-from-yl-computing-for-maximum-efficiency/"><u>Diagnosing Underpowered CPU Issues: Tips & Tricks From YL Computing for Maximum Efficiency</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/download-the-latest-lyrx-karaoke-software-v19-with-enhanced-sampling-decks-perfect-for-pcdj-users/"><u>Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/eye-catching-podcast-logos-step-by-step-creation-for-2024/"><u>Eye-Catching Podcast Logos Step-by-Step Creation for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-x-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone X Factory Reset? | Stellar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-11-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 11 Pro</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/identifying-overheating-problems-expert-tips-from-yl-computings-yl-software-solutions/"><u>Identifying Overheating Problems: Expert Tips From YL Computing's YL Software Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-x-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone X</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-connectivity-download-bluetooth-adapter-support-software-for-your-windows-pc-windows-11-7-8-with-zexmte-compatibility/"><u>Seamless Connectivity: Download Bluetooth Adapter Support Software for Your Windows PC (Windows 11, 7, 8 with Zexmte Compatibility)</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/soothing-screen-savers-ultimate-collection-of-serene-desktop-wallpapers-hd-backgrounds-and-nature-photos-by-yl-computing/"><u>Soothing Screen Savers: Ultimate Collection of Serene Desktop Wallpapers, HD Backgrounds & Nature Photos by YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-adjusting-screen-resolution-in-windows-10-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Screen Resolution in Windows 10 - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-removing-windows-10-memory-dump-files-with-yl-computings-solutions/"><u>Step-by-Step Guide: Removing Windows 10 Memory Dump Files with YL Computing's Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-overcoming-error-code-80-on-your-steam-platform/"><u>Step-by-Step Troubleshooting: Overcoming Error Code 80 on Your Steam Platform</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-strange-sounds-from-your-scanner-understanding-the-issue-during-power-up/"><u>Troubleshooting Strange Sounds From Your Scanner: Understanding the Issue During Power-Up</u></a></li>
 </ul></div>
 
