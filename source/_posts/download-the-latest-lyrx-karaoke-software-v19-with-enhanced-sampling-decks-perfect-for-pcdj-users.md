@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!
-date: 2024-12-12T04:19:29.222Z
-updated: 2024-12-15T00:01:20.871Z
+date: 2024-12-16T19:44:44.044Z
+updated: 2024-12-24T02:40:52.849Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,21 +73,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-cheap-and-effective-action-cam-picks-top-6-list/"><u>[New] Cheap and Effective ACTION Cam Picks – Top 6 List</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-clear-sound-conference-experience-via-skype/"><u>[New] Clear Sound Conference Experience via Skype</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-video-editing-software-comparison-obs-vs-fraps/"><u>[Updated] 2024 Approved Video Editing Software Comparison OBS vs Fraps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-comprehensive-guide-to-optimizing-facetime-recording-quality/"><u>[Updated] Comprehensive Guide to Optimizing FaceTime Recording Quality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/are-feedbacks-on-items-monetized-in-videos-in-2024/"><u>Are Feedbacks on Items Monetized in Videos, In 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/boost-your-pcs-memory-efficiency-tips-and-tricks-powered-by-yl-computing/"><u>Boost Your PC's Memory Efficiency: Tips and Tricks - Powered by YL Computing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-guide-to-adjusting-audio-preferences-a-complete-walkthrough-with-yl-computing/"><u>Easy Guide to Adjusting Audio Preferences: A Complete Walkthrough with YL Computing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-the-relationship-between-blockchain-and-crypto-insights-from-yl-computings-perspective/"><u>Exploring the Relationship Between Blockchain and Crypto: Insights From YL Computing's Perspective</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-windows-defenders-capabilities-how-it-recognizes-various-cybersecurity-risks-with-guidance-from-yl-software/"><u>Exploring Windows Defender's Capabilities: How It Recognizes Various Cybersecurity Risks with Guidance From YL Software</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/high-resolution-central-park-landscapes-stunning-hd-walls-and-desktop-backgrounds-by-yl-computing/"><u>High-Resolution Central Park Landscapes: Stunning HD Walls and Desktop Backgrounds by YL Computing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-troubleshoot-android-facebook-videos-not-playing/"><u>In 2024, Troubleshoot Android Facebook Videos Not Playing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/solving-your-print-and-scan-dilemma-why-is-your-all-in-one-device-not-scanning-insights-from-yl-computing/"><u>Solving Your Print & Scan Dilemma: Why Is Your All-in-One Device Not Scanning? Insights From YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-influential-force-of-endorsements-for-2024/"><u>The Influential Force of Endorsements for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-trio-of-social-networks-facebook-twitter-instagram-and-youtube-unveiled/"><u>The Quintessential Trio of Social Networks - Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-reasons-behind-gpu-malfunctions-insights-by-yl-computings-experts/"><u>Top Reasons Behind GPU Malfunctions: Insights by YL Computing's Experts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-from-script-to-screen-10-notable-films-cut-with-final-cut-pro-for-2024/"><u>Updated From Script to Screen 10 Notable Films Cut with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-key-techniques-to-optimize-igtv-video-dimensions-for-2024/"><u>[New] Key Techniques to Optimize IGTV Video Dimensions for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-infusing-beats-into-ig-story-posts-without-limits/"><u>[Updated] In 2024, Infusing Beats Into IG Story Posts Without Limits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-handbook-for-watching-facebook-livestreams/"><u>[Updated] In 2024, The Ultimate Handbook for Watching Facebook Livestreams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-your-workflow-nvidia-screener-for-2024/"><u>[Updated] Optimizing Your Workflow NVIDIA Screener for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/dealing-with-scanner-overload-alerts-tips-and-solutions-by-yl-software-experts/"><u>Dealing with Scanner Overload Alerts? Tips & Solutions by YL Software Experts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-14-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 14 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/easy-guide-to-handling-windows-user-profiles-via-control-panel-tips-from-yl-software/"><u>Easy Guide to Handling Windows User Profiles via Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-instructions-for-keeping-your-ati-radeon-gpu-updated-in-the-world-of-windows-operating-system/"><u>Easy Instructions for Keeping Your ATI Radeon GPU Updated in the World of Windows Operating System</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-inside-exe-files-a-step-by-step-guide-for-windows-users-insights-from-yl-computing/"><u>Exploring Inside EXE Files: A Step-by-Step Guide for Windows Users - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/high-definition-santorini-scenery-walls-and-backdrops-premium-digital-artwork-by-yl-software/"><u>High-Definition Santorini Scenery Walls & Backdrops - Premium Digital Artwork by YL Software</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-spot-issues-with-your-gpu-tips-and-tricks-by-yl-software/"><u>How to Spot Issues with Your GPU - Tips and Tricks by YL Software</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/is-your-computer-at-risk-from-heat-investigating-potential-correlation-between-thermal-stress-and-ram-malfunctions/"><u>Is Your Computer at Risk From Heat?: Investigating Potential Correlation Between Thermal Stress and RAM Malfunctions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/speed-up-your-videos-best-time-lapse-apps-for-iphone-and-android/"><u>Speed Up Your Videos Best Time-Lapse Apps for iPhone and Android</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-boost-your-pcs-speed-and-efficiency-with-yl-computing-tips/"><u>Ultimate Guide: Boost Your PC's Speed & Efficiency with YL Computing Tips</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/yl-software-presents-professional-marvel-blade-desktop-artwork-for-pc-customization-enthusiasts/"><u>YL Software Presents Professional Marvel Blade Desktop Artwork for PC Customization Enthusiasts</u></a></li>
 </ul></div>
 
