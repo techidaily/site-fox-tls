@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!
-date: 2024-12-16T19:44:44.044Z
-updated: 2024-12-24T02:40:52.849Z
+date: 2024-12-26T18:22:46.000Z
+updated: 2024-12-29T20:26:16.680Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,22 +73,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-key-techniques-to-optimize-igtv-video-dimensions-for-2024/"><u>[New] Key Techniques to Optimize IGTV Video Dimensions for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-infusing-beats-into-ig-story-posts-without-limits/"><u>[Updated] In 2024, Infusing Beats Into IG Story Posts Without Limits</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-handbook-for-watching-facebook-livestreams/"><u>[Updated] In 2024, The Ultimate Handbook for Watching Facebook Livestreams</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-your-workflow-nvidia-screener-for-2024/"><u>[Updated] Optimizing Your Workflow NVIDIA Screener for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-innovative-imagery-the-art-of-digital-bending-for-2024/"><u>[New] Innovative Imagery The Art of Digital Bending for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-chronicle-conversations-on-google/"><u>[Updated] Chronicle Conversations on Google</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases/"><u>[Updated] In 2024, Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlock-creative-potential-top-10-online-banners-tools-for-2024/"><u>[Updated] Unlock Creative Potential - Top 10 Online Banners Tools for 2024</u></a></li>
 <li><a href="https://fox-tls.techidaily.com/dealing-with-scanner-overload-alerts-tips-and-solutions-by-yl-software-experts/"><u>Dealing with Scanner Overload Alerts? Tips & Solutions by YL Software Experts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-14-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 14 Pro Max Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/easy-guide-to-handling-windows-user-profiles-via-control-panel-tips-from-yl-software/"><u>Easy Guide to Handling Windows User Profiles via Control Panel - Tips From YL Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-instructions-for-keeping-your-ati-radeon-gpu-updated-in-the-world-of-windows-operating-system/"><u>Easy Instructions for Keeping Your ATI Radeon GPU Updated in the World of Windows Operating System</u></a></li>
 <li><a href="https://fox-tls.techidaily.com/exploring-inside-exe-files-a-step-by-step-guide-for-windows-users-insights-from-yl-computing/"><u>Exploring Inside EXE Files: A Step-by-Step Guide for Windows Users - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/high-definition-santorini-scenery-walls-and-backdrops-premium-digital-artwork-by-yl-software/"><u>High-Definition Santorini Scenery Walls & Backdrops - Premium Digital Artwork by YL Software</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-spot-issues-with-your-gpu-tips-and-tricks-by-yl-software/"><u>How to Spot Issues with Your GPU - Tips and Tricks by YL Software</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-applicationexe-stopped-functioning-error-solutions-and-tips/"><u>Fixes for 'Application.exe Stopped Functioning' Error: Solutions & Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
 <li><a href="https://fox-tls.techidaily.com/is-your-computer-at-risk-from-heat-investigating-potential-correlation-between-thermal-stress-and-ram-malfunctions/"><u>Is Your Computer at Risk From Heat?: Investigating Potential Correlation Between Thermal Stress and RAM Malfunctions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/speed-up-your-videos-best-time-lapse-apps-for-iphone-and-android/"><u>Speed Up Your Videos Best Time-Lapse Apps for iPhone and Android</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/recognizing-malfunction-indicators-in-your-pcs-network-adapter-with-help-from-yl-computing-solutions/"><u>Recognizing Malfunction Indicators in Your PC’s Network Adapter with Help From YL Computing Solutions</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/solving-your-audio-woes-diagnosing-common-issues-with-non-functional-sound-cards-insights-from-yl-computing/"><u>Solving Your Audio Woes: Diagnosing Common Issues with Non-Functional Sound Cards - Insights From YL Computing</u></a></li>
 <li><a href="https://fox-tls.techidaily.com/ultimate-guide-boost-your-pcs-speed-and-efficiency-with-yl-computing-tips/"><u>Ultimate Guide: Boost Your PC's Speed & Efficiency with YL Computing Tips</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/yl-software-presents-professional-marvel-blade-desktop-artwork-for-pc-customization-enthusiasts/"><u>YL Software Presents Professional Marvel Blade Desktop Artwork for PC Customization Enthusiasts</u></a></li>
 </ul></div>
 
