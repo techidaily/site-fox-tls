@@ -1,7 +1,7 @@
 ---
 title: Experience New Karaoke Software with Beta Version 0.8.6836 Available for Download | PCDJ Platform
-date: 2024-12-23T17:31:21.437Z
-updated: 2024-12-29T19:19:03.295Z
+date: 2025-01-07T18:36:52.293Z
+updated: 2025-01-08T23:18:05.063Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We invite existing Karaoki users to update to version 0.8.6836 straight away. Ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.6836
@@ -52,7 +52,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about the latest iteration of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,20 +74,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/KARAOKI-betadownload.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>[New] In 2024, Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-modify-mac-screen-shot-storage-path-for-2024/"><u>[New] Modify Mac Screen Shot Storage Path for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-pugilism-power-play-against-viewership-virtue-for-2024/"><u>[Updated] Pugilism Power Play Against Viewership Virtue for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/15l-gaming-desktop-at-only-520-save-almost-40-technews/"><u>15L Gaming Desktop at Only $520 - Save Almost 40% | TechNews</u></a></li>
-<li><a href="https://fox-making.techidaily.com/como-transferir-videos-de-iphone-a-ordenador-y-solucionar-problemas-comunes/"><u>Cómo Transferir Videos De iPhone a Ordenador Y Solucionar Problemas Comunes</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/identifying-factors-impacting-scanner-image-quality-expert-insights-from-yl-computing/"><u>Identifying Factors Impacting Scanner Image Quality: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/karaoke-software-version-085633-released-free-download-on-pcdj/"><u>Karaoke Software Version 0.8.5633 Released - Free Download on PCDJ</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mac-enthusiasts-wanted-test-our-new-simple-karaoke-application-and-help-shape-the-final-product/"><u>Mac Enthusiasts Wanted: Test Our New Simple Karaoke Application & Help Shape the Final Product!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-the-art-of-sound-configuration-in-windows-control-panel-insights-from-abc-digital-experts/"><u>Mastering the Art of Sound Configuration in Windows Control Panel – Insights From ABC Digital Experts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/photo-editing-mastery-leveraging-photoshops-background-eraser-tool-to-perfection-for-2024/"><u>Photo Editing Mastery Leveraging Photoshop's Background Eraser Tool to Perfection for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/sound-driver-refreshment-the-ultimate-fix-for-your-computer-sound-issues-with-yl-software-expertise/"><u>Sound Driver Refreshment: The Ultimate Fix for Your Computer Sound Issues with YL Software Expertise</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/subtitle-extraction-from-zip-archives-the-srt-solution/"><u>Subtitle Extraction From ZIP Archives – The Srt Solution</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/verifying-windows-defender-protection-on-your-device-insights-from-yl-computing/"><u>Verifying Windows Defender Protection on Your Device - Insights From YL Computing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/watch-all-adult-swim-episodes-anytime-with-easy-kodi-addon-setup/"><u>Watch All Adult Swim Episodes Anytime with Easy Kodi Addon Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-back-lost-5ghz-connection-in-windows-11-expert-advice-available/"><u>Win Back Lost 5GHz Connection in Windows 11: Expert Advice Available</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-extractors-a-comprehensible-guide-for-beginners-for-2024/"><u>[New] Free YouTube Extractors A Comprehensible Guide for Beginners for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-premier-streamers-ultimate-concert-selection/"><u>[New] In 2024, Premier Streamers Ultimate Concert Selection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quick-guide-capturing-your-ppt-slide-show/"><u>[Updated] In 2024, Quick Guide Capturing Your PPT Slide Show</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-guide-to-ice-cream-watching-tools-for-2024/"><u>Comprehensive Guide to Ice Cream Watching Tools for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/diagnosing-underpowered-cpu-issues-tips-and-tricks-from-yl-computing-for-maximum-efficiency/"><u>Diagnosing Underpowered CPU Issues: Tips & Tricks From YL Computing for Maximum Efficiency</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/download-the-latest-lyrx-karaoke-software-v19-with-enhanced-sampling-decks-perfect-for-pcdj-users/"><u>Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-k11x-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo K11x Phone Screen?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-effective-is-windows-defender-in-preventing-id-theft-insights-by-yl-computing/"><u>How Effective Is Windows Defender in Preventing ID Theft? Insights by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nubia-z50s-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nubia Z50S Pro Lock Screen Password</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/resetting-your-access-a-detailed-tutorial-for-password-recovery-in-control-panel-yl-software-essentials/"><u>Resetting Your Access: A Detailed Tutorial for Password Recovery in Control Panel - YL Software Essentials</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-dolby-sound-issues-troubleshooting-dolby-driver-failure-to-start-in-windows-10/"><u>Resolving Dolby Sound Issues: Troubleshooting 'Dolby Driver Failure to Start' In Windows 10</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/resolving-system-lags-and-lagging-systems-with-yl-software-solutions/"><u>Resolving System Lags and Lagging Systems With YL Software Solutions</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/soothing-screen-savers-ultimate-collection-of-serene-desktop-wallpapers-hd-backgrounds-and-nature-photos-by-yl-computing/"><u>Soothing Screen Savers: Ultimate Collection of Serene Desktop Wallpapers, HD Backgrounds & Nature Photos by YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-adjusting-screen-resolution-in-windows-10-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Screen Resolution in Windows 10 - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-removing-windows-10-memory-dump-files-with-yl-computings-solutions/"><u>Step-by-Step Guide: Removing Windows 10 Memory Dump Files with YL Computing's Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-beginners-guide-to-using-the-meta-quest-microphone-efficiently/"><u>The Beginner's Guide to Using the Meta Quest Microphone Efficiently</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-essential-guide-for-seamless-tours-master-the-93-key-expressions/"><u>The Essential Guide for Seamless Tours: Master the 93 Key Expressions</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y28-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y28 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-strange-sounds-from-your-scanner-understanding-the-issue-during-power-up/"><u>Troubleshooting Strange Sounds From Your Scanner: Understanding the Issue During Power-Up</u></a></li>
 </ul></div>
 

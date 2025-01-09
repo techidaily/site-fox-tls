@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!
-date: 2024-12-26T18:22:46.000Z
-updated: 2024-12-29T20:26:16.680Z
+date: 2025-01-05T20:55:09.360Z
+updated: 2025-01-08T19:21:31.739Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,18 +73,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-innovative-imagery-the-art-of-digital-bending-for-2024/"><u>[New] Innovative Imagery The Art of Digital Bending for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-chronicle-conversations-on-google/"><u>[Updated] Chronicle Conversations on Google</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases/"><u>[Updated] In 2024, Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlock-creative-potential-top-10-online-banners-tools-for-2024/"><u>[Updated] Unlock Creative Potential - Top 10 Online Banners Tools for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/dealing-with-scanner-overload-alerts-tips-and-solutions-by-yl-software-experts/"><u>Dealing with Scanner Overload Alerts? Tips & Solutions by YL Software Experts</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-inside-exe-files-a-step-by-step-guide-for-windows-users-insights-from-yl-computing/"><u>Exploring Inside EXE Files: A Step-by-Step Guide for Windows Users - Insights From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-applicationexe-stopped-functioning-error-solutions-and-tips/"><u>Fixes for 'Application.exe Stopped Functioning' Error: Solutions & Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/is-your-computer-at-risk-from-heat-investigating-potential-correlation-between-thermal-stress-and-ram-malfunctions/"><u>Is Your Computer at Risk From Heat?: Investigating Potential Correlation Between Thermal Stress and RAM Malfunctions</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/recognizing-malfunction-indicators-in-your-pcs-network-adapter-with-help-from-yl-computing-solutions/"><u>Recognizing Malfunction Indicators in Your PC’s Network Adapter with Help From YL Computing Solutions</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/solving-your-audio-woes-diagnosing-common-issues-with-non-functional-sound-cards-insights-from-yl-computing/"><u>Solving Your Audio Woes: Diagnosing Common Issues with Non-Functional Sound Cards - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/ultimate-guide-boost-your-pcs-speed-and-efficiency-with-yl-computing-tips/"><u>Ultimate Guide: Boost Your PC's Speed & Efficiency with YL Computing Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-soundscapes-enhancing-photography-online-for-2024/"><u>[New] Soundscapes Enhancing Photography Online for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mastering-twitter-cleanup-top-apps-for-efficient-management/"><u>[Updated] In 2024, Mastering Twitter Cleanup Top Apps for Efficient Management</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-effective-strategies-for-enhancing-startupshutdown-processes-insights-from-yl-computing/"><u>1. Effective Strategies for Enhancing Startup/Shutdown Processes - Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-peeling-back-the-curtain-on-youtubes-content-popularity-index/"><u>2024 Approved Peeling Back the Curtain on YouTube's Content Popularity Index</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/diagnosing-underpowered-cpu-issues-tips-and-tricks-from-yl-computing-for-maximum-efficiency/"><u>Diagnosing Underpowered CPU Issues: Tips & Tricks From YL Computing for Maximum Efficiency</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/endlich-gelost-strategien-zum-reaktivieren-deiner-windows-11-backup-funktion-nach-deaktivierungskonflikten/"><u>Endlich Gelöst: Strategien Zum Reaktivieren Deiner Windows 11 Backup-Funktion Nach Deaktivierungskonflikten</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-mac-apps-the-leading-alternatives-to-bandicam-for-2024/"><u>Essential Mac Apps The Leading Alternatives to Bandicam for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/identifying-overheating-problems-expert-tips-from-yl-computings-yl-software-solutions/"><u>Identifying Overheating Problems: Expert Tips From YL Computing's YL Software Solutions</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/resetting-your-access-a-detailed-tutorial-for-password-recovery-in-control-panel-yl-software-essentials/"><u>Resetting Your Access: A Detailed Tutorial for Password Recovery in Control Panel - YL Software Essentials</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/soothing-screen-savers-ultimate-collection-of-serene-desktop-wallpapers-hd-backgrounds-and-nature-photos-by-yl-computing/"><u>Soothing Screen Savers: Ultimate Collection of Serene Desktop Wallpapers, HD Backgrounds & Nature Photos by YL Computing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-photographic-restoration-tool-purchase-and-immediate-use/"><u>Stellar's Photographic Restoration Tool: Purchase & Immediate Use</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-adjusting-screen-resolution-in-windows-10-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Screen Resolution in Windows 10 - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-removing-windows-10-memory-dump-files-with-yl-computings-solutions/"><u>Step-by-Step Guide: Removing Windows 10 Memory Dump Files with YL Computing's Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-future-of-uavs-unveiled-a-comprehensive-review-of-the-dji-mavic-similar-problem/"><u>The Future of UAVs Unveiled - A Comprehensive Review of the DJI Mavic # Similar Problem</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-strange-sounds-from-your-scanner-understanding-the-issue-during-power-up/"><u>Troubleshooting Strange Sounds From Your Scanner: Understanding the Issue During Power-Up</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/understanding-imovies-editing-edge-for-2024/"><u>Understanding iMovie's Editing Edge for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-6-plus-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 6 Plus files after scanning? | Stellar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Displaying File Sizes in Folders
-date: 2024-12-27T20:14:31.519Z
-updated: 2024-12-29T18:16:05.463Z
+date: 2025-01-02T23:15:11.308Z
+updated: 2025-01-08T20:04:51.376Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d01a8b699d519ecb10291bd82.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
@@ -73,10 +73,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -94,6 +90,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -131,6 +131,10 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -144,10 +148,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -176,7 +176,7 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -214,7 +214,7 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -238,7 +238,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -262,7 +262,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -280,24 +280,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-advanced-techniques-for-using-the-instagram-sticker-question-mark/"><u>[New] 2024 Approved Advanced Techniques for Using the Instagram Sticker Question Mark</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-videography-on-fb-horizontal-or-vertical-placement/"><u>[New] Videography on FB Horizontal or Vertical Placement?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-crafting-impact-best-9-video-thumbnail-makers-reviewed-for-2024/"><u>[Updated] Crafting Impact Best 9 Video Thumbnail Makers Reviewed for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-the-latest-version-karaoki-beta-update-085895-now-ready/"><u>Download the Latest Version: Karaoki Beta Update 0.8.5895 Now Ready</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/expert-advice-on-refreshing-your-pc-the-ultimate-walkthrough-for-reinstalling-windows-natively-yl-software-solutions/"><u>Expert Advice on Refreshing Your PC: The Ultimate Walkthrough for Reinstalling Windows Natively - YL Software Solutions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95783003-9781620552551-exploring-the-crack-in-the-cosmic-egg-6th-ed/"><u>Exploring the Crack in the Cosmic Egg (6th ed.) | Free Book</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-stage-to-smartphone-elizabethan-expressions-still-used/"><u>From Stage to Smartphone: Elizabethan Expressions Still Used</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-address-corrupted-scan-outcomes-expert-advice-from-yl-computings-software-solutions/"><u>How to Address Corrupted Scan Outcomes: Expert Advice From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-identify-problematic-graphics-cards-common-symptoms-and-solutions-by-yl-tech-experts/"><u>How to Identify Problematic Graphics Cards: Common Symptoms and Solutions by YL Tech Experts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-14-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 14? Complete Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-open-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-how-to-troubleshoot-and-repair-touchpad-scrolling-on-a-windows-10-laptop/"><u>Step-by-Step Guide: How to Troubleshoot and Repair Touchpad Scrolling on a Windows 10 Laptop</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-navigating-windows-control-panel-for-easy-user-account-management-yl-computing/"><u>Step-by-Step Guide: Navigating Windows Control Panel for Easy User Account Management - YL Computing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-to-replace-old-computer-hardware-by-experts-at-yl-technology-solutions/"><u>Step-by-Step Tutorial to Replace Old Computer Hardware by Experts at YL Technology Solutions</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/strategies-for-fortifying-your-pcs-defense-against-cyberviruses-and-malware-by-yl-software-experts/"><u>Strategies for Fortifying Your PC's Defense Against Cyberviruses & Malware by YL Software Experts</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/the-ultimate-tutorial-on-leveraging-bookmark-features-for-efficient-browsing-with-yl-software-insights/"><u>The Ultimate Tutorial on Leveraging Bookmark Features for Efficient Browsing with YL Software Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-v30-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme V30 FRP Bypass</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/yl-softwares-premium-thanos-wallpapers-set-for-crystal-clear-hd-screens/"><u>YL Software's Premium Thanos Wallpapers Set for Crystal Clear HD Screens</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-young-filmmakers-guide-to-selecting-video-gear/"><u>[Updated] In 2024, The Young Filmmaker's Guide to Selecting Video Gear</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-transforming-social-media-videography-to-hd-clarity-fb/"><u>[Updated] In 2024, Transforming Social Media Videography to HD Clarity (FB)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effective-troubleshooting-steps-for-samsung-smart-tv-subtitle-glitches/"><u>Effective Troubleshooting Steps for Samsung Smart TV Subtitle Glitches</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/me2-satawindows/"><u>M.e2 SATAドライブにWindowsを素早くコピーするガイド</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/praktische-schritte-zum-wiederherstellen-von-geloschten-dateien-aus-dem-papierkorb-auf-ihrem-computer/"><u>Praktische Schritte Zum Wiederherstellen Von Gelöschten Dateien Aus Dem Papierkorb Auf Ihrem Computer</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/schnelles-wiederherstellungsprotokoll-fur-vmware-virtual-machine-mit-mehreren-ansatzen-fur-eine-robuste-disaster-recovery-losung/"><u>Schnelles Wiederherstellungsprotokoll Für VMware Virtual Machine Mit Mehreren Ansätzen Für Eine Robuste Disaster Recovery-Lösung</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-locating-and-reviving-your-itunes-iphone-backups-from-an-outside-hdd/"><u>Step-by-Step Guide: Locating and Reviving Your iTunes iPhone Backups From an Outside HDD</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/track-the-admirers-of-your-visual-stories-mastering-instagram-save-insights/"><u>Track the Admirers of Your Visual Stories: Mastering Instagram Save Insights</u></a></li>
 </ul></div>
 
