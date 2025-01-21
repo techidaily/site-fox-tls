@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!
-date: 2025-01-13T16:53:55.052Z
-updated: 2025-01-14T20:09:35.413Z
+date: 2025-01-13T22:46:49.955Z
+updated: 2025-01-20T22:02:47.647Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,24 +73,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-five-excellent-cameras-for-high-fidelity-movies/"><u>[New] 2024 Approved Top Five Excellent Cameras for High Fidelity Movies</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-ultimate-top-notch-photo-cloud-storages-both-gratis-and-premium-options/"><u>[New] 2024 Approved Ultimate Top-Notch Photo Cloud Storages Both Gratis & Premium Options</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-best-of-both-worlds-2023s-device-agnostic-editors/"><u>[New] The Best of Both Worlds 2023’S Device-Agnostic Editors</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-complete-scan-of-lg-360-modern-updates-review/"><u>[New] The Complete Scan of LG 360 Modern Updates Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-strategic-showcasing-10-essential-tips-to-improve-your-instagram-highlights-for-2024/"><u>[Updated] Strategic Showcasing 10 Essential Tips to Improve Your Instagram Highlights for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/break-the-silence-speak-to-chatgpt/"><u>Break The Silence: Speak To ChatGPT</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-step-by-step-teachings-on-actions-activations-and-software-updates/"><u>Comprehensive Step-by-Step Teachings on Actions, Activations, & Software Updates</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/discover-sj7s-breakthrough-in-high-definition-4k-action-cameras-for-2024/"><u>Discover SJ7’s Breakthrough in High-Definition 4K Action Cameras for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/enhance-security-with-microsoft-365s-free-vpn-feature-essential-tips-to-activate-it-according-to-zdnet/"><u>Enhance Security with Microsoft 365'S Free VPN Feature - Essential Tips to Activate It, According to ZDNet</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-music-downloads-from-emusic-convert-tracks-to-mp3wavaac-formats/"><u>Free Music Downloads From eMusic: Convert Tracks to MP3/WAV/AAC Formats</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/get-video-conversion-downloads-mp4-mov-avi-effortlessly-using-myvidster/"><u>Get Video Conversion Downloads (MP4, MOV, AVI) Effortlessly Using MyVidster.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/harnessing-the-power-of-nvidia-nvenc-for-high-efficiency-h2-gropehevc-screen-recording-technology/"><u>Harnessing the Power of NVIDIA NVENC for High-Efficiency H.2 Grope/HEVC Screen Recording Technology</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-convert-and-save-your-videos-as-mp4-files-from-facebook/"><u>How to Convert and Save Your Videos as MP4 Files From Facebook</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-effortlessly-save-and-convert-yapfiles-videos-as-mp4-mov-or-flv-files-online/"><u>How to Effortlessly Save and Convert YAPfiles Videos as MP4, MOV or FLV Files Online</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-save-your-favorite-tokyo-motion-videos-as-high-quality-mp4s/"><u>How to Save Your Favorite Tokyo Motion Videos as High-Quality MP4s</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-moto-g24-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Moto G24 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/seamless-streaming-hack-tap-into-ondemandkoreas-library-download-without-limits/"><u>Seamless Streaming Hack: Tap Into OnDemandKorea's Library - Download Without Limits!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-downloading-youtube-audio-in-mp3-format-320kpbs-for-pc-and-mac-enthusiasts/"><u>Step-by-Step Guide: Downloading YouTube Audio in MP3 Format (320Kpbs) for PC and MAC Enthusiasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-experts-choice-best-hdmi-21-display-models-evaluated/"><u>[New] Expert's Choice Best HDMI 2.1 Display Models Evaluated</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-navigating-discord-live-a-users-blueprint/"><u>[New] In 2024, Navigating Discord Live A User's Blueprint</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ailored-guide-for-selective-youtube-content-download/"><u>[New] Tailored Guide for Selective YouTube Content Download</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-efficiently-uploading-youtube-vids-to-insta-profile-for-2024/"><u>[Updated] Efficiently Uploading YouTube Vids to Insta Profile for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-sonys-bdp-s6700-a-modernized-take/"><u>2024 Approved Sony's BDP-S6700 A Modernized Take</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/availability-of-wd-anywhere-backup-on-windows-comprehensive-guide/"><u>Availability of WD Anywhere Backup on Windows 지원: Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comment-corriger-le-probleme-de-mise-a-jour-windows-11-version-22h2-non-affiche/"><u>Comment Corriger Le Problème De Mise À Jour Windows 11 Version 22H2 Non Affiché?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descargar-la-herramienta-de-conversion-gratuita-para-transformar-archivos-ts-en-vob-online/"><u>Descargar La Herramienta De Conversión Gratuita Para Transformar Archivos TS en VOB Online</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effiziente-ipad-datenverschiebung-ohne-itunes-schutzstrategie-fur-computer-anleitung-zur-schnellen-methode/"><u>Effiziente IPad-Datenverschiebung Ohne iTunes: Schutzstrategie Für Computer - Anleitung Zur Schnellen Methode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-resolving-typewriter-key-malfunctions-in-computers/"><u>Expert Tips for Resolving Typewriter Key Malfunctions in Computers</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-clone-a-rigid-disk-to-a-sandisk-ssd-for-seamless-performance-on-windows-1011-systems/"><u>How to Clone a Rigid Disk to a SanDisk SSD for Seamless Performance on Windows 10/11 Systems</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/most-common-culprits-behind-sudden-apple-icon-appearance-and-black-screen-on-ipads/"><u>Most Common Culprits Behind Sudden Apple Icon Appearance and Black Screen on iPads</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-y200-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Y200</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-a-guide-to-starting-a-device-with-non-functional-buttons/"><u>Reviving Your iPhone: A Guide to Starting a Device with Non-Functional Buttons</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/secure-your-files-implement-synology-nas-replication-for-robust-twin-storage-management/"><u>Secure Your Files: Implement Synology NAS Replication for Robust, Twin Storage Management</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/secure-your-virtual-environment-with-free-aomei-lite-byte-rollback-and-recovery-for-vmware-systems/"><u>Secure Your Virtual Environment with Free AOMEI Lite Byte Rollback & Recovery for VMware Systems</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/synchronisierungsoption-deaktiviert-titel-andern-bei-behauptung-nicht-auf-allen-geraten-synchronisieren/"><u>Synchronisierungsoption Deaktiviert - Titel Ändern Bei Behauptung 'Nicht Auf Allen Geräten Synchronisieren'</u></a></li>
 </ul></div>
 
