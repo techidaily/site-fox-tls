@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!
-date: 2025-01-13T22:46:49.955Z
-updated: 2025-01-20T22:02:47.647Z
+date: 2025-01-22T01:22:33.405Z
+updated: 2025-01-27T00:50:08.843Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,22 +73,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-experts-choice-best-hdmi-21-display-models-evaluated/"><u>[New] Expert's Choice Best HDMI 2.1 Display Models Evaluated</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-navigating-discord-live-a-users-blueprint/"><u>[New] In 2024, Navigating Discord Live A User's Blueprint</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ailored-guide-for-selective-youtube-content-download/"><u>[New] Tailored Guide for Selective YouTube Content Download</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-efficiently-uploading-youtube-vids-to-insta-profile-for-2024/"><u>[Updated] Efficiently Uploading YouTube Vids to Insta Profile for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-sonys-bdp-s6700-a-modernized-take/"><u>2024 Approved Sony's BDP-S6700 A Modernized Take</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/availability-of-wd-anywhere-backup-on-windows-comprehensive-guide/"><u>Availability of WD Anywhere Backup on Windows 지원: Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comment-corriger-le-probleme-de-mise-a-jour-windows-11-version-22h2-non-affiche/"><u>Comment Corriger Le Problème De Mise À Jour Windows 11 Version 22H2 Non Affiché?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/descargar-la-herramienta-de-conversion-gratuita-para-transformar-archivos-ts-en-vob-online/"><u>Descargar La Herramienta De Conversión Gratuita Para Transformar Archivos TS en VOB Online</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effiziente-ipad-datenverschiebung-ohne-itunes-schutzstrategie-fur-computer-anleitung-zur-schnellen-methode/"><u>Effiziente IPad-Datenverschiebung Ohne iTunes: Schutzstrategie Für Computer - Anleitung Zur Schnellen Methode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-resolving-typewriter-key-malfunctions-in-computers/"><u>Expert Tips for Resolving Typewriter Key Malfunctions in Computers</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-clone-a-rigid-disk-to-a-sandisk-ssd-for-seamless-performance-on-windows-1011-systems/"><u>How to Clone a Rigid Disk to a SanDisk SSD for Seamless Performance on Windows 10/11 Systems</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/most-common-culprits-behind-sudden-apple-icon-appearance-and-black-screen-on-ipads/"><u>Most Common Culprits Behind Sudden Apple Icon Appearance and Black Screen on iPads</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-y200-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Y200</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-a-guide-to-starting-a-device-with-non-functional-buttons/"><u>Reviving Your iPhone: A Guide to Starting a Device with Non-Functional Buttons</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/secure-your-files-implement-synology-nas-replication-for-robust-twin-storage-management/"><u>Secure Your Files: Implement Synology NAS Replication for Robust, Twin Storage Management</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/secure-your-virtual-environment-with-free-aomei-lite-byte-rollback-and-recovery-for-vmware-systems/"><u>Secure Your Virtual Environment with Free AOMEI Lite Byte Rollback & Recovery for VMware Systems</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/synchronisierungsoption-deaktiviert-titel-andern-bei-behauptung-nicht-auf-allen-geraten-synchronisieren/"><u>Synchronisierungsoption Deaktiviert - Titel Ändern Bei Behauptung 'Nicht Auf Allen Geräten Synchronisieren'</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/s-paying-monthly-just-for-ad-free-streaming-or-are-there-more-benefits-for-2024/"><u>[New] Is Paying Monthly Just For Ad-Free Streaming, Or Are There More Benefits for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unveiling-facebooks-video-ratio-options-and-tweaks/"><u>[New] Unveiling Facebook's Video Ratio Options & Tweaks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-essential-tips-for-harnessing-movie-maker-in-windows-8-systems/"><u>[Updated] Essential Tips for Harnessing Movie Maker in Windows 8 Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-microphone-data-review-tips/"><u>[Updated] Microphone Data Review Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10plus-iconic-ae-text-techniques-for-professionals/"><u>10+ Iconic AE Text Techniques for Professionals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-facebook-video-content-success/"><u>2024 Approved Unveiling the Secrets of Facebook Video Content Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-unveils-new-airpower-footage-is-it-a-rebirth-of-their-once-abandoned-qi-charging-mat/"><u>Apple Unveils New AirPower Footage – Is It a Rebirth of Their Once Abandoned Qi Charging Mat?</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/distribuzione-gratuita-di-immagini-e-clonazione-di-rete-con-software-oamei/"><u>Distribuzione Gratuita Di Immagini E Clonazione Di Rete Con Software OAMÉi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>In 2024, Accurate Ranking Top 10 Gratuitous Srt File Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 14 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/kostenlose-transfer-app-fur-ios-wie-man-ihr-iphone-auf-dem-iphone-se-2022-verlasst/"><u>Kostenlose Transfer-App Für iOS: Wie Man Ihr iPhone Auf Dem iPhone SE 2022 Verlässt</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728503653121-outlook/"><u>Outlook メールファイルをコンピュータにダウンロードする手順</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728501687015-pcnas/"><u>PCとシークエンスNAS間で迅速なファイルバックアップ!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-using-aomei-cyber-backup-to-restore-your-microsoft-sql-server/"><u>Step-by-Step Guide: Using AOMEI Cyber Backup to Restore Your Microsoft SQL Server</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-undetected-sata-drives-during-boot-process/"><u>Troubleshooting Undetected SATA Drives During Boot Process</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/tutorial-mengembalikan-foto-yang-hapus-secara-istimewa-pada-windows-11-versi-terbaru/"><u>Tutorial Mengembalikan Foto Yang Hapus Secara Istimewa Pada Windows 11 Versi Terbaru</u></a></li>
 </ul></div>
 
