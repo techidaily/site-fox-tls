@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!
-date: 2025-01-22T01:22:33.405Z
-updated: 2025-01-27T00:50:08.843Z
+date: 2025-02-03T16:41:10.255Z
+updated: 2025-02-08T16:41:05.569Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,21 +73,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/s-paying-monthly-just-for-ad-free-streaming-or-are-there-more-benefits-for-2024/"><u>[New] Is Paying Monthly Just For Ad-Free Streaming, Or Are There More Benefits for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unveiling-facebooks-video-ratio-options-and-tweaks/"><u>[New] Unveiling Facebook's Video Ratio Options & Tweaks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-tips-for-harnessing-movie-maker-in-windows-8-systems/"><u>[Updated] Essential Tips for Harnessing Movie Maker in Windows 8 Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-microphone-data-review-tips/"><u>[Updated] Microphone Data Review Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10plus-iconic-ae-text-techniques-for-professionals/"><u>10+ Iconic AE Text Techniques for Professionals</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-facebook-video-content-success/"><u>2024 Approved Unveiling the Secrets of Facebook Video Content Success</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-unveils-new-airpower-footage-is-it-a-rebirth-of-their-once-abandoned-qi-charging-mat/"><u>Apple Unveils New AirPower Footage – Is It a Rebirth of Their Once Abandoned Qi Charging Mat?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/distribuzione-gratuita-di-immagini-e-clonazione-di-rete-con-software-oamei/"><u>Distribuzione Gratuita Di Immagini E Clonazione Di Rete Con Software OAMÉi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>In 2024, Accurate Ranking Top 10 Gratuitous Srt File Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 14 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/kostenlose-transfer-app-fur-ios-wie-man-ihr-iphone-auf-dem-iphone-se-2022-verlasst/"><u>Kostenlose Transfer-App Für iOS: Wie Man Ihr iPhone Auf Dem iPhone SE 2022 Verlässt</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1728503653121-outlook/"><u>Outlook メールファイルをコンピュータにダウンロードする手順</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1728501687015-pcnas/"><u>PCとシークエンスNAS間で迅速なファイルバックアップ!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-using-aomei-cyber-backup-to-restore-your-microsoft-sql-server/"><u>Step-by-Step Guide: Using AOMEI Cyber Backup to Restore Your Microsoft SQL Server</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/troubleshooting-undetected-sata-drives-during-boot-process/"><u>Troubleshooting Undetected SATA Drives During Boot Process</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/tutorial-mengembalikan-foto-yang-hapus-secara-istimewa-pada-windows-11-versi-terbaru/"><u>Tutorial Mengembalikan Foto Yang Hapus Secara Istimewa Pada Windows 11 Versi Terbaru</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-2023s-ultimate-capture-software-revisited/"><u>[New] 2024 Approved 2023'S Ultimate Capture Software Revisited</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-in-depth-tutorials-on-documenting-ps3-gaming-sessions/"><u>[Updated] 2024 Approved In-Depth Tutorials on Documenting PS3 Gaming Sessions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ranking-the-finest-windows-11-video-grabbers/"><u>[Updated] 2024 Approved Ranking the Finest Windows 11 Video Grabbers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pinnacle-recorders-of-academic-dialogues/"><u>2024 Approved Pinnacle Recorders of Academic Dialogues</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/iphone-idevice/"><u>如何克服 iPhone 回復階段卡死？ - iDevice教育指南</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guia-efectiva-para-la-instalacion-de-un-disco-duro-ssd-en-windows-sin-restaurar-el-sistema/"><u>Guía Efectiva Para La Instalación De Un Disco Duro SSD en Windows Sin Restaurar El Sistema</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-fix-common-errors-during-the-installation-of-windows-server-2019-a-comprehensive-guide/"><u>How to Fix Common Errors During the Installation of Windows Server 2019: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-asus-rog-phone-8-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Asus ROG Phone 8 Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-multiple-ps5-subscriptions-management/"><u>Mastering Multiple PS5 Subscriptions Management</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-how-to-successfully-duplicating-your-bootable-sd-card-in-windows-using-5-simple-steps/"><u>Quick How-To: Successfully Duplicating Your Bootable SD Card in WINDOWS (Using 5 Simple Steps)</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/resolving-startup-problems-with-windows-11-on-optical-media-top-4-methods/"><u>Resolving Startup Problems with Windows 11 on Optical Media - Top 4 Methods</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-steps-to-move-your-video-files-from-computer-to-iphone-itunes-and-non-itunes-methods/"><u>Simple Steps to Move Your Video Files From Computer to iPhone: ITunes & Non-iTunes Methods</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/solving-usb-connection-problems-effective-ways-to-enable-file-sharing-between-device-and-windows-11-pc/"><u>Solving USB Connection Problems: Effective Ways to Enable File Sharing Between Device and Windows 11 PC</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/the-ultimate-list-of-zero-cost-solutions-for-turning-videography-into-text-documentation/"><u>The Ultimate List of Zero-Cost Solutions for Turning Videography Into Text Documentation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-7-hydro-resistant-camcorders-explored/"><u>Top 7 Hydro-Resistant Camcorders Explored</u></a></li>
 </ul></div>
 

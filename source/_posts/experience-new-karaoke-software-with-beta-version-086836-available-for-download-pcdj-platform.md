@@ -1,7 +1,7 @@
 ---
 title: Experience New Karaoke Software with Beta Version 0.8.6836 Available for Download | PCDJ Platform
-date: 2025-01-22T20:54:26.631Z
-updated: 2025-01-26T18:18:45.670Z
+date: 2025-02-03T21:45:30.214Z
+updated: 2025-02-08T20:00:26.102Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We invite existing Karaoki users to update to version 0.8.6836 straight away. Ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.6836
@@ -52,7 +52,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about the latest iteration of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,20 +74,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/KARAOKI-betadownload.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-market-essential-youtube-finance-channels/"><u>[New] In 2024, Mastering the Market Essential YouTube Finance Channels</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-live-radio-transmissions-recorded-with-ease-an-experts-guide/"><u>[New] Live Radio Transmissions Recorded with Ease An Expert's Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-and-easy-iphone-screen-capture-techniques/"><u>2024 Approved Quick and Easy iPhone Screen Capture Techniques</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728490238176-hddssd/"><u>安全にデータ保護しつつ自分でHDDをSSDにアップグレードする方法</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/bestasus-laptops-top-5-models-with-persistent-starting-issues-in-windows-10/"><u>BestASUS Laptops - Top 5 Models with Persistent Starting Issues in Windows 10</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comment-supprimer-plus-facilement-les-photos-indesirables-sur-votre-appareil/"><u>Comment Supprimer Plus Facilement Les Photos Indésirables Sur Votre Appareil</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/embarking-on-changing-onedrives-habitat-within-windows-system/"><u>Embarking on Changing OneDrive's Habitat Within Windows System</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/fotorettung-mit-sd-karten-schnell-und-einfach-wiedergewonnen-kostenlose-methoden-erklart/"><u>Fotorettung Mit SD-Karten: Schnell Und Einfach Wiedergewonnen – Kostenlose Methoden Erklärt</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guide-to-recover-past-versions-of-documents-in-google-drive/"><u>Guide to Recover Past Versions of Documents in Google Drive</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/hdd-windows781011/"><u>HDD拡張ガイド: Windows7/8/10/11用クローニング手順を解析</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-tech-with-toms-in-depth-hardware-analysis/"><u>Navigate the World of Tech with Tom's In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/solve-0x80070015-bitlocker-problems-effective-methods-to-prepare-your-hard-drive/"><u>Solve 0X80070015 BITLocker Problems: Effective Methods to Prepare Your Hard Drive</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/win11/"><u>Win11快速解決: 無法存取資料夾的故障及其簡單修正方式</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-6-easy-free-youtube-closers-for-your-videos-top-picks/"><u>[Updated] In 2024, 6 Easy, Free YouTube Closers for Your Videos (Top Picks)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ranked-your-must-have-5-iphones-for-excellent-podcasting/"><u>2024 Approved Ranked Your Must-Have 5 iPhones for Excellent Podcasting</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-pro-7s-flickering-phenomenon/"><u>Addressing Pro 7'S Flickering Phenomenon</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-clarity-with-these-budget-friendly-tools/"><u>Boost Clarity with These Budget-Friendly Tools</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comment-surmonter-lechec-denregistrement-de-mot-cles-en-francais-strategies-pour-continuer-le-registre/"><u>Comment Surmonter L'Échec D’Enregistrement De Mot-Clés en Français : Stratégies Pour 'Continuer Le Registre'</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-strategies-for-retrieving-data-from-a-malfunctioning-solid-state-drive/"><u>Effective Strategies for Retrieving Data From a Malfunctioning Solid State Drive</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-privacy-share-exclusive-youtube-clips-through-gmail-for-2024/"><u>Elevating Privacy Share Exclusive YouTube Clips Through Gmail for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/hetstevens-verspillende-volume-herstellen-een-duidelijke-leiding-met-windows/"><u>Hetstevens Verspillende Volume Herstellen: Een Duidelijke Leiding Met Windows</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-safeguard-your-data-with-top-freeware-backup-solutions-expert-recommendations/"><u>How to Safeguard Your Data with Top Freeware Backup Solutions: Expert Recommendations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-guide-smooth-gaming-with-no-more-hiccups-or-stutters-on-your-pc-in-ac-valhalla/"><u>Master Guide: Smooth Gaming with No More Hiccups or Stutters on Your PC in AC Valhalla</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/maximizing-performance-a-comprehensive-alienware-enhancement-manual/"><u>Maximizing Performance: A Comprehensive Alienware Enhancement Manual</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/os-melhores-metodos-para-configurar-a-sincronizacao-automatica-de-arquivos-no-windows-versoes-11-10-8-e-7/"><u>Os Melhores Métodos Para Configurar a Sincronização Automática De Arquivos No Windows: Versões 11, 10, 8 E ^[7]</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pathway-to-proficiency-excellent-online-korean-learning-sources/"><u>Pathway to Proficiency: Excellent Online Korean Learning Sources</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/pengumpulan-data-alat-cekalan-5tb-harga-seagate-paling-rmb/"><u>Pengumpulan Data Alat Cekalan 5TB, Harga Seagate Paling RMB</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/solutions-innovantes-aux-defis-du-cliche-instantane-volumineux-une-liste-de-6-techniques-utiles/"><u>Solutions Innovantes Aux Défis Du Cliché Instantané Volumineux : Une Liste De 6 Techniques Utiles</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-setting-up-the-hyper-v-features-using-powershell-on-windows-11-systems-and-servers/"><u>Step-by-Step Guide: Setting up the Hyper-V Features Using PowerShell on Windows 11 Systems and Servers</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/top-docuai-master-how-abbyy-reigned-as-the-2021-pioneer-in-smart-document-solutions-insights-from-isg/"><u>Top DocuAI Master: How ABBYY Reigned as the 2021 Pioneer in Smart Document Solutions - Insights From ISG</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-rtx-gpu-a-comprehensive-guide/"><u>Understanding the RTX GPU: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-news.techidaily.com/verfugbarkeit-von-wd-anywhere-backup-fur-nutzer-von-windows-11/"><u>Verfügbarkeit Von WD Anywhere Backup Für Nutzer Von Windows 11</u></a></li>
 </ul></div>
 
