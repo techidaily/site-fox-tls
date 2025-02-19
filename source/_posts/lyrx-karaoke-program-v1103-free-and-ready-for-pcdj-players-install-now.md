@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Program v1.10.3: Free & Ready for PCDJ Players – Install Now!"
-date: 2025-02-01T20:36:30.410Z
-updated: 2025-02-08T20:54:21.402Z
+date: 2025-02-12T23:31:59.092Z
+updated: 2025-02-18T23:03:21.135Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Updates Included in LYRX 1.10.3
@@ -46,7 +46,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 _Have questions about the latest 1.10.3 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,22 +68,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/12/lyrx1.10.3.jpg?fit=1176%2C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-pinnacle-of-camera-quality-top-18-4k-camcorders-for-2024/"><u>[New] Pinnacle of Camera Quality - Top 18 4K Camcorders for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-vanguard-of-virtual-storage-top-choices/"><u>[Updated] 2024 Approved The Vanguard of Virtual Storage Top Choices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-top-quality-premium-flutter-app-prototypes-from-creative-tim-get-started-now/"><u>Explore Top-Quality Premium Flutter App Prototypes From Creative Tim - Get Started Now!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-material-dashboard-template-with-bootstrap-4-and-admin-panel-creative-tim/"><u>Free Material Dashboard Template with Bootstrap 4 & Admin Panel - Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/free-nextjs-and-tailwind-developer-guide-masterful-courses-and-effortless-landing-templates-by-creative-tim/"><u>Free NextJS & Tailwind Developer Guide: Masterful Courses and Effortless Landing Templates by Creative Tim</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-lava-storm-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Lava Storm 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-huawei-nova-y91-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Huawei Nova Y91 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/livewire-material-dashboard-with-laravel-framework-updivision-and-creative-tim-collaboration/"><u>Livewire Material Dashboard with Laravel Framework – UpDivision and Creative Tim Collaboration</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-bootstrap-4-admin-panel-with-light-theme-pro-version-by-creative-tim/"><u>Professional Bootstrap 4 Admin Panel with Light Theme - Pro Version by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-horizon-ai-framework-integrating-chakra-ui-with-nextjs-by-creative-tim/"><u>Professional Horizon AI Framework: Integrating Chakra UI with NextJS by Creative Tim</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-material-ui-dashboard-template-for-laravel-developers-created-by-creative-tim-and-updivision/"><u>Professional Material UI Dashboard Template for Laravel Developers | Created by Creative Tim and Updivision</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professional-reactaspnet-core-integration-for-ultimate-dashboard-templates-creative-tim-premium-edition/"><u>Professional React/ASP.NET Core Integration for Ultimate Dashboard Templates @ Creative Tim - Premium Edition</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-100-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor 100 FRP</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-career-application-process-using-chatgpt-to-write-resumes/"><u>Transform Your Career Application Process Using ChatGPT to Write Resumes</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-motorola-edge-2023-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola Edge 2023 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unlocking-the-power-of-screencastify-recorder-for-2024/"><u>[New] Unlocking the Power of Screencastify Recorder for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-the-craft-of-epic-gopro-time-lapse-video/"><u>[Updated] In 2024, Mastering the Craft of Epic GoPro Time Lapse Video</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-propeller-choices-mastering-flight-excellence/"><u>2024 Approved Essential Propeller Choices Mastering Flight Excellence</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/annamasart-academy-access-exclusive-online-art-classes-and-educational-video-content-for-free-download/"><u>AnnamasArt Academy: Access Exclusive Online Art Classes and Educational Video Content for Free Download</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/capture-festive-moments-with-these-top-5-holiday-scene-generator-apps/"><u>Capture Festive Moments with These Top 5 Holiday Scene Generator Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-finding-and-installing-updated-sata-drivers-on-windows-computers/"><u>Comprehensive Guide: Finding and Installing Updated SATA Drivers on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-elgato-drivers-in-no-time-step-by-step-tutorial/"><u>How to Get Elgato Drivers in No Time - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-seamlessly-transform-dv-video-footage-into-high-quality-mp4-essential-techniques-unveiled/"><u>How to Seamlessly Transform DV Video Footage Into High-Quality MP4: Essential Techniques Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-expert-tips-for-preserving-your-roblox-playthrough-mac/"><u>In 2024, Expert Tips for Preserving Your Roblox Playthrough (Mac)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-interactive-webinar-writer/"><u>Innovative Interactive Webinar Writer</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-the-art-of-happy-glass-a-comprehensive-guide-to-winning-on-your-computer/"><u>Mastering the Art of 'Happy Glass' - A Comprehensive Guide to Winning on Your Computer</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mcafee-antivirus-a-trusted-protector-or-a-hidden-threat/"><u>McAfee Antivirus: A Trusted Protector or a Hidden Threat?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/one-click-headset-software-updates/"><u>One-Click Headset Software Updates</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/protecting-your-data-expert-solutions-to-windows-10s-privacy-concerns-with-malwarefox/"><u>Protecting Your Data: Expert Solutions to Windows 10'S Privacy Concerns with MalwareFox</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-fixes-effortless-itunes-integration-on-your-iphone/"><u>Quick Fixes: Effortless iTunes Integration on Your iPhone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-picks-enhancing-your-instagram-with-amazing-gifs/"><u>Top Picks: Enhancing Your Instagram with Amazing GIFs</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/upgrade-your-images-with-ipatch-a-comprehensive-guide/"><u>Upgrade Your Images with IPatch: A Comprehensive Guide</u></a></li>
 </ul></div>
 

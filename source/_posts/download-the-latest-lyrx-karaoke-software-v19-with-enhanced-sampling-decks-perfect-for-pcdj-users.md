@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!
-date: 2025-02-03T16:41:10.255Z
-updated: 2025-02-08T16:41:05.569Z
+date: 2025-02-16T00:45:04.080Z
+updated: 2025-02-18T19:26:36.500Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,20 +73,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-2023s-ultimate-capture-software-revisited/"><u>[New] 2024 Approved 2023'S Ultimate Capture Software Revisited</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-in-depth-tutorials-on-documenting-ps3-gaming-sessions/"><u>[Updated] 2024 Approved In-Depth Tutorials on Documenting PS3 Gaming Sessions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ranking-the-finest-windows-11-video-grabbers/"><u>[Updated] 2024 Approved Ranking the Finest Windows 11 Video Grabbers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pinnacle-recorders-of-academic-dialogues/"><u>2024 Approved Pinnacle Recorders of Academic Dialogues</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/iphone-idevice/"><u>如何克服 iPhone 回復階段卡死？ - iDevice教育指南</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guia-efectiva-para-la-instalacion-de-un-disco-duro-ssd-en-windows-sin-restaurar-el-sistema/"><u>Guía Efectiva Para La Instalación De Un Disco Duro SSD en Windows Sin Restaurar El Sistema</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-fix-common-errors-during-the-installation-of-windows-server-2019-a-comprehensive-guide/"><u>How to Fix Common Errors During the Installation of Windows Server 2019: A Comprehensive Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-asus-rog-phone-8-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Asus ROG Phone 8 Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-multiple-ps5-subscriptions-management/"><u>Mastering Multiple PS5 Subscriptions Management</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-how-to-successfully-duplicating-your-bootable-sd-card-in-windows-using-5-simple-steps/"><u>Quick How-To: Successfully Duplicating Your Bootable SD Card in WINDOWS (Using 5 Simple Steps)</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/resolving-startup-problems-with-windows-11-on-optical-media-top-4-methods/"><u>Resolving Startup Problems with Windows 11 on Optical Media - Top 4 Methods</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/simple-steps-to-move-your-video-files-from-computer-to-iphone-itunes-and-non-itunes-methods/"><u>Simple Steps to Move Your Video Files From Computer to iPhone: ITunes & Non-iTunes Methods</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/solving-usb-connection-problems-effective-ways-to-enable-file-sharing-between-device-and-windows-11-pc/"><u>Solving USB Connection Problems: Effective Ways to Enable File Sharing Between Device and Windows 11 PC</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/the-ultimate-list-of-zero-cost-solutions-for-turning-videography-into-text-documentation/"><u>The Ultimate List of Zero-Cost Solutions for Turning Videography Into Text Documentation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-7-hydro-resistant-camcorders-explored/"><u>Top 7 Hydro-Resistant Camcorders Explored</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-pristine-story-conception-in-eight-genre-divisions/"><u>[New] 2024 Approved Pristine Story Conception in Eight Genre Divisions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-simplified-guide-to-using-virtual-whiteboards-in-zoom-platforms/"><u>[New] 2024 Approved Simplified Guide to Using Virtual Whiteboards in Zoom Platforms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-infuse-your-visuals-with-melody-adding-music-in-youtube-editing/"><u>[Updated] Infuse Your Visuals With Melody Adding Music in YouTube Editing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-ryzen-graphics-and-processor-drivers-for-pcs-begin-your-free-installation/"><u>AMD Ryzen Graphics & Processor Drivers for PCs - Begin Your Free Installation</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comment-surmonter-lechec-denregistrement-de-mot-cles-en-francais-strategies-pour-continuer-le-registre/"><u>Comment Surmonter L'Échec D’Enregistrement De Mot-Clés en Français : Stratégies Pour 'Continuer Le Registre'</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/hetstevens-verspillende-volume-herstellen-een-duidelijke-leiding-met-windows/"><u>Hetstevens Verspillende Volume Herstellen: Een Duidelijke Leiding Met Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oneplus-nord-n30-se-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your OnePlus Nord N30 SE Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lettori-dvd-piu-affidabili-e-gratuiti-compatibili-con-windows-11-una-selezione-di-top-3/"><u>Lettori DVD Più Affidabili E Gratuiti Compatibili Con Windows 11: Una Selezione Di Top 3</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/maximizing-performance-a-comprehensive-alienware-enhancement-manual/"><u>Maximizing Performance: A Comprehensive Alienware Enhancement Manual</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/os-melhores-metodos-para-configurar-a-sincronizacao-automatica-de-arquivos-no-windows-versoes-11-10-8-e-7/"><u>Os Melhores Métodos Para Configurar a Sincronização Automática De Arquivos No Windows: Versões 11, 10, 8 E ^[7]</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/pengumpulan-data-alat-cekalan-5tb-harga-seagate-paling-rmb/"><u>Pengumpulan Data Alat Cekalan 5TB, Harga Seagate Paling RMB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solutions-for-overcoming-the-dark-side-of-streaming-eliminating-youtubes-black-screen-problem/"><u>Solutions for Overcoming the Dark Side of Streaming: Eliminating YouTube's Black Screen Problem</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/solutions-innovantes-aux-defis-du-cliche-instantane-volumineux-une-liste-de-6-techniques-utiles/"><u>Solutions Innovantes Aux Défis Du Cliché Instantané Volumineux : Une Liste De 6 Techniques Utiles</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-setting-up-the-hyper-v-features-using-powershell-on-windows-11-systems-and-servers/"><u>Step-by-Step Guide: Setting up the Hyper-V Features Using PowerShell on Windows 11 Systems and Servers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-lgs-enchanting-steam-powered-wardrobe-available-at-a-discount/"><u>Unveiling LG's Enchanting Steam-Powered Wardrobe - Available at a Discount!</u></a></li>
 </ul></div>
 
