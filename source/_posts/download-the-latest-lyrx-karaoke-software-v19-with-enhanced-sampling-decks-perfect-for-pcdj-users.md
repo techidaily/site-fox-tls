@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Software (v1.9) with Enhanced Sampling Decks – Perfect for PCDJ Users!
-date: 2025-02-16T00:45:04.080Z
-updated: 2025-02-18T19:26:36.500Z
+date: 2025-03-02T16:14:01.794Z
+updated: 2025-03-07T07:13:28.006Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New, Updated, and Fixed in LYRX 1.19
 
 * The 2 included skins (interfaces) now have a brand-new Samples tab (with 6 samplers) – use for sound effects, jingles, etc
@@ -49,10 +45,6 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 **IMPORTANT NOTE:** If you receive this warning _“setup\_LYRX\_1.19\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina or above, [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX.
 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -73,20 +65,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-pristine-story-conception-in-eight-genre-divisions/"><u>[New] 2024 Approved Pristine Story Conception in Eight Genre Divisions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-simplified-guide-to-using-virtual-whiteboards-in-zoom-platforms/"><u>[New] 2024 Approved Simplified Guide to Using Virtual Whiteboards in Zoom Platforms</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-infuse-your-visuals-with-melody-adding-music-in-youtube-editing/"><u>[Updated] Infuse Your Visuals With Melody Adding Music in YouTube Editing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-ryzen-graphics-and-processor-drivers-for-pcs-begin-your-free-installation/"><u>AMD Ryzen Graphics & Processor Drivers for PCs - Begin Your Free Installation</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comment-surmonter-lechec-denregistrement-de-mot-cles-en-francais-strategies-pour-continuer-le-registre/"><u>Comment Surmonter L'Échec D’Enregistrement De Mot-Clés en Français : Stratégies Pour 'Continuer Le Registre'</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/hetstevens-verspillende-volume-herstellen-een-duidelijke-leiding-met-windows/"><u>Hetstevens Verspillende Volume Herstellen: Een Duidelijke Leiding Met Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oneplus-nord-n30-se-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your OnePlus Nord N30 SE Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/lettori-dvd-piu-affidabili-e-gratuiti-compatibili-con-windows-11-una-selezione-di-top-3/"><u>Lettori DVD Più Affidabili E Gratuiti Compatibili Con Windows 11: Una Selezione Di Top 3</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/maximizing-performance-a-comprehensive-alienware-enhancement-manual/"><u>Maximizing Performance: A Comprehensive Alienware Enhancement Manual</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/os-melhores-metodos-para-configurar-a-sincronizacao-automatica-de-arquivos-no-windows-versoes-11-10-8-e-7/"><u>Os Melhores Métodos Para Configurar a Sincronização Automática De Arquivos No Windows: Versões 11, 10, 8 E ^[7]</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/pengumpulan-data-alat-cekalan-5tb-harga-seagate-paling-rmb/"><u>Pengumpulan Data Alat Cekalan 5TB, Harga Seagate Paling RMB</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solutions-for-overcoming-the-dark-side-of-streaming-eliminating-youtubes-black-screen-problem/"><u>Solutions for Overcoming the Dark Side of Streaming: Eliminating YouTube's Black Screen Problem</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/solutions-innovantes-aux-defis-du-cliche-instantane-volumineux-une-liste-de-6-techniques-utiles/"><u>Solutions Innovantes Aux Défis Du Cliché Instantané Volumineux : Une Liste De 6 Techniques Utiles</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-setting-up-the-hyper-v-features-using-powershell-on-windows-11-systems-and-servers/"><u>Step-by-Step Guide: Setting up the Hyper-V Features Using PowerShell on Windows 11 Systems and Servers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-lgs-enchanting-steam-powered-wardrobe-available-at-a-discount/"><u>Unveiling LG's Enchanting Steam-Powered Wardrobe - Available at a Discount!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-fraps-your-go-to-screen-recorder/"><u>[Updated] Fraps Your Go-To Screen Recorder?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-6-masterpieces-designing-mc-village-homes-for-2024/"><u>[Updated] Top 6 Masterpieces Designing MC Village Homes for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-securely-growing-your-channels-popularity-a-one-million-goal-guide/"><u>2024 Approved Securely Growing Your Channel's Popularity A One-Million Goal Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-honor-x9b-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Honor X9b to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-linux-vm-preservation-and-retrieval-techniques-a-beginners-tutorial/"><u>Effortless Linux VM Preservation & Retrieval Techniques | A Beginner's Tutorial</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/experts-complete-walkthrough-for-factory-restoring-the-hard-disk-on-windows-11-computers/"><u>Expert's Complete Walkthrough for Factory Restoring the Hard Disk on Windows 11 Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-rhythm-reviews-sound-innovations/"><u>In 2024, Rhythm Reviews Sound Innovations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ultimate-capture-assistant-az-audits-and-alternatives/"><u>In 2024, Ultimate Capture Assistant - AZ Audits & Alternatives</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/schritt-fur-schritt-guide-fur-die-datenwiedergewinnung-von-entfernten-dateien-aus-usbs-mit-windows-nativen-tools/"><u>Schritt-Für-Schritt-Guide Für Die Datenwiedergewinnung Von Entfernten Dateien Aus USBs Mit Windows Nativen Tools</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-to-setting-up-a-factory-reset-partition-in-various-versions-of-windows/"><u>Step-by-Step Guide to Setting Up a Factory Reset Partition in Various Versions of Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-x50-gt-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor X50 GT for Streaming | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/webinar-invitation-strategies-for-safeguarding-finances-from-fraud-and-money-laundering/"><u>Webinar Invitation: Strategies for Safeguarding Finances From Fraud & Money Laundering</u></a></li>
 </ul></div>
 
